@@ -19,11 +19,18 @@ when you gaze into the abyss, the abyss also gazes into you.
 the uniform doesn't fit him
 （6） be destined to do / for sth
 he was destined to play the roles.
-（7） 
-（8） 
-（9） 
-（10）
-
+（7） seal the deal : 敲定交易，达成协议
+（8） entourage: 随从，周围，环境
+Among his ~ was a retired general.
+（9） secretary : [ˈsekrəteri]
+（10）stab: 刺，戳，捅，扎
+（11）flawless [ˈflɔːləs]: ~ performance
+  (12) simultaneous: ~ interpreting device
+  (13) be pointing to : 指向，表明，暗示，证明
+  The arrow is ~ to the exit.
+  Evidence ~ to ...证据证明
+  （14）suspicious：be ~ of sb/sth 怀疑 I am ~ of her true motives.
+  (15) contest:  [ˈkɑːntest]比赛
 第一步：
 
 检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md判断单词/短语是否已经存在。如果已经存在，并更新索引内容中的ReviewCount， 加1，并返回单词/短语内容，修改单词/短语内容中的Updated为最新日期。
