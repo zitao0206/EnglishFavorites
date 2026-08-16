@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Vocabulary/index.md",
-                "mode": "preview",
+                "file": "00 Vocabulary/WorkBuddy.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "WorkBuddy"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "3823f8881567f66a",
   "lastOpenFiles": [
-    "00 Vocabulary/WorkBuddy.md",
+    "00 Vocabulary/Words/M/monologue.md",
     "00 Vocabulary/index.md",
+    "00 Vocabulary/WorkBuddy.md",
     "00 Vocabulary/templates/WorkBuddy命令.md",
     "00 Vocabulary/WorkBuddy命令.md",
     "00 Vocabulary/Words/P/postgraduate.md",

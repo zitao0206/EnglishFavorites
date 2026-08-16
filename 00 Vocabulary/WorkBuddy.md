@@ -1,15 +1,20 @@
-新建单词/短语 postgraduate：
+新建单词/短语 monologue：
 
-1. 检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md判断单词/短语是否已经存在。如果单词已经存在，并更新索引内容中的ReviewCount， 加1，并返回单词内容
+第一步：
 
-2. 判断单词/短语首字母，分别在仓库 ：
+检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md判断单词/短语是否已经存在。如果单词已经存在，并更新索引内容中的ReviewCount， 加1，并返回单词内容
+
+第二步：
+
+判断单词/短语首字母，分别在仓库 ：
 /Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/Words
 或者
 /Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/Phrases
 文件夹下，查找对应首字母的文件夹，进入，新建文件以单词命名的文件：word.md 或者 name_of_the_phrase.md
    
-   
-3. 文件内容，参考模版如下：
+第三步：
+
+文件内容，参考模版如下：
 
 参考一：word模版：
 ### lateness 
@@ -56,12 +61,24 @@ phr&v. To think someone or something is inferior or not important.
 
 
 
-3. 更新索引：
+第四步：
 
-索引地址：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md
+更新索引，索引地址：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md
 
 在索引文件里，追加一行索引记录： lateness | ReviewCount: 1 | Words/L/lateness.md  或
 在索引文件里，追加一行索引记录： look_down_upon | ReviewCount: 1 | Phrases/L/look_down_upon.md 
+
+
+第五步：
+对应的更新push到github地址如下：
+
+git@github.com:zitao0206/EnglishFavorites.git
+
+命令大概如下：
+git add -A 
+git commit -am "add new vocabularies" / git commit -am "update vocabularies"
+git push
+
 
 
 
