@@ -1,9 +1,8 @@
-### linger
-[ˈlɪŋɡər]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+### linger
+[ˈlɪŋɡər]
 
 **Desp**
 v. to stay in a place longer than necessary; to remain or persist.

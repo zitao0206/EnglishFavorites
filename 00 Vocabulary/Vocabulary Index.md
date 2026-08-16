@@ -24,7 +24,7 @@ contest | ReviewCount: 1 | Words/C/contest.md
 Phrases:
 behind_the_scenes | ReviewCount: 1 | Phrases/B/behind_the_scenes.md
 read_the_room | ReviewCount: 1 | Phrases/R/read_the_room.md
-bargain_hunters | ReviewCount: 1 | Phrases/B/bargain_hunters.md
+bargain_hunter | ReviewCount: 1 | Phrases/B/bargain_hunter.md
 be_right_in_the_middle_of | ReviewCount: 1 | Phrases/B/be_right_in_the_middle_of.md
 with_good_grace | ReviewCount: 1 | Phrases/W/with_good_grace.md
 be_oriented | ReviewCount: 1 | Phrases/B/be_oriented.md
@@ -35,7 +35,6 @@ look_down_upon | ReviewCount: 1 | Phrases/L/look_down_upon.md
 the_status_quo | ReviewCount: 1 | Phrases/T/the_status_quo.md
 emerging_research | ReviewCount: 1 | Phrases/E/emerging_research.md
 slippery_slope | ReviewCount: 1 | Phrases/S/slippery_slope.md
-missile_launcher | ReviewCount: 1 | Phrases/M/missile_launcher.md
 the_trump_administration | ReviewCount: 1 | Phrases/T/the_trump_administration.md
 privileged_few | ReviewCount: 1 | Phrases/P/privileged_few.md
 our_peers | ReviewCount: 1 | Phrases/O/our_peers.md

@@ -40,12 +40,13 @@
 文件的内容，如果原文中有备注，要保留至文件中。
 
 单词word参考模版如下：
-### lateness 
-[ˈleɪtnəs]
 
 🕒 Updated: 2026‑08‑15 
 📅 Created: 2026‑08‑15 
 📌 ReviewCount: 1
+
+### lateness 
+[ˈleɪtnəs]
 
 **Desp**
 n. The state of arriving or happening after the expected or scheduled time.
@@ -62,11 +63,11 @@ n. The state of arriving or happening after the expected or scheduled time.
 
 
 短语phrase参考模版如下：
-### look down upon
 
 🕒 Updated: 2026‑08‑15 
 📅 Created: 2026‑08‑15 
 📌 ReviewCount: 1
+### look down upon
 
 **Desp**
 

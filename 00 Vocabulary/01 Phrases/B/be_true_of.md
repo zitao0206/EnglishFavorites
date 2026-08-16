@@ -1,9 +1,8 @@
-### be true of
-[bi truː əv]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+### be true of
+[bi truː əv]
 
 **Desp**
 

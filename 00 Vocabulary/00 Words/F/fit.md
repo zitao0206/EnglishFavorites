@@ -1,9 +1,8 @@
-### fit
-[fɪt]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+### fit
+[fɪt]
 
 **Desp**
 v. to be the right size or shape for someone/something; to be suitable.

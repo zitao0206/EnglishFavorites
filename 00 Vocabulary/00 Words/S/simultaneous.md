@@ -1,9 +1,8 @@
-### simultaneous
-[ˌsaɪmlˈteɪniəs]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+### simultaneous
+[ˌsaɪmlˈteɪniəs]
 
 **Desp**
 adj. happening, done, or existing at the same time.

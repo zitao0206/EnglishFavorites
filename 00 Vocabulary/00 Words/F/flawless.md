@@ -1,10 +1,8 @@
-### flawless
-[ˈflɔːləs]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
-
+### flawless
+[ˈflɔːləs]
 **Desp**
 adj. without any flaws; perfect.
 完美无瑕的，无懈可击的

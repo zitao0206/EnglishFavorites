@@ -1,10 +1,8 @@
-### stab
-[stæb]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
-
+### stab
+[stæb]
 **Desp**
 v. to thrust a knife or other pointed weapon into someone/something.
 刺，戳，捅，扎

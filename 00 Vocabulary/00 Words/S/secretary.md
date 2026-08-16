@@ -1,9 +1,8 @@
-### secretary
-[ˈsekrəteri]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+### secretary
+[ˈsekrəteri]
 
 **Desp**
 n. a person employed by an organization to assist with clerical and administrative tasks; a senior official of a department or organization.

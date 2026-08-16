@@ -1,11 +1,8 @@
-
-### be caught  
-[bi kɔːt]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
-
+### be caught  
+ 
 **Desp**
 
 phr. (catch 的过去分词) 被夹在，陷入；遇上；被抓住；遭到。

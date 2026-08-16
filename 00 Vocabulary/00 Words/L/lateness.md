@@ -1,9 +1,9 @@
-### lateness 
-[ˈleɪtnəs]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 2
+
+### lateness 
+[ˈleɪtnəs]
 
 **Desp**
 n. The state of arriving or happening after the expected or scheduled time.

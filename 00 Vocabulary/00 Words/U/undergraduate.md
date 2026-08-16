@@ -1,9 +1,9 @@
-### undergraduate 
-[ˌʌndərˈɡrædʒuət]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+
+### undergraduate 
+[ˌʌndərˈɡrædʒuət]
 
 **Desp**
 n. A university student who has not yet received a bachelor's degree.

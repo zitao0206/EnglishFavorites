@@ -1,11 +1,8 @@
-### look down upon
-
-**Desp**
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
-
+### look down upon
+**Desp**
 phr&v. To think someone or something is inferior or not important.
 看不起，轻视（核心：因偏见或优越感而贬低他人）
 

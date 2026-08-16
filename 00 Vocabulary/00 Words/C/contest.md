@@ -1,9 +1,8 @@
-### contest
-[ˈkɑːntest]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+### contest
+[ˈkɑːntest]
 
 **Desp**
 n. a competition, event, or struggle to win something.

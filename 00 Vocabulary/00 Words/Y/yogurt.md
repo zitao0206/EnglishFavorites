@@ -1,9 +1,8 @@
-### yogurt
-[ˈjoʊɡərt]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+### yogurt
+[ˈjoʊɡərt]
 
 **Desp**
 n. a dairy product made from fermented milk.

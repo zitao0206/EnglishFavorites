@@ -1,9 +1,9 @@
-### restroom
-[ˈrestruːm]
 
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+### restroom
+[ˈrestruːm]
 
 **Desp**
 n. a public toilet; a bathroom in a public place.

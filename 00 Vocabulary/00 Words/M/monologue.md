@@ -1,9 +1,9 @@
-### monologue
-[ˈmɑːnəlɔːɡ]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+
+### monologue
+[ˈmɑːnəlɔːɡ]
 
 **Desp**
 n. A long speech by one speaker, especially in a play, film, or conversation.

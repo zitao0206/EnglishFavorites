@@ -1,9 +1,8 @@
-### entourage
-[ˌɑːntəˈrɑːʒ]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+### entourage
+[ˌɑːntəˈrɑːʒ]
 
 **Desp**
 n. a group of people attending or surrounding an important person; surroundings.

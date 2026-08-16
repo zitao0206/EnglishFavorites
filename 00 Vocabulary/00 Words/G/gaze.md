@@ -1,9 +1,8 @@
-### gaze
-[ɡeɪz]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
+### gaze
+[ɡeɪz]
 
 **Desp**
 v. to look steadily and intently, especially in admiration, surprise, or thought.

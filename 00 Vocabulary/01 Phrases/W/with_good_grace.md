@@ -1,10 +1,8 @@
-### with good grace
-[wɪð ɡʊd ɡreɪs]
-
 🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
 📌 ReviewCount: 1
-
+### with good grace
+[wɪð ɡʊd ɡreɪs]
 **Desp**
 
 phr. willingly and politely, without complaining
