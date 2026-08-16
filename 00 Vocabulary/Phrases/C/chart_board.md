@@ -1,12 +1,17 @@
 ### chart board
 [tʃɑːrt bɔːrd]
 
+🕒 Updated: 2026-08-16
+📅 Created: 2026-08-16
 📌 ReviewCount: 1
 
 **Desp**
 
 phr. A board or panel displaying charts; similar to a dashboard.
-表格/图表板，类似 dashboard（仪表盘）
+表格/图表板，
+
+**Extension**
+dash board 仪表盘
 
 **Usages**
 

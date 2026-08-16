@@ -1,4 +1,4 @@
-新建单词/短语：
+新建短语：
 （1）the status quo
 [kwoʊ] maintain/keep the status quo
 
@@ -14,46 +14,23 @@ The rule applies to all employees, and the same is true of the managers.
 
 第一步：
 
-检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md判断单词/短语是否已经存在。如果单词已经存在，并更新索引内容中的ReviewCount， 加1，并返回单词内容
+检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md判断短语是否已经存在。如果已经存在，并更新索引内容中的ReviewCount， 加1，并返回单词内容
 
 第二步：
 
-判断单词/短语首字母，分别在仓库 ：
-/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/Words
-或者
+判断短语首字母，分别在仓库 ：
 /Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/Phrases
-文件夹下，查找对应首字母的文件夹，进入，新建文件以单词命名的文件：word.md 或者 name_of_the_phrase.md
+文件夹下，查找对应首字母的文件夹，进入，新建文件以单词命名的文件：name_of_the_phrase.md
    
 第三步：
 
 文件内容，如果原文中有备注，要保留。
 
 参考模版如下：
-
-参考一：word模版：
-### lateness 
-[ˈleɪtnəs]
-
-📌 ReviewCount: 1
-
-**Desp**
-n. The state of arriving or happening after the expected or scheduled time.
-迟到，迟延（late的名词形式）
-
-**Usages**
-- chronic lateness 习惯性迟到
-- due to lateness 因迟到
-
-**Examples**
-1. His lateness made everyone miss the beginning of the movie. 他迟到导致大家都错过了电影开头。
-2. The teacher gave her a warning because of repeated lateness. 老师因她屡次迟到而提出警告。
-3. Lateness at work can hurt your reputation. 上班迟到会损害你的声誉。
-
-
-参考二：phrase模版：
-
 ### look down upon
 
+🕒 LastReviewed: 2026‑08‑15 
+📅 Created: 2026‑08‑15 
 📌 ReviewCount: 1
 
 **Desp**
@@ -78,8 +55,6 @@ phr&v. To think someone or something is inferior or not important.
 第四步：
 
 更新索引，索引地址：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md
-
-在索引文件里，追加一行索引记录： lateness | ReviewCount: 1 | Words/L/lateness.md  或
 在索引文件里，追加一行索引记录： look_down_upon | ReviewCount: 1 | Phrases/L/look_down_upon.md 
 
 

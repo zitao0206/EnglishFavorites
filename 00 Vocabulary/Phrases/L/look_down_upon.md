@@ -2,6 +2,8 @@
 
 **Desp**
 
+🕒 Updated: 2026-08-16
+📅 Created: 2026-08-16
 📌 ReviewCount: 1
 
 phr&v. To think someone or something is inferior or not important.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Vocabulary/WorkBuddy.md",
+                "file": "00 Vocabulary/Phrases/T/the_status_quo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WorkBuddy"
+              "title": "the_status_quo"
             }
           }
         ]
@@ -55,9 +55,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2026‑08‑16",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -72,14 +72,15 @@
             "state": {
               "type": "bookmarks",
               "state": {
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-bookmark",
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Vocabulary/Phrases/L/look_down_upon.md",
+                "file": "00 Vocabulary/Phrases/T/the_status_quo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,21 +189,25 @@
       "bases:新建数据库": false
     }
   },
-  "active": "643b27e8cbdc1870",
+  "active": "3823f8881567f66a",
   "lastOpenFiles": [
-    "00 Vocabulary/WorkBuddy_副本.md",
+    "00 Vocabulary/Phrases/T/the_trump_administration.md",
+    "00 Vocabulary/Phrases/T/the_status_quo.md",
+    "00 Vocabulary/WorkBuddy_For_Phrase.md",
+    "00 Vocabulary/WorkBuddy_For_Word.md",
+    "00 Vocabulary/index.md",
     "00 Vocabulary/Phrases/C/chart_board.md",
-    "00 Vocabulary/Phrases/O/our_peers.md",
+    "未命名.base",
     "00 Vocabulary/Phrases/B/be_true_of.md",
+    "00 Vocabulary/Phrases/O/our_peers.md",
+    "00 Vocabulary/Phrases/S/slippery_slope.md",
+    "00 Vocabulary/WorkBuddy.md",
+    "00 Vocabulary/WorkBuddy_For_words.md",
+    "00 Vocabulary/WorkBuddy_副本.md",
     "00 Vocabulary/Phrases/M/missile_launcher.md",
     "00 Vocabulary/Phrases/P/privileged_few.md",
     "00 Vocabulary/Phrases/E/emerging_research.md",
-    "00 Vocabulary/Phrases/T/the_trump_administration.md",
-    "00 Vocabulary/Phrases/S/slippery_slope.md",
-    "00 Vocabulary/Phrases/T/the_status_quo.md",
     "00 Vocabulary/Words/M/monologue.md",
-    "00 Vocabulary/index.md",
-    "00 Vocabulary/WorkBuddy.md",
     "00 Vocabulary/templates/WorkBuddy命令.md",
     "00 Vocabulary/WorkBuddy命令.md",
     "00 Vocabulary/Words/P/postgraduate.md",
@@ -214,7 +219,6 @@
     "00 Vocabulary/Words/U/undergraduate.md",
     "00 Vocabulary/Phrases/L/look_down_upon.md",
     "00 Vocabulary/Words/U",
-    "00 Vocabulary的替身",
-    "00 Vocabulary/Words/L/lateness.md"
+    "00 Vocabulary的替身"
   ]
 }
