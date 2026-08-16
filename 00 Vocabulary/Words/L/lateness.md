@@ -1,7 +1,7 @@
 ### lateness 
 [ˈleɪtnəs]
 
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 **Desp**
 n. The state of arriving or happening after the expected or scheduled time.
