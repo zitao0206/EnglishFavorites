@@ -10,27 +10,16 @@
   (10)
   
 新建单词/短语：
-（1） yogurt
-（2） gaze: 
-when you gaze into the abyss, the abyss also gazes into you.
-（3） linger
-（4） restroom：公共厕所，卫生间
-（5）fit
-the uniform doesn't fit him
-（6） be destined to do / for sth
-he was destined to play the roles.
-（7） seal the deal : 敲定交易，达成协议
-（8） entourage: 随从，周围，环境
-Among his ~ was a retired general.
-（9） secretary : [ˈsekrəteri]
-（10）stab: 刺，戳，捅，扎
-（11）flawless [ˈflɔːləs]: ~ performance
-  (12) simultaneous: ~ interpreting device
-  (13) be pointing to : 指向，表明，暗示，证明
-  The arrow is ~ to the exit.
-  Evidence ~ to ...证据证明
-  （14）suspicious：be ~ of sb/sth 怀疑 I am ~ of her true motives.
-  (15) contest:  [ˈkɑːntest]比赛
+（1）behind the scenes: 在幕后，在暗中
+（2） read the room: 读懂现场，察言观色(感知环境中人的情绪、态度、潜台词等) （look at emotions）
+（3） bargain hunters: 淘便宜货的人，捡漏顾客，薅羊毛的消费者
+（4） 
+（5） 
+（6） 
+（7） 
+（8） 
+（9） 
+  (10)
 第一步：
 
 检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md判断单词/短语是否已经存在。如果已经存在，并更新索引内容中的ReviewCount， 加1，并返回单词/短语内容，修改单词/短语内容中的Updated为最新日期。
@@ -104,7 +93,9 @@ phr&v. To think someone or something is inferior or not important.
 或：
 在索引文件里，追加一行索引记录： look_down_upon | ReviewCount: 1 | Phrases/L/look_down_upon.md 
 
-
+注意：
+（1）索引文件，上班部分为单词word索引，下半部分为短语phrase索引。
+（2）插入索引时，应该默认插入到第一条；
 
 
 
