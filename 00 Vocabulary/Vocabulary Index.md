@@ -2,6 +2,25 @@
 **Vocabulary | ReviewCount: 数值 | 文件相对路径**
 
 Words: 
+speculate | ReviewCount: 1 | Words/S/speculate.md
+hinder | ReviewCount: 1 | Words/H/hinder.md
+acclimate | ReviewCount: 1 | Words/A/acclimate.md
+integral | ReviewCount: 1 | Words/I/integral.md
+realm | ReviewCount: 1 | Words/R/realm.md
+prospective | ReviewCount: 1 | Words/P/prospective.md
+crisp | ReviewCount: 1 | Words/C/crisp.md
+rigorous | ReviewCount: 1 | Words/R/rigorous.md
+sophisticated | ReviewCount: 1 | Words/S/sophisticated.md
+solemn | ReviewCount: 1 | Words/S/solemn.md
+hypothesis | ReviewCount: 1 | Words/H/hypothesis.md
+hurdle | ReviewCount: 1 | Words/H/hurdle.md
+oath | ReviewCount: 1 | Words/O/oath.md
+numb | ReviewCount: 1 | Words/N/numb.md
+inflame | ReviewCount: 1 | Words/I/inflame.md
+dizzy | ReviewCount: 1 | Words/D/dizzy.md
+theoretical | ReviewCount: 1 | Words/T/theoretical.md
+bittersweet | ReviewCount: 1 | Words/B/bittersweet.md
+respective | ReviewCount: 1 | Words/R/respective.md
 baldness | ReviewCount: 1 | Words/B/baldness.md
 raise | ReviewCount: 1 | Words/R/raise.md
 lateness | ReviewCount: 2 | Words/L/lateness.md

@@ -10,16 +10,48 @@
   (10)
   
 新建单词/短语：
-（1）behind the scenes: 在幕后，在暗中
-（2） read the room: 读懂现场，察言观色(感知环境中人的情绪、态度、潜台词等) （look at emotions）
-（3） bargain hunters: 淘便宜货的人，捡漏顾客，薅羊毛的消费者
-（4） 
-（5） 
-（6） 
-（7） 
-（8） 
-（9） 
-  (10)
+**词汇** **(20): respective**
+
+**词汇** **(19): bittersweet**
+
+**词汇** **(18): theoretical**
+
+**词汇** **(17): dizzy**
+
+**词汇** **(16): inflame**
+
+  
+
+**词汇** **(15): numb**
+
+**词汇** **(14): oath**
+
+**词汇** **(13): hurdle**
+
+**词汇** **(12): hypothesis**
+
+
+**词汇** **(9): solemn**
+
+**词汇** **(10): sophisticated**
+
+**词汇** **(8): rigorous**
+
+**词汇** **(7): crisp**
+
+**词汇** **(6): prospective**
+
+  
+
+**词汇** **(5): realm**
+
+**词汇** **(4): integral**
+
+**词汇** **(3): acclimate**
+
+**词汇** **(2): hinder**
+
+**词汇** **(1): speculate**
 第一步：
 
 检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md判断单词/短语是否已经存在。如果已经存在，并更新索引内容中的ReviewCount， 加1，并返回单词/短语内容，修改单词/短语内容中的Updated为最新日期。
