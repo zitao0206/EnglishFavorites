@@ -1,118 +1,77 @@
   
 新建单词/短语：
 
-# Page 52
-1. befall v. 降临，发生于…身上(多指灾难厄运)
-    - A great misfortune befell his family.一场巨大的不幸降临到他家人身上。
-2. reign [reɪn] n.统治，在位期；主宰 v.统治，盛行
-    - the reign of Queen Elizabeth 伊丽莎白女王在位时期
-    - Silence reigned everywhere.四下一片寂静。
-    - AI‑technology continues to reign supreme.人工智能技术继续占据至高地位。
-3. scrape [skreɪp] v.刮除，擦伤，刮坏
-4. amnesia [æmˈniːziə] n.健忘症，记忆缺失
+
+## Page 86‑1
  
+- increment [ˈɪŋkrəmənt] n. 增长；adj. 渐进的
+- chore [tʃɔː(r)] n. 家务活，差事
 
-# Page 53
-1. barrier [ˈbæriə(r)] n.障碍
-    - language barrier 语言障碍
-2. ever since 自从…以后
-    - ever since 2058 自2058年以来
-3. commercial [kəˈmɜːʃl] adj.商业的
-4. aerospace [ˈeərəʊspeɪs] n./adj.航空航天工业；航空航天的
-    - aerospace industry 航空航天产业
-    - aero‑ = air‑ 空气、航空
-5. spring up 突然出现，涌现
-    - New cafes have sprung up everywhere.到处新开了很多咖啡店。
+## Page 86‑2
 
-# Page 54
 
-2. hibernate [ˈhaɪbəneɪt] v.冬眠，蛰伏
-    - go into hibernation 进入冬眠
-3. under my administration 在我的管辖范围内
-4. brainwave n.脑电波
-5. instability [ˌɪnstəˈbɪləti] n.不稳定，动荡，不稳固
-    - political instability 政局动荡
-    - economic instability 经济不稳定
-
-# Page 55
-1. troubleshoot v.故障排查
-    - troubleshoot errors / troubleshooting guide 故障排查手册
-2. disrupt v.扰乱，打乱，中断
-3. stutter [ˈstʌtə(r)] v.口吃，结结巴巴说话
-    - He stutters when he's nervous.他紧张的时候会口吃。
-4. tentative [ˈtentətɪv] adj.试探性的，不确定的，暂定的，初步的
-    - tentative plan / tentative steps 试探性方案、初步方案
-5. jot down [dʒɒt daʊn] 随手记下，草草记录
-    - Let me jot down your phone number.让我记下你的手机号。
-
-# Page 56
-1. self‑esteem n.自尊，自负
-    - high self‑esteem 高度自尊、自信
-    - boost self‑esteem 提升自信心
-    - Success helps build self‑esteem.成功有助于建立自信。
-2. consistent [kənˈsɪstənt] adj.一贯的，始终如一的
-    - be consistent with … 与…一致
-    - You need to keep a consistent schedule to improve your sleep.你需要坚持规律作息改善睡眠。
-    - His words are not consistent with his actions.他言行不一。
-3. top‑down 自上而下
-    - The company uses a top‑down management style.这家公司采用自上而下的管理模式。
-  [反] bottom‑up 自下而上
-    - We adopted a bottom‑up approach to collect team ideas.我们采用自下而上的方式收集团队想法。
-4. execution [ˌeksɪˈkjuːʃn] n.执行，落实，实施
-    - The plan is great, but the execution is flawed.方案很棒，但是执行有缺陷。
-
-# Page 57
-1. trivial [ˈtrɪviəl] adj.琐碎的，无关紧要的
-    - Don't waste time on trivial arguments.不要把时间浪费在无谓的争吵上。
-2. scope [skəʊp] n.范围，范畴，边界
-    - scope of work 工作范围
-3. scale up 扩容，扩大规模 ↔ scale down 缩减规模
-    - We need to scale up the large‑language‑model for global users.我们需要为全球用户扩大大模型的规模。
-4. underdog n.弱者，不被看好的一方；逆袭故事
-    - underdog story 逆袭故事
-    - She always stands up for the underdog.她总是为弱势一方发声。
-
-# Page 58
-1. reasonable adj.合理的
-    - The price is reasonable and affordable.价格合理且负担得起。
-2. co‑founder n.联合创始人
-    - He is the co‑founder and CEO of this tech‑startup.他是这家科技初创公司的联合创始人兼首席执行官。
-3. startup n.初创公司
-    - tech‑startup 科技初创企业
-4. know‑how n.情报；专门技术诀窍，实操技能
-    - The company has rich technical know‑how in AI‑development.这家公司拥有深厚的人工智能开发技术经验。
-5. trade‑off n.权衡，取舍
-    - a trade‑off between A and B 在A与B之间权衡取舍
-    - We traded off cost against performance.我们在成本和性能之间做了权衡。
-
-# Page 59
-1. enterprise n.企业，公司；事业心
-    - private enterprise 私营企业
-    - She is a woman of great enterprise.她事业心很强。
-2. ego [ˈiːɡəʊ] n.自我，自尊心
-    - Don't let your ego stop you from asking questions.不要碍于自尊而不敢提问。
-    - big‑ego / huge‑ego 自大、极强的自尊心
-    - put one’s ego aside 放下身段，放下自我执念
-3. long‑horizon [həˈraɪzn] n.长远视角，长期周期
-    - long‑horizon investment 长期投资周期
-4. realistic [ˌriːəˈlɪstɪk] adj.现实实际的，务实的
-    - realistic goal / realistic plan 切合实际的目标、计划
-    - realistic graphics 逼真的画面
-    - practical / pragmatic 务实的
-
-# Page 60
-1. to some extent 在某种程度上
-
-2. obsession [əbˈseʃn] n.痴迷，执念
-    - Discover your newest obsession at Costco.在好市多找到你的新心头好。
-    - With him, gambling is an obsession.对于他来说赌博是一种执念。
+## Page 87
+- deficit [ˈdefɪsɪt] n. 亏损，赤字，不足额；trade deficit 贸易逆差
+- surplus [ˈsɜːpləs] n. 过剩，剩余，过剂量；adj. 过剩的，多余的
  
+## Page 88
+- hold off 阻止，拖延，暂缓
+- counsel [ˈkaʊnsl] n. 忠告，建议；v. 商议；keep one's counsel 保留意见，不表态
+- quantify [ˈkwɒntɪfaɪ] v. 测定…的数量，量化
+- decisive [dɪˈsaɪsɪv] adj. 果断的，决断的，决定性的
+- enabler [ɪˈneɪblə(r)] n. 使能器，赋能者，支持者
+- personnel [ˌpɜːsəˈnel] n. 人员，组织，全体人员
+
+## Page 89
+- assess [əˈses] v. 评估，评定 (=evaluate)
+- access [ˈækses] n./v. 入口；接入，访问
+- implication [ˌɪmplɪˈkeɪʃn] n. 可能影响，后果；imply v. 暗示，意味着
+- counter [ˈkaʊntə(r)] n. 柜台；对手；v. 反驳，反击，抵制
+- strengthen [ˈstreŋθn] v. 使变强；（情感、决心）更加坚强
+- reaffirm [ˌriːəˈfɜːm] vt. 再确定，重申
+
+- adversary [ˈædvəsəri] n. 敌人，对手；adj. 敌对的，作对的
+- capitulate [kəˈpɪtʃuleɪt] v. 认输，屈服
+- retain [rɪˈteɪn] v. 保留，保存
+- hedge [hedʒ] n./v. 对冲（风险），防范风险；手段，防范措施
+
+## Page 90
+- precedent [ˈpresɪdənt] n. 先例，前例；set a precedent 开创先例
+- bravado [brəˈvɑːdəʊ] n. 虚张声势，冒险
  
-  
+- casualty [ˈkæʒuəlti] n. 伤亡人员，受害者
+- mentality [menˈtæləti] n. 心态，思维模式，想法
+- exacerbate [ɪɡˈzæsəbeɪt] v. 使恶化，加剧
+- resilient [rɪˈzɪliənt] adj. 有复原力，坚韧的
+- pattern [ˈpætn] n. 图案，花样; 模式，规律;方式；v. 用图案装饰，给……加上花样; 仿效
+- excel [ɪkˈsel] v. 擅长，突出；excel at / be good at
+- chaotic [keɪˈɒtɪk] adj. 混乱的，无序的
 
+## Page 93
+- intent [ɪnˈtent] n. 目的，意图，故意；adj. 专注的，坚决的
+- nuance [njuˈɑːns] n. 细微差别；cultural nuance 文化细微差别
+- skyrocket v/n. 冲天火箭，飞速上涨，猛涨
+- diagnose [ˈdaɪəɡnəʊz] v. 诊断，找出原因
 
+## Page 94‑3
+- cue [kjuː] n. 暗示，提示；social cue 社交暗示，信号
+- dismissive adj. 轻蔑的，鄙视的，不屑一顾的
+- radar [ˈreɪdɑː(r)] n. 雷达；直觉感知能力
+- revenue [ˈrevənjuː] n.（组织的）收入，收益，税收收入
+- opposite [ˈɒpəzɪt] adj. 完全相反的，不同的
 
- 
+## Page 95
+- flip [flɪp] v. 快速翻动，浏览；翻转
+- sustainable [səˈsteɪnəbl] adj.（计划、体制）可持续的
+- artisan [ˌɑːtɪˈzæn] n. 手工艺人 (=craftsman)
+- irreplaceable [ˌɪrɪˈpleɪsəbl] adj. 不可替代的，独一无二的
+- fantasy [ˈfæntəsi] n. 幻想，空想，奇幻
+
+## Page 96‑98
+- lump v. 把…归并；lump oneself in with sb 将自己归入某人群
+
+- counsellor [ˈkaʊnsələ(r)] n. 顾问，咨询师；school counsellor 学校辅导员
+
  
 
 

@@ -5,7 +5,7 @@
 
 **Desp**
 
-v. 募集、筹措（资金）（金融高频动词）
+v. 募集、筹措（资金）（金融高频动词）; 提出（问题、担忧、诉求）
 
 💡【区分】（raise多义）
 ‑ raise money：筹集资金
@@ -16,6 +16,8 @@ v. 募集、筹措（资金）（金融高频动词）
 ‑ raise + 金额  筹集……资金
 ‑ raise funds / capital 募资、融资
 ‑ raise about + 金额 大约筹得多少钱
+‑ raise concerns 提出担忧 
+‑ raise demands / appeals 提出诉求
 
 **Examples**
 1. The startup plans to raise about $2 billion in its latest funding round.

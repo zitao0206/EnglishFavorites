@@ -1,0 +1,6 @@
+referee [ˌrefəˈriː] n. 裁判员
+4. pitch n. 球场；v. 投掷
+    - football pitch 足球场
+- 
+- 1. send off 寄出，派遣；（体育）罚下
+    - be sent off 被（红牌）罚下场

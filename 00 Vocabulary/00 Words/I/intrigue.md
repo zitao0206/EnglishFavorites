@@ -6,8 +6,8 @@
 [ɪnˈtriːɡ]
 
 **Desp**
-v./n. To make someone very interested and curious; secret or underhanded scheming.
-激起……的好奇心；（n.）阴谋，密谋
+v/n. To make someone very interested and curious; secret or underhanded scheming.
+v. 激起……的好奇心；n. 阴谋，密谋
 
 **Usages**
 - intrigue sb 引起某人兴趣
