@@ -32,53 +32,9 @@
 
 **词汇** **(41): landscape**
 
-  
-
-**词汇** **(40): recruit**
-
-**词汇** **(39): customized**
-
-**词汇** **(38): spark** 
-
-**词汇** **(37): retention** 
-
-**词汇** **(36): undergo** 
 
   
 
-**词汇** **(35): netizen**
-
-**词汇** **(34): disgrace**
-
-**词汇** **(33): craft**
-
-**词汇** **(32): pivotal** 
-
-**词汇** **(31): pitfall**
-
-  
-
-**词汇** **(30): underrate**
-
-**词汇** **(29):  involution**
-
-**词汇** **(28): compatible** 
-
-**词汇** **(27): ironic**
-
-**词汇** **(26): solidify**
-
-  
-
-**词汇** **(25): asynchronous** 
-
-**词汇** **(24): prioritize** 
-
-**词汇** **(23): constant** 
-
-**词汇** **(22): go Dutch**
-
-**词汇** **(21): decorate**
 第一步：
 
 检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/vocabMap.md判断单词/短语是否已经存在。如果已经存在，并更新索引内容中的ReviewCount， 加1，并返回单词/短语内容，修改单词/短语内容中的Updated为最新日期。
@@ -159,7 +115,10 @@ phr&v. To think someone or something is inferior or not important.
 
 
 
-第五步（可选，每天只执行一次）：
+第五步：
+
+默认不提交到github。
+
 对应的更新push到github地址如下：
 
 git@github.com:zitao0206/EnglishFavorites.git

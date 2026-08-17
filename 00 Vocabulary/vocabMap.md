@@ -1,94 +1,94 @@
 
-**Vocabulary | ReviewCount: 数值 | 文件相对路径**
+**Vocabulary | 文件相对路径**
 
 Words: 
-explode | ReviewCount: 1 | Words/E/explode.md
-undermine | ReviewCount: 1 | Words/U/undermine.md
-previous | ReviewCount: 1 | Words/P/previous.md
-efficient | ReviewCount: 1 | Words/E/efficient.md
-permanent | ReviewCount: 1 | Words/P/permanent.md
-atomic | ReviewCount: 1 | Words/A/atomic.md
-expressive | ReviewCount: 1 | Words/E/expressive.md
-enthusiastic | ReviewCount: 1 | Words/E/enthusiastic.md
-specific | ReviewCount: 1 | Words/S/specific.md
-landscape | ReviewCount: 1 | Words/L/landscape.md
-recruit | ReviewCount: 1 | Words/R/recruit.md
-customized | ReviewCount: 1 | Words/C/customized.md
-spark | ReviewCount: 1 | Words/S/spark.md
-retention | ReviewCount: 1 | Words/R/retention.md
-undergo | ReviewCount: 1 | Words/U/undergo.md
-netizen | ReviewCount: 1 | Words/N/netizen.md
-disgrace | ReviewCount: 1 | Words/D/disgrace.md
-craft | ReviewCount: 1 | Words/C/craft.md
-pivotal | ReviewCount: 1 | Words/P/pivotal.md
-pitfall | ReviewCount: 1 | Words/P/pitfall.md
-underrate | ReviewCount: 1 | Words/U/underrate.md
-involution | ReviewCount: 1 | Words/I/involution.md
-compatible | ReviewCount: 1 | Words/C/compatible.md
-ironic | ReviewCount: 1 | Words/I/ironic.md
-solidify | ReviewCount: 1 | Words/S/solidify.md
-asynchronous | ReviewCount: 1 | Words/A/asynchronous.md
-prioritize | ReviewCount: 1 | Words/P/prioritize.md
-constant | ReviewCount: 1 | Words/C/constant.md
-decorate | ReviewCount: 1 | Words/D/decorate.md
-speculate | ReviewCount: 1 | Words/S/speculate.md
-hinder | ReviewCount: 1 | Words/H/hinder.md
-acclimate | ReviewCount: 1 | Words/A/acclimate.md
-integral | ReviewCount: 1 | Words/I/integral.md
-realm | ReviewCount: 1 | Words/R/realm.md
-prospective | ReviewCount: 1 | Words/P/prospective.md
-crisp | ReviewCount: 1 | Words/C/crisp.md
-rigorous | ReviewCount: 1 | Words/R/rigorous.md
-sophisticated | ReviewCount: 1 | Words/S/sophisticated.md
-solemn | ReviewCount: 1 | Words/S/solemn.md
-hypothesis | ReviewCount: 1 | Words/H/hypothesis.md
-hurdle | ReviewCount: 1 | Words/H/hurdle.md
-oath | ReviewCount: 1 | Words/O/oath.md
-numb | ReviewCount: 1 | Words/N/numb.md
-inflame | ReviewCount: 1 | Words/I/inflame.md
-dizzy | ReviewCount: 1 | Words/D/dizzy.md
-theoretical | ReviewCount: 1 | Words/T/theoretical.md
-bittersweet | ReviewCount: 1 | Words/B/bittersweet.md
-respective | ReviewCount: 1 | Words/R/respective.md
-baldness | ReviewCount: 1 | Words/B/baldness.md
-raise | ReviewCount: 1 | Words/R/raise.md
-lateness | ReviewCount: 2 | Words/L/lateness.md
-undergraduate | ReviewCount: 1 | Words/U/undergraduate.md
-postgraduate | ReviewCount: 1 | Words/P/postgraduate.md
-monologue | ReviewCount: 1 | Words/M/monologue.md
-yogurt | ReviewCount: 1 | Words/Y/yogurt.md
-gaze | ReviewCount: 1 | Words/G/gaze.md
-linger | ReviewCount: 1 | Words/L/linger.md
-restroom | ReviewCount: 1 | Words/R/restroom.md
-fit | ReviewCount: 1 | Words/F/fit.md
-entourage | ReviewCount: 1 | Words/E/entourage.md
-secretary | ReviewCount: 1 | Words/S/secretary.md
-stab | ReviewCount: 1 | Words/S/stab.md
-flawless | ReviewCount: 1 | Words/F/flawless.md
-simultaneous | ReviewCount: 1 | Words/S/simultaneous.md
-suspicious | ReviewCount: 1 | Words/S/suspicious.md
-contest | ReviewCount: 1 | Words/C/contest.md
+explode | Words/E/explode.md
+undermine | Words/U/undermine.md
+previous | Words/P/previous.md
+efficient | Words/E/efficient.md
+permanent | Words/P/permanent.md
+atomic | Words/A/atomic.md
+expressive | Words/E/expressive.md
+enthusiastic | Words/E/enthusiastic.md
+specific | Words/S/specific.md
+landscape | Words/L/landscape.md
+recruit | Words/R/recruit.md
+customized | Words/C/customized.md
+spark | Words/S/spark.md
+retention | Words/R/retention.md
+undergo | Words/U/undergo.md
+netizen | Words/N/netizen.md
+disgrace | Words/D/disgrace.md
+craft | Words/C/craft.md
+pivotal | Words/P/pivotal.md
+pitfall | Words/P/pitfall.md
+underrate | Words/U/underrate.md
+involution | Words/I/involution.md
+compatible | Words/C/compatible.md
+ironic | Words/I/ironic.md
+solidify | Words/S/solidify.md
+asynchronous | Words/A/asynchronous.md
+prioritize | Words/P/prioritize.md
+constant | Words/C/constant.md
+decorate | Words/D/decorate.md
+speculate | Words/S/speculate.md
+hinder | Words/H/hinder.md
+acclimate | Words/A/acclimate.md
+integral | Words/I/integral.md
+realm | Words/R/realm.md
+prospective | Words/P/prospective.md
+crisp | Words/C/crisp.md
+rigorous | Words/R/rigorous.md
+sophisticated | Words/S/sophisticated.md
+solemn | Words/S/solemn.md
+hypothesis | Words/H/hypothesis.md
+hurdle | Words/H/hurdle.md
+oath | Words/O/oath.md
+numb | Words/N/numb.md
+inflame | Words/I/inflame.md
+dizzy | Words/D/dizzy.md
+theoretical | Words/T/theoretical.md
+bittersweet | Words/B/bittersweet.md
+respective | Words/R/respective.md
+baldness | Words/B/baldness.md
+raise | Words/R/raise.md
+lateness | Words/L/lateness.md
+undergraduate | Words/U/undergraduate.md
+postgraduate | Words/P/postgraduate.md
+monologue | Words/M/monologue.md
+yogurt | Words/Y/yogurt.md
+gaze | Words/G/gaze.md
+linger | Words/L/linger.md
+restroom | Words/R/restroom.md
+fit | Words/F/fit.md
+entourage | Words/E/entourage.md
+secretary | Words/S/secretary.md
+stab | Words/S/stab.md
+flawless | Words/F/flawless.md
+simultaneous | Words/S/simultaneous.md
+suspicious | Words/S/suspicious.md
+contest | Words/C/contest.md
 
 Phrases:
-go_dutch | ReviewCount: 1 | Phrases/G/go_dutch.md
-behind_the_scenes | ReviewCount: 1 | Phrases/B/behind_the_scenes.md
-read_the_room | ReviewCount: 1 | Phrases/R/read_the_room.md
-bargain_hunter | ReviewCount: 1 | Phrases/B/bargain_hunter.md
-be_right_in_the_middle_of | ReviewCount: 1 | Phrases/B/be_right_in_the_middle_of.md
-with_good_grace | ReviewCount: 1 | Phrases/W/with_good_grace.md
-be_oriented | ReviewCount: 1 | Phrases/B/be_oriented.md
-in_the_quicksand_of | ReviewCount: 1 | Phrases/I/in_the_quicksand_of.md
-be_caught | ReviewCount: 1 | Phrases/B/be_caught.md
-sort_of | ReviewCount: 1 | Phrases/S/sort_of.md
-look_down_upon | ReviewCount: 1 | Phrases/L/look_down_upon.md
-the_status_quo | ReviewCount: 1 | Phrases/T/the_status_quo.md
-emerging_research | ReviewCount: 1 | Phrases/E/emerging_research.md
-slippery_slope | ReviewCount: 1 | Phrases/S/slippery_slope.md
-the_trump_administration | ReviewCount: 1 | Phrases/T/the_trump_administration.md
-privileged_few | ReviewCount: 1 | Phrases/P/privileged_few.md
-our_peers | ReviewCount: 1 | Phrases/O/our_peers.md
-chart_board | ReviewCount: 1 | Phrases/C/chart_board.md
-be_true_of | ReviewCount: 1 | Phrases/B/be_true_of.md
-be_destined_to | ReviewCount: 1 | Phrases/B/be_destined_to.md
-seal_the_deal | ReviewCount: 1 | Phrases/S/seal_the_deal.md
-be_pointing_to | ReviewCount: 1 | Phrases/B/be_pointing_to.md
+go_dutch | Phrases/G/go_dutch.md
+behind_the_scenes | Phrases/B/behind_the_scenes.md
+read_the_room | Phrases/R/read_the_room.md
+bargain_hunter | Phrases/B/bargain_hunter.md
+be_right_in_the_middle_of | Phrases/B/be_right_in_the_middle_of.md
+with_good_grace | Phrases/W/with_good_grace.md
+be_oriented | Phrases/B/be_oriented.md
+in_the_quicksand_of | Phrases/I/in_the_quicksand_of.md
+be_caught | Phrases/B/be_caught.md
+sort_of | Phrases/S/sort_of.md
+look_down_upon | Phrases/L/look_down_upon.md
+the_status_quo | Phrases/T/the_status_quo.md
+emerging_research | Phrases/E/emerging_research.md
+slippery_slope | Phrases/S/slippery_slope.md
+the_trump_administration | Phrases/T/the_trump_administration.md
+privileged_few | Phrases/P/privileged_few.md
+our_peers | Phrases/O/our_peers.md
+chart_board | Phrases/C/chart_board.md
+be_true_of | Phrases/B/be_true_of.md
+be_destined_to | Phrases/B/be_destined_to.md
+seal_the_deal | Phrases/S/seal_the_deal.md
+be_pointing_to | Phrases/B/be_pointing_to.md
