@@ -617,7 +617,7 @@ simultaneous | Words/S/simultaneous.md
 suspicious | Words/S/suspicious.md
 contest | Words/C/contest.md
 
-Phrases(Count: 78):
+Phrases(Count: 77):
 
 be_meant_for | Phrases/B/be_meant_for.md
 more_of | Phrases/M/more_of.md
@@ -626,7 +626,6 @@ star_power | Phrases/S/star_power.md
 be_subject_to | Phrases/B/be_subject_to.md
 be_preoccupied_with | Phrases/B/be_preoccupied_with.md
 go_rogue | Phrases/G/go_rogue.md
-high_heels | Phrases/H/high_heels.md
 hold_off | Phrases/H/hold_off.md
 stand_up_for | Phrases/S/stand_up_for.md
 bring_down | Phrases/B/bring_down.md

@@ -2,7 +2,8 @@
 📅 Created: 2026-08-17
 📌 ReviewCount: 1
 
-### go rogue
+### go rogue 
+[roʊɡ]
 
 **Desp**
 
