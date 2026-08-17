@@ -1,0 +1,20 @@
+🕒 Updated: 2026-08-17
+📅 Created: 2026-08-17
+📌 ReviewCount: 1
+
+### attendee
+[əˌtenˈdiː]
+
+**Desp**
+n. A person who attends an event, meeting, etc.
+出席者，参加者
+
+**Usages**
+- conference attendees 会议出席者
+- an attendee of 参加……的人
+- attendees at the event 活动参与者
+
+**Examples**
+1. The conference attracted over 1,000 attendees. 会议吸引了1000多名与会者。
+2. Each attendee received a gift bag. 每位与会者都收到了礼品袋。
+3. Attendees are asked to register in advance. 参加者需提前登记。

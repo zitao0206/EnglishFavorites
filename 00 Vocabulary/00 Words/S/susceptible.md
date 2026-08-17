@@ -1,0 +1,20 @@
+🕒 Updated: 2026-08-17
+📅 Created: 2026-08-17
+📌 ReviewCount: 1
+
+### susceptible
+[səˈseptəbl]
+
+**Desp**
+adj. Easily influenced or harmed by something.
+易受影响的；易感染的；易受感动的
+
+**Usages**
+- be susceptible to colds 易感冒
+- susceptible to influence 易受影响
+- susceptible children 易受感动的孩子
+
+**Examples**
+1. Children are more susceptible to the virus. 儿童更容易感染这种病毒。
+2. Young people are susceptible to peer pressure. 年轻人容易受到同龄人的压力影响。
+3. The system is susceptible to hacking. 这个系统容易受到黑客攻击。

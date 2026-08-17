@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-17
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### hypothesis
 [haɪˈpɑːθəsɪs]
@@ -8,6 +8,7 @@
 **Desp**
 n. A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.
 假设，假说
+【复】hypotheses
 
 **Usages**
 - test a hypothesis 验证假设

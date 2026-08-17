@@ -1,6 +1,6 @@
 🕒 Updated: 2026-08-17
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### previous
 [ˈpriːviəs]
@@ -13,6 +13,7 @@ adj. Existing or occurring before in time or order.
 - previous experience 以往经验
 - previous day 前一天
 - have no previous experience 没有先前经验
+- previously adv. 先前，以前
 
 **Examples**
 1. She has no previous experience in teaching. 她之前没有教学经验。

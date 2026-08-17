@@ -1,0 +1,20 @@
+🕒 Updated: 2026-08-17
+📅 Created: 2026-08-17
+📌 ReviewCount: 1
+
+### pinhole
+[ˈpɪnhəʊl]
+
+**Desp**
+n. A very small hole, like one made by a pin.
+小孔，针眼，针孔
+
+**Usages**
+- pinhole camera 针孔相机
+- a pinhole in the fabric 布料上的针孔
+- pinhole leak 针孔泄漏
+
+**Examples**
+1. A pinhole camera was hidden in the smoke detector. 烟雾报警器里藏了一台针孔相机。
+2. There was a pinhole in the curtain letting in light. 窗帘上有个小孔透进光来。
+3. Light leaked through a pinhole in the wall. 光从墙上的针孔漏了进来。

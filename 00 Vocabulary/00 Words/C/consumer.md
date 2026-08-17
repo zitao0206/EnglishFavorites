@@ -1,0 +1,19 @@
+🕒 Updated: 2026-08-17
+📅 Created: 2026-08-17
+📌 ReviewCount: 1
+
+### consumer
+[kənˈsjuːmə(r)]
+
+**Desp**
+n. A person who buys goods and services (= customer).
+消费者，顾客
+
+**Usages**
+- consumer demand 消费者需求
+- consumer rights 消费者权益
+- consumer spending 消费支出
+
+**Examples**
+1. Consumer demand for electric cars is rising. 消费者对电动汽车的需求在上升。
+2. The company listens to consumer feedback. 公司倾听消费者反馈。
