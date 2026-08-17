@@ -10,51 +10,78 @@
   (10)
   
 新建单词/短语：
-**词汇** **(20): respective**
+**词汇** **(50): explode** 
 
-**词汇** **(19): bittersweet**
+**词汇** **(49): undermine**
 
-**词汇** **(18): theoretical**
+**词汇** **(48): previous**
 
-**词汇** **(17): dizzy**
+**词汇** **(47): efficient**
 
-**词汇** **(16): inflame**
-
-  
-
-**词汇** **(15): numb**
-
-**词汇** **(14): oath**
-
-**词汇** **(13): hurdle**
-
-**词汇** **(12): hypothesis**
-
-
-**词汇** **(9): solemn**
-
-**词汇** **(10): sophisticated**
-
-**词汇** **(8): rigorous**
-
-**词汇** **(7): crisp**
-
-**词汇** **(6): prospective**
+**词汇** **(46): permanent**
 
   
 
-**词汇** **(5): realm**
+**词汇** **(45): atomic**
 
-**词汇** **(4): integral**
+**词汇** **(44): expressive**
 
-**词汇** **(3): acclimate**
+**词汇** **(43): enthusiastic**
 
-**词汇** **(2): hinder**
+**词汇** **(42): specific**
 
-**词汇** **(1): speculate**
+**词汇** **(41): landscape**
+
+  
+
+**词汇** **(40): recruit**
+
+**词汇** **(39): customized**
+
+**词汇** **(38): spark** 
+
+**词汇** **(37): retention** 
+
+**词汇** **(36): undergo** 
+
+  
+
+**词汇** **(35): netizen**
+
+**词汇** **(34): disgrace**
+
+**词汇** **(33): craft**
+
+**词汇** **(32): pivotal** 
+
+**词汇** **(31): pitfall**
+
+  
+
+**词汇** **(30): underrate**
+
+**词汇** **(29):  involution**
+
+**词汇** **(28): compatible** 
+
+**词汇** **(27): ironic**
+
+**词汇** **(26): solidify**
+
+  
+
+**词汇** **(25): asynchronous** 
+
+**词汇** **(24): prioritize** 
+
+**词汇** **(23): constant** 
+
+**词汇** **(22): go Dutch**
+
+**词汇** **(21): decorate**
 第一步：
 
-检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md判断单词/短语是否已经存在。如果已经存在，并更新索引内容中的ReviewCount， 加1，并返回单词/短语内容，修改单词/短语内容中的Updated为最新日期。
+检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/vocabMap.md判断单词/短语是否已经存在。如果已经存在，并更新索引内容中的ReviewCount， 加1，并返回单词/短语内容，修改单词/短语内容中的Updated为最新日期。
 
 第二步：
 
@@ -120,7 +147,7 @@ phr&v. To think someone or something is inferior or not important.
 
 第四步：
 
-更新索引，索引地址：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/index.md
+更新索引，索引地址：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/vocabMap.md
 
 在索引文件里，追加一行索引记录： lateness | ReviewCount: 1 | Words/L/lateness.md
 或：
@@ -132,7 +159,7 @@ phr&v. To think someone or something is inferior or not important.
 
 
 
-第五步（可选，每天执行一次）：
+第五步（可选，每天只执行一次）：
 对应的更新push到github地址如下：
 
 git@github.com:zitao0206/EnglishFavorites.git

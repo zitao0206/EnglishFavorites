@@ -2,6 +2,35 @@
 **Vocabulary | ReviewCount: 数值 | 文件相对路径**
 
 Words: 
+explode | ReviewCount: 1 | Words/E/explode.md
+undermine | ReviewCount: 1 | Words/U/undermine.md
+previous | ReviewCount: 1 | Words/P/previous.md
+efficient | ReviewCount: 1 | Words/E/efficient.md
+permanent | ReviewCount: 1 | Words/P/permanent.md
+atomic | ReviewCount: 1 | Words/A/atomic.md
+expressive | ReviewCount: 1 | Words/E/expressive.md
+enthusiastic | ReviewCount: 1 | Words/E/enthusiastic.md
+specific | ReviewCount: 1 | Words/S/specific.md
+landscape | ReviewCount: 1 | Words/L/landscape.md
+recruit | ReviewCount: 1 | Words/R/recruit.md
+customized | ReviewCount: 1 | Words/C/customized.md
+spark | ReviewCount: 1 | Words/S/spark.md
+retention | ReviewCount: 1 | Words/R/retention.md
+undergo | ReviewCount: 1 | Words/U/undergo.md
+netizen | ReviewCount: 1 | Words/N/netizen.md
+disgrace | ReviewCount: 1 | Words/D/disgrace.md
+craft | ReviewCount: 1 | Words/C/craft.md
+pivotal | ReviewCount: 1 | Words/P/pivotal.md
+pitfall | ReviewCount: 1 | Words/P/pitfall.md
+underrate | ReviewCount: 1 | Words/U/underrate.md
+involution | ReviewCount: 1 | Words/I/involution.md
+compatible | ReviewCount: 1 | Words/C/compatible.md
+ironic | ReviewCount: 1 | Words/I/ironic.md
+solidify | ReviewCount: 1 | Words/S/solidify.md
+asynchronous | ReviewCount: 1 | Words/A/asynchronous.md
+prioritize | ReviewCount: 1 | Words/P/prioritize.md
+constant | ReviewCount: 1 | Words/C/constant.md
+decorate | ReviewCount: 1 | Words/D/decorate.md
 speculate | ReviewCount: 1 | Words/S/speculate.md
 hinder | ReviewCount: 1 | Words/H/hinder.md
 acclimate | ReviewCount: 1 | Words/A/acclimate.md
@@ -41,6 +70,7 @@ suspicious | ReviewCount: 1 | Words/S/suspicious.md
 contest | ReviewCount: 1 | Words/C/contest.md
 
 Phrases:
+go_dutch | ReviewCount: 1 | Phrases/G/go_dutch.md
 behind_the_scenes | ReviewCount: 1 | Phrases/B/behind_the_scenes.md
 read_the_room | ReviewCount: 1 | Phrases/R/read_the_room.md
 bargain_hunter | ReviewCount: 1 | Phrases/B/bargain_hunter.md
