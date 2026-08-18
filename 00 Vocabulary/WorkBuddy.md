@@ -1,7 +1,63 @@
-  
-新建单词/短语：
+新建单词/短语：  △
+△ criteria  
+△ examiner  
+△ thematic: thematical/thematically 
+eg: The speaker gave a thematical overview of environmental policies. 演讲者给出了环境政策的专题概述。 
+eg: The two films are thematically similar, though their plots are totally different. 这两部电影在主题上很相似，尽管情节完全不一样。
+△ coherence  ）
+△ lexical: 名词形式 lexicon eg. 
+△ unsystematic：adj. 无系统的；无组织的 
+△ competent  
+△ Intermittent: Intermittent User eg: With an IELTS band 2, he is an intermittent‑user of English. 他雅思 2 分，属于断续型英语使用者。
+△ sanctuary 
+eg. As a result, during 1980‑97, the surviving population was evacuated to three island sanctuaries.
+△ mortal: -> mortality 
+eg. Rats were found to be a major predator of kākāpō chicks and an insufficient number of chicks survived to offset adult mortality.
+△ stakeholder 
+eg. …and ensure stakeholders continue to be fully engaged in the preservation of the species.
+△ forage 
+eg. They forage on the ground and climb high into trees.
+△ deplete 
+eg. Introduced animals depleted the kākāpō’s natural food sources.
+△ eradicate 
+eg. Cats were eradicated from Little Barrier Island in 1980, and possums were eradicated from Codfish Island by 1986.
+△ evacuate: 撤离，转移（=transfer） eg. As a result, during 1980‑97, the surviving population was evacuated to three island sanctuaries.
+△ solitary: eg. Kākāpō are solitary birds and tend to occupy the same home range for many years.
+△ vegetarian eg. They are entirely vegetarian, with their diet including the leaves, roots and bark of trees as well as bulbs, and fern fronds.
+△ plentiful 
+eg. Kākāpō breed in summer and autumn, but only in years when food is plentiful.
+△ feral: feral cat 夜猫 
+eg. Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kākāpō numbers.
+△ on target：达到目标 
+eg. After the first five years of the Recovery Plan, the population was on target.
+△ coloniser 
+eg. By the time European colonisers arrived in the early 1800s, kākāpō had become confined to the central North Island and forested parts of the South Island.
+△ incubate：名词形式：incubation eg. Males play no part in incubation or chick‑rearing – females alone incubate eggs and feed the chicks.
+△ nocturnal：夜间活动的 【反义词】：**diurnal** /daɪˈɜːnl/ 白天活动的 
+eg. The kākāpō is a nocturnal, flightless parrot that is critically endangered and one of New Zealand’s unique treasures.
+（24）elm：榆树
+（24）trunk:树干，（人或动物的）躯干
+（25）diameter
+（26）woodland：林地
+（27）hardwood: 硬木
+（28）prospect
+（29）seedling：幼苗
+（30）analogue：相似物，类似事情； 
+（31）reintroduce:重新引入
+（32）succumb: + to 屈服
+（33）deplete: 耗尽，消耗
+（34）evacuate：v. 转移，撤离
+（35） eradicate /ɪˈrædɪkeɪt/v. 根除，消灭
+（36） withstand /wɪðˈstænd/v. 经受住，抵抗
+（37）in the aftermath：在。。。之后
+（38）accounting for 占（比例）
+（39） wary /ˈweəri/adj. 谨慎的，小心的
 
-
+（40）virulent /ˈvɪrələnt/adj. 剧毒的，致命的
+（41）mature /məˈtjʊə(r)/adj. 成熟的
+（42）prominent /ˈprɒmɪnənt/adj. 显著的，突出的
+（43）ngrained /ɪnˈɡreɪnd/adj. 根深蒂固的
+（44）precarious /prɪˈkeəriəs/adj. 不稳定的，岌岌可危的
 
 第一步：
 
@@ -27,7 +83,7 @@
 
 文件的内容，如果原文中有备注，要保留至文件中。
 
-单词word参考模版如下：
+单词word参考模版如下（注意，如果有常见的反义词，或者同义词，或者其他形式可以在Extension中罗列，Examples和Usages中也要包含这些词语，如果没有，则略过此项）：
 
 🕒 Updated: 2026‑08‑15 
 📅 Created: 2026‑08‑15 
@@ -39,6 +95,10 @@
 **Desp**
 n. the state of arriving or happening after the expected or scheduled time.
 迟到，迟延（late的名词形式）
+
+**Extension**
+反义词：earliness
+形容词：late
 
 **Usages**
 - chronic lateness 习惯性迟到

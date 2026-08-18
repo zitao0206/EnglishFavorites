@@ -1,7 +1,45 @@
 
 **Vocabulary | 文件相对路径**
 
-Words(Count: 614):
+Words(Count: 652):
+criteria | Words/C/criteria.md
+examiner | Words/E/examiner.md
+thematic | Words/T/thematic.md
+coherence | Words/C/coherence.md
+lexical | Words/L/lexical.md
+unsystematic | Words/U/unsystematic.md
+intermittent | Words/I/intermittent.md
+sanctuary | Words/S/sanctuary.md
+mortal | Words/M/mortal.md
+stakeholder | Words/S/stakeholder.md
+forage | Words/F/forage.md
+deplete | Words/D/deplete.md
+eradicate | Words/E/eradicate.md
+evacuate | Words/E/evacuate.md
+solitary | Words/S/solitary.md
+vegetarian | Words/V/vegetarian.md
+plentiful | Words/P/plentiful.md
+feral | Words/F/feral.md
+coloniser | Words/C/coloniser.md
+incubate | Words/I/incubate.md
+nocturnal | Words/N/nocturnal.md
+elm | Words/E/elm.md
+trunk | Words/T/trunk.md
+diameter | Words/D/diameter.md
+woodland | Words/W/woodland.md
+hardwood | Words/H/hardwood.md
+prospect | Words/P/prospect.md
+seedling | Words/S/seedling.md
+analogue | Words/A/analogue.md
+reintroduce | Words/R/reintroduce.md
+succumb | Words/S/succumb.md
+withstand | Words/W/withstand.md
+wary | Words/W/wary.md
+virulent | Words/V/virulent.md
+mature | Words/M/mature.md
+prominent | Words/P/prominent.md
+ingrained | Words/I/ingrained.md
+precarious | Words/P/precarious.md
 insidious | Words/I/insidious.md
 regulator | Words/R/regulator.md
 fuel | Words/F/fuel.md
@@ -617,7 +655,10 @@ simultaneous | Words/S/simultaneous.md
 suspicious | Words/S/suspicious.md
 contest | Words/C/contest.md
 
-Phrases(Count: 77):
+Phrases(Count: 80):
+on_target | Phrases/O/on_target.md
+in_the_aftermath | Phrases/I/in_the_aftermath.md
+accounting_for | Phrases/A/accounting_for.md
 
 be_meant_for | Phrases/B/be_meant_for.md
 more_of | Phrases/M/more_of.md
