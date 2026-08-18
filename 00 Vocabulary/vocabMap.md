@@ -655,7 +655,8 @@ simultaneous | Words/S/simultaneous.md
 suspicious | Words/S/suspicious.md
 contest | Words/C/contest.md
 
-Phrases(Count: 81):
+Phrases(Count: 82):
+the_tip_of_the_iceberg | Phrases/T/the_tip_of_the_iceberg.md
 top_down | Phrases/T/top_down.md
 trade_off | Phrases/T/trade_off.md
 on_target | Phrases/O/on_target.md
