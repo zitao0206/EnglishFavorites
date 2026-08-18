@@ -1,7 +1,9 @@
 
 **Vocabulary | 文件相对路径**
 
-Words(Count: 650):
+Words(Count: 651):
+
+point | Words/P/point.md
 criteria | Words/C/criteria.md
 examiner | Words/E/examiner.md
 thematic | Words/T/thematic.md
@@ -653,7 +655,7 @@ simultaneous | Words/S/simultaneous.md
 suspicious | Words/S/suspicious.md
 contest | Words/C/contest.md
 
-Phrases(Count: 82):
+Phrases(Count: 81):
 top_down | Phrases/T/top_down.md
 trade_off | Phrases/T/trade_off.md
 on_target | Phrases/O/on_target.md
@@ -735,4 +737,3 @@ chart_board | Phrases/C/chart_board.md
 be_true_of | Phrases/B/be_true_of.md
 be_destined_to | Phrases/B/be_destined_to.md
 seal_the_deal | Phrases/S/seal_the_deal.md
-be_pointing_to | Phrases/B/be_pointing_to.md

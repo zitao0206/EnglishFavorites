@@ -27,7 +27,6 @@
     "00 Vocabulary/00 Words/Y/yogurt.md": "obsidian",
     "00 Vocabulary/01 Phrases/B/be_destined_to.md": "obsidian",
     "00 Vocabulary/01 Phrases/B/be_true_of.md": "obsidian",
-    "00 Vocabulary/01 Phrases/B/be_pointing_to.md": "obsidian",
     "00 Vocabulary/01 Phrases/C/chart_board.md": "external",
     "00 Vocabulary/01 Phrases/E/emerging_research.md": "obsidian",
     "00 Vocabulary/01 Phrases/L/look_down_upon.md": "obsidian",
@@ -769,7 +768,8 @@
     "01 IELTS/Reading/images/A20_Passge_1.png": "external",
     "01 IELTS/Reading/images/A20_Passge_2.png": "external",
     "01 IELTS/Reading/images/A20_Passge_3.png": "external",
-    "01 IELTS/Reading/images/A20_Passge_4.png": "external"
+    "01 IELTS/Reading/images/A20_Passge_4.png": "external",
+    "00 Vocabulary/00 Words/P/point.md": "obsidian"
   },
   "_editTimes": {
     "00 Vocabulary/00 Words/C/contest.md": 1786888093294,
@@ -790,7 +790,6 @@
     "00 Vocabulary/00 Words/Y/yogurt.md": 1786887996315,
     "00 Vocabulary/01 Phrases/B/be_destined_to.md": 1786887873950,
     "00 Vocabulary/01 Phrases/B/be_true_of.md": 1786887846582,
-    "00 Vocabulary/01 Phrases/B/be_pointing_to.md": 1786887860544,
     "00 Vocabulary/01 Phrases/C/chart_board.md": 1786888282960,
     "00 Vocabulary/01 Phrases/E/emerging_research.md": 1786888116126,
     "00 Vocabulary/01 Phrases/L/look_down_upon.md": 1786888105727,
@@ -831,8 +830,8 @@
     "00 Vocabulary/00 Words/T/theoretical.md": 1786888650958,
     "00 Vocabulary/00 Words/B/bittersweet.md": 1786888650958,
     "00 Vocabulary/00 Words/R/respective.md": 1786888650959,
-    "00 Vocabulary/vocabMap.md": 1787040783892,
-    "00 Vocabulary/workBuddy.md": 1787040583538,
+    "00 Vocabulary/vocabMap.md": 1787054434090,
+    "00 Vocabulary/workBuddy.md": 1787054047552,
     "00 Vocabulary/00 Words/E/explode.md": 1786933298073,
     "00 Vocabulary/00 Words/U/undermine.md": 1786933298073,
     "00 Vocabulary/00 Words/P/previous.md": 1786944405790,
@@ -1479,8 +1478,8 @@
     "00 Vocabulary/01 Phrases/H/hold_off.md": 1786952775986,
     "00 Vocabulary/03 Others/14 表示“碰到｜遇到｜偶遇”.md": 1786953052067,
     "00 Vocabulary/03 Others/15 表示“易受伤害的｜有倾向的”.md": 1786953321867,
-    "00 Vocabulary/03 Others/00 科技｜政商｜军事.md": 1786953795754,
-    "00 Vocabulary/03 Others/00 户外｜体育｜足球.md": 1787053675555,
+    "00 Vocabulary/03 Others/00 科技｜政商｜军事.md": 1787053933180,
+    "00 Vocabulary/03 Others/00 户外｜体育｜足球.md": 1787053833461,
     "00 Vocabulary/03 Others/00 社交｜网络｜直播.md": 1786954832330,
     "00 Vocabulary/03 Others/00 日常生活术语汇总.md": 1787021557304,
     "00 Vocabulary/03 Others/00 日常口语.md": 1786949572983,
@@ -1532,7 +1531,8 @@
     "01 IELTS/Reading/images/A20_Passge_1.png": 1787026366406,
     "01 IELTS/Reading/images/A20_Passge_2.png": 1787026371678,
     "01 IELTS/Reading/images/A20_Passge_3.png": 1787026376529,
-    "01 IELTS/Reading/images/A20_Passge_4.png": 1787026380485
+    "01 IELTS/Reading/images/A20_Passge_4.png": 1787026380485,
+    "00 Vocabulary/00 Words/P/point.md": 1787054298791
   },
   "_dismissedAt": {},
   "_editSizes": {
@@ -1554,7 +1554,6 @@
     "00 Vocabulary/00 Words/Y/yogurt.md": 534,
     "00 Vocabulary/01 Phrases/B/be_destined_to.md": 657,
     "00 Vocabulary/01 Phrases/B/be_true_of.md": 745,
-    "00 Vocabulary/01 Phrases/B/be_pointing_to.md": 570,
     "00 Vocabulary/01 Phrases/C/chart_board.md": 754,
     "00 Vocabulary/01 Phrases/E/emerging_research.md": 830,
     "00 Vocabulary/01 Phrases/L/look_down_upon.md": 672,
@@ -1595,7 +1594,7 @@
     "00 Vocabulary/00 Words/T/theoretical.md": 685,
     "00 Vocabulary/00 Words/B/bittersweet.md": 727,
     "00 Vocabulary/00 Words/R/respective.md": 666,
-    "00 Vocabulary/vocabMap.md": 23308,
+    "00 Vocabulary/vocabMap.md": 23289,
     "00 Vocabulary/workBuddy.md": 3904,
     "00 Vocabulary/00 Words/E/explode.md": 653,
     "00 Vocabulary/00 Words/U/undermine.md": 659,
@@ -2243,8 +2242,8 @@
     "00 Vocabulary/01 Phrases/H/hold_off.md": 601,
     "00 Vocabulary/03 Others/14 表示“碰到｜遇到｜偶遇”.md": 1423,
     "00 Vocabulary/03 Others/15 表示“易受伤害的｜有倾向的”.md": 1687,
-    "00 Vocabulary/03 Others/00 科技｜政商｜军事.md": 904,
-    "00 Vocabulary/03 Others/00 户外｜体育｜足球.md": 255,
+    "00 Vocabulary/03 Others/00 科技｜政商｜军事.md": 960,
+    "00 Vocabulary/03 Others/00 户外｜体育｜足球.md": 269,
     "00 Vocabulary/03 Others/00 社交｜网络｜直播.md": 703,
     "00 Vocabulary/03 Others/00 日常生活术语汇总.md": 1669,
     "00 Vocabulary/03 Others/00 日常口语.md": 255,
@@ -2296,7 +2295,8 @@
     "01 IELTS/Reading/images/A20_Passge_1.png": 612320,
     "01 IELTS/Reading/images/A20_Passge_2.png": 1233484,
     "01 IELTS/Reading/images/A20_Passge_3.png": 137377,
-    "01 IELTS/Reading/images/A20_Passge_4.png": 475020
+    "01 IELTS/Reading/images/A20_Passge_4.png": 475020,
+    "00 Vocabulary/00 Words/P/point.md": 1276
   },
   "_sizeDeltas": {}
 }
