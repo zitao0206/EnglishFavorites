@@ -10,7 +10,7 @@ n. standards or principles by which something is judged or decided.
 标准，准则（criterion 的复数形式）
 
 **Extension**
-单数形式：criterion
+单数形式：criterion [kraɪˈtɪriən]
 
 **Usages**
 - meet the criteria 符合标准

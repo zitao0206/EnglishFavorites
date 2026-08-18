@@ -9,6 +9,7 @@
 adj. deeply rooted; firmly established.
 根深蒂固的
 
+动词：ingrain v. 使……根深蒂固；
 **Usages**
 - ingrained habits 根深蒂固的习惯
 - deeply ingrained 深深扎根的

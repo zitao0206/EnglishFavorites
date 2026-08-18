@@ -1,7 +1,7 @@
 
 **Vocabulary | 文件相对路径**
 
-Words(Count: 652):
+Words(Count: 650):
 criteria | Words/C/criteria.md
 examiner | Words/E/examiner.md
 thematic | Words/T/thematic.md
@@ -194,7 +194,6 @@ stutter | Words/S/stutter.md
 tentative | Words/T/tentative.md
 self-esteem | Words/S/self-esteem.md
 consistent | Words/C/consistent.md
-top-down | Words/T/top-down.md
 execution | Words/E/execution.md
 scope | Words/S/scope.md
 underdog | Words/U/underdog.md
@@ -202,7 +201,6 @@ reasonable | Words/R/reasonable.md
 co-founder | Words/C/co-founder.md
 startup | Words/S/startup.md
 know-how | Words/K/know-how.md
-trade-off | Words/T/trade-off.md
 ego | Words/E/ego.md
 long-horizon | Words/L/long-horizon.md
 realistic | Words/R/realistic.md
@@ -655,11 +653,13 @@ simultaneous | Words/S/simultaneous.md
 suspicious | Words/S/suspicious.md
 contest | Words/C/contest.md
 
-Phrases(Count: 80):
+Phrases(Count: 82):
+top_down | Phrases/T/top_down.md
+trade_off | Phrases/T/trade_off.md
+
 on_target | Phrases/O/on_target.md
 in_the_aftermath | Phrases/I/in_the_aftermath.md
 accounting_for | Phrases/A/accounting_for.md
-
 be_meant_for | Phrases/B/be_meant_for.md
 more_of | Phrases/M/more_of.md
 grey_area | Phrases/G/grey_area.md
