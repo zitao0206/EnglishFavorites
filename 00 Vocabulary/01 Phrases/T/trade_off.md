@@ -1,6 +1,6 @@
 🕒 Updated: 2026-08-18
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### trade off
 
@@ -17,5 +17,5 @@ phr&v. to balance two things against each other; n. a compromise between two thi
 
 **Examples**
 1. We traded off cost against performance. 我们在成本和性能之间做了权衡。
-2. There's always a trade off between speed and quality. 速度和品质之间总有取舍。
-3. Accepting a lower salary is the trade off for more freedom. 接受较低薪水是换取更多自由的代价。
+2. There's always a trade-off between speed and quality. 速度和品质之间总有取舍。
+3. Accepting a lower salary is the trade-off for more freedom. 接受较低薪水是换取更多自由的代价。

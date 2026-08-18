@@ -68,7 +68,7 @@
     "00 Vocabulary/00 Words/T/theoretical.md": "external",
     "00 Vocabulary/00 Words/B/bittersweet.md": "external",
     "00 Vocabulary/00 Words/R/respective.md": "external",
-    "00 Vocabulary/vocabMap.md": "external",
+    "00 Vocabulary/vocabMap.md": "obsidian",
     "00 Vocabulary/workBuddy.md": "obsidian",
     "00 Vocabulary/00 Words/E/explode.md": "external",
     "00 Vocabulary/00 Words/U/undermine.md": "external",
@@ -768,8 +768,8 @@
     "00 Vocabulary/01 Phrases/O/on_target.md": "external",
     "00 Vocabulary/01 Phrases/I/in_the_aftermath.md": "external",
     "00 Vocabulary/01 Phrases/A/accounting_for.md": "external",
-    "00 Vocabulary/01 Phrases/T/top_down.md": "external",
-    "00 Vocabulary/01 Phrases/T/trade_off.md": "external"
+    "00 Vocabulary/01 Phrases/T/top_down.md": "obsidian",
+    "00 Vocabulary/01 Phrases/T/trade_off.md": "obsidian"
   },
   "_editTimes": {
     "00 Vocabulary/00 Words/C/contest.md": 1786888093294,
@@ -831,8 +831,8 @@
     "00 Vocabulary/00 Words/T/theoretical.md": 1786888650958,
     "00 Vocabulary/00 Words/B/bittersweet.md": 1786888650958,
     "00 Vocabulary/00 Words/R/respective.md": 1786888650959,
-    "00 Vocabulary/vocabMap.md": 1787040433205,
-    "00 Vocabulary/workBuddy.md": 1787039364258,
+    "00 Vocabulary/vocabMap.md": 1787040783892,
+    "00 Vocabulary/workBuddy.md": 1787040583538,
     "00 Vocabulary/00 Words/E/explode.md": 1786933298073,
     "00 Vocabulary/00 Words/U/undermine.md": 1786933298073,
     "00 Vocabulary/00 Words/P/previous.md": 1786944405790,
@@ -1531,8 +1531,8 @@
     "00 Vocabulary/01 Phrases/O/on_target.md": 1787039631698,
     "00 Vocabulary/01 Phrases/I/in_the_aftermath.md": 1787039631698,
     "00 Vocabulary/01 Phrases/A/accounting_for.md": 1787039631698,
-    "00 Vocabulary/01 Phrases/T/top_down.md": 1787040427985,
-    "00 Vocabulary/01 Phrases/T/trade_off.md": 1787040427985
+    "00 Vocabulary/01 Phrases/T/top_down.md": 1787040529168,
+    "00 Vocabulary/01 Phrases/T/trade_off.md": 1787040596588
   },
   "_dismissedAt": {},
   "_editSizes": {
@@ -1595,8 +1595,8 @@
     "00 Vocabulary/00 Words/T/theoretical.md": 685,
     "00 Vocabulary/00 Words/B/bittersweet.md": 727,
     "00 Vocabulary/00 Words/R/respective.md": 666,
-    "00 Vocabulary/vocabMap.md": 23309,
-    "00 Vocabulary/workBuddy.md": 7400,
+    "00 Vocabulary/vocabMap.md": 23308,
+    "00 Vocabulary/workBuddy.md": 3904,
     "00 Vocabulary/00 Words/E/explode.md": 653,
     "00 Vocabulary/00 Words/U/undermine.md": 659,
     "00 Vocabulary/00 Words/P/previous.md": 670,

@@ -656,7 +656,6 @@ contest | Words/C/contest.md
 Phrases(Count: 82):
 top_down | Phrases/T/top_down.md
 trade_off | Phrases/T/trade_off.md
-
 on_target | Phrases/O/on_target.md
 in_the_aftermath | Phrases/I/in_the_aftermath.md
 accounting_for | Phrases/A/accounting_for.md

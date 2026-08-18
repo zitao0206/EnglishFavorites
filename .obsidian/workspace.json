@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "top-dow",
+                "query": "trade_off",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,13 +204,14 @@
   "active": "e2e2a59084da6e91",
   "lastOpenFiles": [
     "00 Vocabulary/01 Phrases/T/trade_off.md",
+    "00 Vocabulary/workBuddy.md",
+    "00 Vocabulary/04 IELTS/Reading/A20_Passge_1.md",
+    "00 Vocabulary/vocabMap.md",
     "00 Vocabulary/01 Phrases/T/top_down.md",
     "00 Vocabulary/00 Words/T/top-down.md",
-    "00 Vocabulary/vocabMap.md",
     "00 Vocabulary/00 Words/T/trade-off.md",
     "00 Vocabulary/00 Words/C/criteria.md",
     "00 Vocabulary/00 Words/I/ingrained.md",
-    "00 Vocabulary/workBuddy.md",
     "00 Vocabulary/01 Phrases/A/accounting_for.md",
     "00 Vocabulary/01 Phrases/I/in_the_aftermath.md",
     "00 Vocabulary/01 Phrases/O/on_target.md",
@@ -228,7 +229,6 @@
     "00 Vocabulary/00 Words/H/hardwood.md",
     "00 Vocabulary/00 Words/W/woodland.md",
     "00 Vocabulary/00 Words/D/diameter.md",
-    "00 Vocabulary/00 Words/T/trunk.md",
     "00 Vocabulary/04 IELTS/Reading/images/A20_Passge_4.png",
     "00 Vocabulary/04 IELTS/Reading/images/A20_Passge_1.png",
     "00 Vocabulary/04 IELTS/Reading/images/A20_Passge_3.png",
