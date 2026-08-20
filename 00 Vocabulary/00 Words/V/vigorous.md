@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### vigorous
 [ˈvɪɡərəs]
 
 **Desp**
-adj. Strong, active, and energetic; forceful.
+adj. strong, active, and energetic; forceful.
 有力的，精力充沛的；剧烈的
 
 **Usages**

@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### enroll
 [ɪnˈrəʊl]
@@ -18,3 +18,4 @@ v. To officially join a course, school, or organization.
 1. She enrolled in an English course last month. 她上个月报名参加了一个英语课程。
 2. He enrolled at Peking University in 2020. 他2020年入读北京大学。
 3. The school enrolled 500 new students this year. 这所学校今年招收了500名新生。
+4. I have decided to enroll in the IELTS exam.

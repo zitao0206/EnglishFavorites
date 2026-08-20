@@ -1,13 +1,15 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### mimic
 [ˈmɪmɪk]
 
 **Desp**
-vt. To copy the way someone speaks or acts; to imitate exactly.
+vt. to copy the way someone speaks or acts; to imitate exactly.
 模仿，摹拟
+
+【近】imitate [ˈɪmɪteɪt] v. 模仿，仿效；仿造，伪造
 
 **Usages**
 - mimic sb's voice 模仿某人的声音

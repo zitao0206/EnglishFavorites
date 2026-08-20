@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### wellbeing
 [ˌwelˈbiːɪŋ]
 
 **Desp**
-n. The state of being comfortable, healthy, or happy.
+n. the state of being comfortable, healthy, or happy.
 幸福；健康；福祉
 
 **Usages**

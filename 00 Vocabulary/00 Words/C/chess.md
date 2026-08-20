@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### chess
 [tʃes]
 
 **Desp**
-n. A board game played by two people, using 16 pieces each, on a board of 64 squares.
+n. a board game played by two people, using 16 pieces each, on a board of 64 squares.
 国际象棋
 
 **Usages**

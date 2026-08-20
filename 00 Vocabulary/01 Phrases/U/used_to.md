@@ -1,10 +1,10 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 ### used to
 
 **Desp**
-phr&v. Used to describe a past habit or state that no longer exists.
+phr&v. used to describe a past habit or state that no longer exists.
 过去常常做…（现在不再做）
 
 **Usages**

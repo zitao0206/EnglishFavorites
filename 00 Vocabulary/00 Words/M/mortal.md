@@ -1,6 +1,6 @@
 🕒 Updated: 2026-08-18
 📅 Created: 2026-08-18
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### mortal
 [ˈmɔːtl]
@@ -10,7 +10,7 @@ adj. causing death; n. a human being subject to death.
 致命的；n. 凡人
 
 **Extension**
-名词形式：mortality（死亡率）
+名词形式：mortality [mɔːrˈtæləti]（死亡率）
 
 **Usages**
 - adult mortality 成体死亡率

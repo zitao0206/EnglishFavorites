@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### currency
 [ˈkʌrənsi]
 
 **Desp**
-n. The money used in a particular country.
+n. the money used in a particular country.
 货币；流通
 
 **Usages**

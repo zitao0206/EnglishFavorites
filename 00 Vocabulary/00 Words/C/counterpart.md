@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### counterpart
 [ˈkaʊntərpɑːrt]
 
 **Desp**
-n. A person or thing that has the same purpose or does the same job as another in a different place or organization.
+n. a person or thing that has the same purpose or does the same job as another in a different place or organization.
 对应的人（或物）；职位相当的人
 
 **Usages**

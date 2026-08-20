@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### utilize
 [ˈjuːtəlaɪz]
 
 **Desp**
-v. To use something in an effective way.
+v. to use something in an effective way.
 利用，使用
 
 **Usages**

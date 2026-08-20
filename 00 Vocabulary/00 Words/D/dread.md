@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### dread
 [dred]
 
 **Desp**
-v/n. To feel very worried or frightened about something; a strong feeling of fear or worry.
+v/n. to feel very worried or frightened about something; a strong feeling of fear or worry.
 惧怕，担忧；（n.）恐惧，忧虑
 
 **Usages**

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### explode
 [ɪkˈsploʊd]
 
 **Desp**
-v. To burst or shatter violently and noisily as a result of internal pressure; to increase suddenly, sharply, and without control.
+v. to burst or shatter violently and noisily as a result of internal pressure; to increase suddenly, sharply, and without control.
 爆炸；激增；爆发
 
 **Usages**

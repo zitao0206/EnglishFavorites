@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### specialize
 [ˈspeʃəlaɪz]
 
 **Desp**
-v. To spend most of your time studying or working on a particular subject or skill.
+v. to spend most of your time studying or working on a particular subject or skill.
 专门研究，专攻；专门从事
 
 **Usages**

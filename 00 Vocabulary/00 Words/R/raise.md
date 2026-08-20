@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 ### raise
 
 **Desp**
@@ -24,5 +24,3 @@ v. 募集、筹措（资金）（金融高频动词）; 提出（问题、担忧
 这家初创企业计划在最新一轮融资中筹集大约20亿美元。
 2. The company raised about $2 billion through bond sales.
 该公司通过发售债券筹得了约20亿美元。
-
-

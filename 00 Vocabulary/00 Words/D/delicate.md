@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### delicate
 [ˈdelɪkət]
 
 **Desp**
-adj. Finely made and attractive; easily damaged; fragile.
+adj. finely made and attractive; easily damaged; fragile.
 精致的，精巧的；纤细的，娇弱的
 
 **Usages**

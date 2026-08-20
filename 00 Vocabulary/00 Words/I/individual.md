@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### individual
 [ˌɪndɪˈvɪdʒuəl]
 
 **Desp**
-n./adj. A single person or thing, considered separately from the group; single, separate.
+n/adj. A single person or thing, considered separately from the group; single, separate.
 n. 个人，个体；adj. 单独的，个别的
 
 **Usages**

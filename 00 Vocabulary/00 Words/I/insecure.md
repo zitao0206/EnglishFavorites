@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### insecure
 [ˌɪnsɪˈkjʊə(r)]
 
 **Desp**
-adj. Lacking confidence or certainty; not safe or guaranteed.
+adj. lacking confidence or certainty; not safe or guaranteed.
 缺乏信心的，无把握的，不安全的
 
 **Usages**

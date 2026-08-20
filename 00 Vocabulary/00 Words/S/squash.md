@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### squash
 [skwɒʃ]
 
 **Desp**
-v./n. To press something flat; to crush; to suppress or stop something.
+v./n. to press something flat; to crush; to suppress or stop something.
 压扁，压碎，挤，塞；镇压，制止
 
 **Usages**

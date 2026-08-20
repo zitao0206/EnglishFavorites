@@ -1,11 +1,11 @@
 🕒 Updated: 2026-08-18
 📅 Created: 2026-08-18
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
-### accounting for
+### account for
 
 **Desp**
-phr. making up a proportion or percentage of something.
+phr. make up a proportion or percentage of something.
 占（比例）
 
 **Usages**

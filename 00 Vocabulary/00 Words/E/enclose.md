@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### enclose
 [ɪnˈkləʊz]
 
 **Desp**
-v. To put something inside a letter or parcel; to surround something.
+v. to put something inside a letter or parcel; to surround something.
 随函附上；围住，包围
 
 **Usages**

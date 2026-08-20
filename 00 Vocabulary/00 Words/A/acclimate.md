@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### acclimate
 [ˈækləmeɪt]
 
 **Desp**
-v. To become accustomed to a new climate or environment; to adapt.
+v. to become accustomed to a new climate or environment; to adapt.
 适应（新环境、新气候）；使服水土
 
 **Usages**

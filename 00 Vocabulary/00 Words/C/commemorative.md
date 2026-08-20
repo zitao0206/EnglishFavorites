@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-17
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### commemorative
 [kəˈmemərətɪv]
 
 **Desp**
-adj. Intended to remember and honor someone or something.
+adj. intended to remember and honor someone or something.
 纪念性的
 
 **Usages**

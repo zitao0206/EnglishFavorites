@@ -1,11 +1,11 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-17
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 ### emerging research
 
 **Desp**
 
-phr. New studies or findings that are just beginning to develop or receive attention.
+phr. new studies or findings that are just beginning to develop or receive attention.
 新兴研究，最新研究
 
 **Usages**

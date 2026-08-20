@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### formulate
 [ˈfɔːmjuleɪt]
 
 **Desp**
-vt. To create, invent, or prepare something carefully; to express in a clear way.
+vt. to create, invent, or prepare something carefully; to express in a clear way.
 制定，规划，构想；系统阐述
 
 **Usages**

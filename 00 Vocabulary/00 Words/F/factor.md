@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### factor
 [ˈfæktə]
 
 **Desp**
-n. One of the things that influence a result.
+n. one of the things that influence a result.
 因素
 
 **Usages**

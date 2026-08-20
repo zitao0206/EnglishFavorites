@@ -1,12 +1,8 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 ### sort of
 [sɔːrt əv]
-
-🕒 Updated: 2026-08-16
-📅 Created: 2026-08-16
-📌 ReviewCount: 1
 
 **Desp**
 

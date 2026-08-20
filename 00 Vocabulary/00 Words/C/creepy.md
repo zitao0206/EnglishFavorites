@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### creepy
 [ˈkriːpi]
 
 **Desp**
-adj. Causing an unpleasant feeling of fear or unease.
+adj. causing an unpleasant feeling of fear or unease.
 令人毛骨悚然的
 
 **Usages**

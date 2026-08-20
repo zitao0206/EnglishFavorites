@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-18
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-18
-📌 ReviewCount: 1
+📌 ReviewCount: 3
 
 ### eradicate
 [ɪˈrædɪkeɪt]

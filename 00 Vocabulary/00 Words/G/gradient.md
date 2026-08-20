@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### gradient
 [ˈɡreɪdiənt]
 
 **Desp**
-n./adj. The degree of slope or rate of change; sloping or changing gradually.
+n/adj. The degree of slope or rate of change; sloping or changing gradually.
 坡度，梯度，斜率；倾斜的，渐变的
 
 **Usages**

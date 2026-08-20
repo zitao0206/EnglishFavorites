@@ -1,19 +1,21 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### go rogue 
 [roʊɡ]
 
 **Desp**
-
 phr. to start behaving in an uncontrolled, rebellious or unpredictable way.
 搞反叛的，失控的，桀骜不驯
 
+rogue
+n. 淘气鬼，调皮鬼，捣蛋鬼；无赖，流氓  
+adj. 行为失常的，暴戾的；（野兽）离群而危险的
 
 **Usages**
 
-- go-out-of-control 失控
+- go out of control 失控
 
 **Examples**
 

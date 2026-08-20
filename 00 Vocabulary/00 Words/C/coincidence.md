@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### coincidence
 [kəʊˈɪnsɪdəns]
 
 **Desp**
-n. When two things happen at the same time by chance, in a surprising way.
+n. when two things happen at the same time by chance, in a surprising way.
 巧合，巧事
 
 **Usages**

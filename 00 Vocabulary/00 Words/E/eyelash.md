@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### eyelash
 [ˈaɪlæʃ]
 
 **Desp**
-n. One of the short hairs growing on the edge of the eyelid.
+n. one of the short hairs growing on the edge of the eyelid.
 睫毛
 
 **Usages**

@@ -1,11 +1,11 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### have feelings for sb
 
 **Desp**
-phr. To feel romantic attraction toward someone.
+phr. to feel romantic attraction toward someone.
 对某人产生好感
 
 **Usages**

@@ -1,12 +1,11 @@
 🕒 Updated: 2026-08-17
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### frame
 [freɪm]
 
 **Desp**
-n. 框架；v. To make an innocent person seem guilty by providing false evidence.
 n. 框架；v. 陷害，诬陷，构陷
 
 **Usages**

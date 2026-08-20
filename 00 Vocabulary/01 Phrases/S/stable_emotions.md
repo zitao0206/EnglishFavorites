@@ -1,11 +1,11 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### stable emotions
 
 **Desp**
-phr. A calm, steady emotional state.
+phr. a calm, steady emotional state.
 稳定的情绪
 
 **Usages**

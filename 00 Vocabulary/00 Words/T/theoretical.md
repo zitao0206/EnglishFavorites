@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### theoretical
 [ˌθiːəˈretɪkl]
 
 **Desp**
-adj. Concerned with or involving the theory of a subject rather than its practical application.
+adj. concerned with or involving the theory of a subject rather than its practical application.
 理论的，理论上的
 
 **Usages**

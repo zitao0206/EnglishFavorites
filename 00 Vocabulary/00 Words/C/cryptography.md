@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### cryptography
 [krɪpˈtɒɡrəfi]
 
 **Desp**
-n. The art or science of writing and decoding secret codes and messages.
+n. the art or science of writing and decoding secret codes and messages.
 密码学，密码术
 
 **Usages**

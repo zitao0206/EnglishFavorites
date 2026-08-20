@@ -1,9 +1,11 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### unequivocal
 [ˌʌnɪˈkwɪvəkl]
+
+【反】equivocal adj. 模棱两可的；可疑的 = ambiguous [æmˈbɪɡjuəs]
 
 **Desp**
 adj. clear and without doubt.

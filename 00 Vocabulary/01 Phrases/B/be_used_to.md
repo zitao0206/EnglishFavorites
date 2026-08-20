@@ -1,10 +1,10 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 ### be used to doing
 
 **Desp**
-phr&v. To be accustomed to doing something.
+phr&v. to be accustomed to doing something.
 习惯于做某事
 
 **Usages**

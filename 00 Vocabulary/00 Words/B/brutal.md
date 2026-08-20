@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### brutal
 [ˈbruːtl]
 
 **Desp**
-adj. Extremely cruel, harsh, or violent; unpleasantly honest.
+adj. extremely cruel, harsh, or violent; unpleasantly honest.
 残忍的，野蛮的；直率无情的
 
 **Usages**

@@ -1,13 +1,13 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 ### fit
 [fɪt]
 
 **Desp**
 v. to be the right size or shape for someone/something; to be suitable.
 （衣服等）合身；适合，相符
-adj. Suitable, healthy, or qualified.
+adj. suitable, healthy, or qualified.
 
 **Usages**
 - the uniform doesn't fit him 制服不合他的身

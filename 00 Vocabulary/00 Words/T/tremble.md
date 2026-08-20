@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### tremble
 [ˈtrembl]
 
 **Desp**
-v./n. To shake slightly in a way that you cannot control, especially because you are frightened or cold.
+v./n. to shake slightly in a way that you cannot control, especially because you are frightened or cold.
 发抖，颤抖；担心；（n.）颤抖
 
 **Usages**

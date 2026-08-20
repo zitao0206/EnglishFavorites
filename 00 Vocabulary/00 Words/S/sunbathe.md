@@ -1,8 +1,9 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### sunbathe
+[ˈsʌnbeɪð]
 
 **Desp**
 v. to lie in the sun to get a tan.

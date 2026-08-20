@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### submarine
 [ˌsʌbməˈriːn]
 
 **Desp**
-n. A ship that can travel underwater; adj. under the sea.
+n. a ship that can travel underwater; adj. under the sea.
 潜艇；adj. 海底的
 
 **Usages**

@@ -1,13 +1,13 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### leftover
 [ˈleftəʊvə(r)]
 
 **Desp**
-n./adj. Food that has not been eaten at the end of a meal; remaining or unused.
-剩菜，剩饭；剩余的
+n/adj. Food that has not been eaten at the end of a meal; remaining or unused.
+n. 剩菜，剩饭；adj. 剩余的
 
 **Usages**
 - eat the leftovers 吃剩菜

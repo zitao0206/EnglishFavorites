@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### integrity
 [ɪnˈteɡrəti]
@@ -18,3 +18,4 @@ n. The quality of being honest and having strong moral principles; the state of 
 1. He is a man of great integrity. 他是一个非常正直的人。
 2. The scandal damaged the company's integrity. 这起丑闻损害了公司的声誉。
 3. We must ensure the integrity of the data. 我们必须确保数据的完整性。
+4. He is a man of rock-solid integrity.

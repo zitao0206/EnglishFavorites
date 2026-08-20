@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### blurry
 [ˈblɜːri]
 
 **Desp**
-adj. Not clear; out of focus (can describe memory).
+adj. not clear; out of focus (can describe memory).
 模糊的，看不清的（可形容记忆）
 
 **Usages**

@@ -1,16 +1,16 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### exquisite
 [ɪkˈskwɪzɪt]
 
 **Desp**
-adj. Extremely beautiful and finely made (stronger than delicate).
+adj. extremely beautiful and finely made (stronger than delicate).
 精美的，精致绚丽的（程度比 delicate 更深）
 
 **Usages**
-- antique n. 精美的古物
+- antique [ænˈtiːk] n. 精美的古物
 - exquisite craftsmanship 精湛的工艺
 - an exquisite design 精美的设计
 

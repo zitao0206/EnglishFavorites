@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### evident
 [ˈevɪdənt]
 
 **Desp**
-adj. Easy to see, notice, or understand; obvious.
+adj. easy to see, notice, or understand; obvious.
 明显的，显而易见的
 
 **Usages**

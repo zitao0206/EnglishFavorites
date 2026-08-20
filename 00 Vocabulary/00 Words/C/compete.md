@@ -1,6 +1,6 @@
 🕒 Updated: 2026-08-17
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### compete
 [kəmˈpiːt]
@@ -8,6 +8,12 @@
 **Desp**
 v. to try to be better than others; to take part in a contest.
 竞争，对抗；参加比赛
+
+- competition [kɑːmpəˈtɪʃ(ə)n] n. 竞争，比赛 
+- competitor [kəmˈpetɪtər] n. 竞争者，对手 
+- competitive [kəmˈpetətɪv] adj. 有竞争力的；竞争激烈的 
+- competence [ˈkɑːmpɪtəns] n. 能力，胜任（不可数） 
+- competent [ˈkɑːmpɪtənt] adj. 胜任的，有能力的
 
 **Usages**
 - compete with / against 与…竞争

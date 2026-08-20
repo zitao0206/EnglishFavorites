@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### cozy
 [ˈkəʊzi]
 
 **Desp**
-adj. Comfortable, warm, and relaxing.
+adj. comfortable, warm, and relaxing.
 舒适温暖的；温馨的（= cosy）
 
 **Usages**

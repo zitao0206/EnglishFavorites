@@ -1,8 +1,8 @@
 🕒 Updated: 2026-08-18
 📅 Created: 2026-08-18
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
-### coloniser
+### colonizer
 [ˈkɒlənaɪzə(r)]
 
 **Desp**
@@ -10,7 +10,7 @@ n. a person or group that establishes a colony in a new area.
 殖民者，开拓者
 
 **Extension**
-动词形式：colonize
+动词形式：colonize [ˈkɑːlənaɪz]
 美式拼写：colonizer
 
 **Usages**

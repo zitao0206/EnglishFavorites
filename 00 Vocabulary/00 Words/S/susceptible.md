@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### susceptible
 [səˈseptəbl]
 
 **Desp**
-adj. Easily influenced or harmed by something.
+adj. easily influenced or harmed by something.
 易受影响的；易感染的；易受感动的
 
 **Usages**

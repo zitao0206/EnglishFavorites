@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### somber
 [ˈsɒmbə(r)]
 
 **Desp**
-adj. Sad and serious; dark in color or appearance.
+adj. sad and serious; dark in color or appearance.
 阴郁的，忧郁的；昏暗的（= sombre）
 
 **Usages**

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### snooze
 [snuːz]
 
 **Desp**
-v. To sleep lightly for a short time; n. a short light sleep.
+v. to sleep lightly for a short time; n. a short light sleep.
 打盹，小睡
 
 **Usages**

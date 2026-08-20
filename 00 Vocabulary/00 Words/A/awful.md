@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### awful
 [ˈɔːfl]
 
 **Desp**
-adj. Very bad or unpleasant; (used for emphasis) very great.
+adj. very bad or unpleasant; (used for emphasis) very great.
 糟糕的，可怕的；极度的
 
 **Usages**

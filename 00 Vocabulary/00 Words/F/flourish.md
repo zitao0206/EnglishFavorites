@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### flourish
 [ˈflʌrɪʃ]
 
 **Desp**
-v./n. To grow or develop successfully and strongly; to wave something in the air.
+v./n. to grow or develop successfully and strongly; to wave something in the air.
 繁荣，兴旺；茁壮成长；挥舞
 
 **Usages**

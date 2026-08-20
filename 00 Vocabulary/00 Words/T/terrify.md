@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### terrify
 [ˈterɪfaɪ]
 
 **Desp**
-v. To make someone feel extremely frightened.
+v. to make someone feel extremely frightened.
 使恐惧，使惊吓
 
 **Usages**

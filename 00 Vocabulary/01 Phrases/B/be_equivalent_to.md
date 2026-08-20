@@ -1,11 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### be equivalent to
+[ɪˈkwɪvələnt]
 
 **Desp**
-phr. To be equal to something in value, amount or meaning.
+phr. to be equal to something in value, amount or meaning.
 等同于，相当于
 
 **Usages**

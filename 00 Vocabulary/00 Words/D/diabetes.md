@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### diabetes
 [ˌdaɪəˈbiːtiːz]
 
 **Desp**
-n. A disease in which the body cannot control the level of sugar in the blood.
+n. a disease in which the body cannot control the level of sugar in the blood.
 糖尿病
 
 **Usages**

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### denote
 [dɪˈnəʊt]
 
 **Desp**
-v. To be a sign or symbol of something (formal, academic).
+v. to be a sign or symbol of something (formal, academic).
 表示，象征，指代（正式、学术）
 
 **Usages**

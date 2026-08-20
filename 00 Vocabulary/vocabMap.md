@@ -1,7 +1,9 @@
 
 **Vocabulary | 文件相对路径**
 
-Words(Count: 651):
+Words(Count: 643):
+aftermath | Words/A/aftermath.md
+literally | Words/L/literally.md
 
 point | Words/P/point.md
 criteria | Words/C/criteria.md
@@ -22,10 +24,9 @@ solitary | Words/S/solitary.md
 vegetarian | Words/V/vegetarian.md
 plentiful | Words/P/plentiful.md
 feral | Words/F/feral.md
-coloniser | Words/C/coloniser.md
+colonizer | Words/C/colonizer.md
 incubate | Words/I/incubate.md
 nocturnal | Words/N/nocturnal.md
-elm | Words/E/elm.md
 trunk | Words/T/trunk.md
 diameter | Words/D/diameter.md
 woodland | Words/W/woodland.md
@@ -40,7 +41,7 @@ wary | Words/W/wary.md
 virulent | Words/V/virulent.md
 mature | Words/M/mature.md
 prominent | Words/P/prominent.md
-ingrained | Words/I/ingrained.md
+ingrain | Words/I/ingrain.md
 precarious | Words/P/precarious.md
 insidious | Words/I/insidious.md
 regulator | Words/R/regulator.md
@@ -158,7 +159,6 @@ restore | Words/R/restore.md
 dignity | Words/D/dignity.md
 austerity | Words/A/austerity.md
 asylum | Words/A/asylum.md
-decency | Words/D/decency.md
 recess | Words/R/recess.md
 successor | Words/S/successor.md
 unequivocal | Words/U/unequivocal.md
@@ -241,7 +241,6 @@ consumer | Words/C/consumer.md
 nourishment | Words/N/nourishment.md
 fire-extinguisher | Words/F/fire-extinguisher.md
 perusal | Words/P/perusal.md
-towel | Words/T/towel.md
 hilarious | Words/H/hilarious.md
 bowling | Words/B/bowling.md
 affliction | Words/A/affliction.md
@@ -262,8 +261,6 @@ rash | Words/R/rash.md
 chickenpox | Words/C/chickenpox.md
 man-made | Words/M/man-made.md
 submarine | Words/S/submarine.md
-dolphin | Words/D/dolphin.md
-peacock | Words/P/peacock.md
 fur | Words/F/fur.md
 fan | Words/F/fan.md
 paw | Words/P/paw.md
@@ -274,13 +271,11 @@ eyelash | Words/E/eyelash.md
 padded | Words/P/padded.md
 currency | Words/C/currency.md
 perseverance | Words/P/perseverance.md
-florist | Words/F/florist.md
 soaked | Words/S/soaked.md
 transition | Words/T/transition.md
 cabin | Words/C/cabin.md
 pedestrian | Words/P/pedestrian.md
 grain | Words/G/grain.md
-crunchy | Words/C/crunchy.md
 crunch | Words/C/crunch.md
 brittle | Words/B/brittle.md
 raw | Words/R/raw.md
@@ -297,7 +292,6 @@ commemorative | Words/C/commemorative.md
 sentimental | Words/S/sentimental.md
 factor | Words/F/factor.md
 deprive | Words/D/deprive.md
-deprivation | Words/D/deprivation.md
 jewellery | Words/J/jewellery.md
 ridiculous | Words/R/ridiculous.md
 marijuana | Words/M/marijuana.md
@@ -358,7 +352,6 @@ exquisite | Words/E/exquisite.md
 punch | Words/P/punch.md
 squash | Words/S/squash.md
 enormous | Words/E/enormous.md
-sophistication | Words/S/sophistication.md
 fascinating | Words/F/fascinating.md
 geology | Words/G/geology.md
 cafeteria | Words/C/cafeteria.md
@@ -408,7 +401,7 @@ hence | Words/H/hence.md
 term | Words/T/term.md
 benchmark | Words/B/benchmark.md
 chess | Words/C/chess.md
-bureaucracy | Words/B/bureaucracy.md
+bureau | Words/B/bureau.md
 manifesto | Words/M/manifesto.md
 autonomy | Words/A/autonomy.md
 backdoor | Words/B/backdoor.md
@@ -642,7 +635,6 @@ lateness | Words/L/lateness.md
 undergraduate | Words/U/undergraduate.md
 postgraduate | Words/P/postgraduate.md
 monologue | Words/M/monologue.md
-yogurt | Words/Y/yogurt.md
 gaze | Words/G/gaze.md
 linger | Words/L/linger.md
 restroom | Words/R/restroom.md
@@ -655,13 +647,13 @@ simultaneous | Words/S/simultaneous.md
 suspicious | Words/S/suspicious.md
 contest | Words/C/contest.md
 
-Phrases(Count: 82):
+Phrases(Count: 80):
+paycheck_to_paycheck | Phrases/P/paycheck_to_paycheck.md
 the_tip_of_the_iceberg | Phrases/T/the_tip_of_the_iceberg.md
 top_down | Phrases/T/top_down.md
 trade_off | Phrases/T/trade_off.md
 on_target | Phrases/O/on_target.md
-in_the_aftermath | Phrases/I/in_the_aftermath.md
-accounting_for | Phrases/A/accounting_for.md
+account_for | Phrases/A/account_for.md
 be_meant_for | Phrases/B/be_meant_for.md
 more_of | Phrases/M/more_of.md
 grey_area | Phrases/G/grey_area.md
@@ -701,7 +693,6 @@ dive_into | Phrases/D/dive_into.md
 be_equivalent_to | Phrases/B/be_equivalent_to.md
 fling_oneself_at_sb | Phrases/F/fling_oneself_at_sb.md
 mess_with | Phrases/M/mess_with.md
-apple_slices | Phrases/A/apple_slices.md
 have_feelings_for_sb | Phrases/H/have_feelings_for_sb.md
 be_deemed_as | Phrases/B/be_deemed_as.md
 on_track | Phrases/O/on_track.md
@@ -713,8 +704,7 @@ zoom_in | Phrases/Z/zoom_in.md
 yearn_for | Phrases/Y/yearn_for.md
 work_around | Phrases/W/work_around.md
 help_sb_walk_free_from | Phrases/H/help_sb_walk_free_from.md
-stand_by_sb | Phrases/S/stand_by_sb.md
-be_qualified_to | Phrases/B/be_qualified_to.md
+stand_by | Phrases/S/stand_by.md
 strive_for | Phrases/S/strive_for.md
 rule_out | Phrases/R/rule_out.md
 go_dutch | Phrases/G/go_dutch.md

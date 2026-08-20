@@ -1,6 +1,6 @@
 🕒 Updated: 2026-08-18
 📅 Created: 2026-08-18
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### solitary
 [ˈsɒlətri]
@@ -8,6 +8,8 @@
 **Desp**
 adj. done or existing alone; single.
 独居的，孤独的
+
+solitude [ˈsɑːlətuːd] n. 独居，独处，孤独；
 
 **Usages**
 - solitary birds 独居鸟类

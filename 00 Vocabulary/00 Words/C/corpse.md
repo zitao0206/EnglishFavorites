@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### corpse
 [kɔːps]
 
 **Desp**
-n. A dead body, usually of a person.
+n.a dead body, usually of a person.
 尸体
 
 **Usages**

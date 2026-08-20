@@ -1,8 +1,8 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 ### simultaneous
-[ˌsaɪmlˈteɪniəs]
+[ˌsaɪm(ə)lˈteɪniəs]
 
 **Desp**
 adj. happening, done, or existing at the same time.

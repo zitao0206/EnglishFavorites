@@ -1,13 +1,16 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### inferior
 [ɪnˈfɪəriə(r)]
 
 **Desp**
 adj. Lower in quality, status or rank; not as good as others.
-低劣的，差的；下级的，次等的
+adj. 低劣的，差的；下级的，次等的
+n. 下级，（地位或成就）低于他人者
+
+【反】superior [suːˈpɪriər] adj. 更好的；优等的；地位更高的 n. 上级，上司
 
 **Usages**
 - be inferior to sb/sth 不如……

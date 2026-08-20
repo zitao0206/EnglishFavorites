@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### vacuity
 [vəˈkjuːəti]
 
 **Desp**
-n. Emptiness; lack of content, ideas or law.
+n. emptiness; lack of content, ideas or law.
 空虚，空洞，缺失
 
 **Usages**

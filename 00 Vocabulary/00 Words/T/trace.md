@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### trace
 [treɪs]
 
 **Desp**
-v. To follow or find the origin of something; to draw an outline.
+v. to follow or find the origin of something; to draw an outline.
 追踪，追溯；描绘，描摹；查找源头
 
 **Usages**

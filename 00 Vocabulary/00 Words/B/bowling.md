@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### bowling
 [ˈbəʊlɪŋ]
 
 **Desp**
-n. A game in which players roll a heavy ball along a lane to knock down pins.
+n. a game in which players roll a heavy ball along a lane to knock down pins.
 保龄球运动
 
 **Usages**

@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### fascinating
 [ˈfæsɪneɪtɪŋ]
@@ -18,3 +18,4 @@ adj. Extremely interesting and attractive.
 1. The documentary about the deep sea is fascinating. 这部关于深海的纪录片引人入胜。
 2. I find ancient history absolutely fascinating. 我觉得古代历史极其迷人。
 3. She told us a fascinating tale of adventure. 她给我们讲了一个迷人的冒险故事。
+4. It's so fascinating to read this novel.

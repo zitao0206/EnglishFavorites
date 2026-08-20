@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### designate
 [ˈdezɪɡneɪt]
@@ -18,3 +18,4 @@ v. To officially choose someone or something for a purpose; to mark or indicate.
 1. The manager designated him as team-lead. 经理指定他为团队负责人。
 2. This area has been designated as a nature reserve. 该地区被指定为自然保护区。
 3. The seats are designated for elderly passengers. 这些座位是划给老年乘客的。
+4. He was designated as the new CEO of the company.

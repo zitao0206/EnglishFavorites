@@ -1,11 +1,11 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### zoom in
 
 **Desp**
-phr&v. To make an image appear larger, or to focus closely on something.
+phr&v. to make an image appear larger, or to focus closely on something.
 （镜头）拉近，放大；聚焦于
 
 **Usages**

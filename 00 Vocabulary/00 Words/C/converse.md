@@ -1,16 +1,15 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### converse
 [kənˈvɜːs]
 
 **Desp**
-v. To talk formally; adj. opposite in nature.
-交谈；相反的
+adj. opposite in nature.
+相反的
 
 **Usages**
-- converse with sb 与某人交谈
 - conversely adv. 相反地，反过来
 - the converse is also true 反之亦然
 

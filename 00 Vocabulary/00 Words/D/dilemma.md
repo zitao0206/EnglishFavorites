@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### dilemma
 [dɪˈlemə]
 
 **Desp**
-n. A situation in which you have to make a difficult choice between two things.
+n. a situation in which you have to make a difficult choice between two things.
 困境，进退两难
 
 **Usages**

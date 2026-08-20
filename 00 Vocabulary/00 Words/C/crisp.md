@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### crisp
 [krɪsp]
 
 **Desp**
-adj. Firm, dry, and brittle; pleasantly clear and cool; brisk and decisive.
+adj. firm, dry, and brittle; pleasantly clear and cool; brisk and decisive.
 脆的，酥脆的；清爽的；干脆利落的
 
 **Usages**

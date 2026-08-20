@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### ambassador
 [æmˈbæsədə(r)]
@@ -15,3 +15,4 @@ n. a senior official sent to represent a country abroad; a person who represents
 **Examples**
 1. She served as ambassador to France. 她曾任驻法国大使。
 2. The singer became a brand ambassador for the company. 这位歌手成为了该公司的品牌大使。
+

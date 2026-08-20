@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### critical
 [ˈkrɪtɪkl]
 
 **Desp**
-adj. Expressing disapproval; extremely important; very serious or dangerous.
+adj. expressing disapproval; extremely important; very serious or dangerous.
 批评的；关键的，至关重要的；危急的
 
 **Usages**

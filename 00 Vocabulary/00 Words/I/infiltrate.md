@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### infiltrate
 [ˈɪnfɪltreɪt]
 
 **Desp**
-v. To secretly enter an organization or place in order to gain information or influence.
+v. to secretly enter an organization or place in order to gain information or influence.
 渗透，潜入，混入
 
 **Usages**

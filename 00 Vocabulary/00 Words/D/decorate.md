@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### decorate
 [ˈdekəreɪt]
 
 **Desp**
-v. To make something look more attractive by adding ornaments; to paint or wallpaper a room.
+v. to make something look more attractive by adding ornaments; to paint or wallpaper a room.
 装饰，布置；装修
 
 **Usages**

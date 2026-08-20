@@ -1,9 +1,9 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### toll
-[təʊl]
+[toʊl]
 
 **Desp**
 n. money paid for using a road or bridge; the damage or deaths caused by something.

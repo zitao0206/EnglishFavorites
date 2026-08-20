@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### upbringing
 [ˈʌpbrɪŋɪŋ]
 
 **Desp**
-n. The way in which a child is cared for and taught by their parents.
+n. the way in which a child is cared for and taught by their parents.
 养育，教养；成长环境
 
 **Usages**

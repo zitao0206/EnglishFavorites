@@ -1,11 +1,11 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### gather thoughts
 
 **Desp**
-phr&v. To collect your thoughts; to think before acting.
+phr&v. to collect your thoughts; to think before acting.
 集中思绪，整理思路
 
 **Usages**

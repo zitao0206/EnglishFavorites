@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### vital
 [ˈvaɪtl]
 
 **Desp**
-adj. Extremely important and necessary; full of energy.
+adj. extremely important and necessary; full of energy.
 至关重要的；充满活力的
 
 **Usages**

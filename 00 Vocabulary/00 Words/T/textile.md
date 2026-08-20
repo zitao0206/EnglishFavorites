@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### textile
 [ˈtekstaɪl]
 
 **Desp**
-n./adj. cloth or fabric; relating to cloth.
+n/adj. cloth or fabric; relating to cloth.
 n. 纺织品，织物 adj. 纺织的
 
 **Usages**

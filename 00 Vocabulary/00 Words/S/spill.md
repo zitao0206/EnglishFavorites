@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### spill
 
 
 **Desp**
-v. To cause or allow liquid to flow over the edge of a container.
+v. to cause or allow liquid to flow over the edge of a container.
 洒出，泼出，溢出
 
 **Usages**

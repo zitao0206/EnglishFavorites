@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### erupt
 [ɪˈrʌpt]
 
 **Desp**
-v. To burst out suddenly (of a volcano); to happen suddenly and violently (of violence, anger, etc.).
+v. to burst out suddenly (of a volcano); to happen suddenly and violently (of violence, anger, etc.).
 （火山）喷发；爆发，突然发生
 
 **Usages**

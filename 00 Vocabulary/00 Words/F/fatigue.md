@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### fatigue
 [fəˈtiːɡ]
 
 **Desp**
-n. Extreme tiredness; v. to make someone very tired.
+n. extreme tiredness; v. to make someone very tired.
 疲劳，疲乏；使疲劳
 
 **Usages**

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### elementary
 [ˌelɪˈmentri]
 
 **Desp**
-adj. Simple and basic; relating to the early stages of education.
+adj. simple and basic; relating to the early stages of education.
 简单的，基础的；初级的
 
 **Usages**

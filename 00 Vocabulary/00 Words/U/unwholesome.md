@@ -1,13 +1,15 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### unwholesome
 [ʌnˈhəʊlsəm]
 
 **Desp**
-adj. Not healthy or morally good; harmful to health or character.
+adj. not healthy or morally good; harmful to health or character.
 不卫生的；有害健康的；不良的，堕落的
+
+【反】wholesome [ˈhoʊlsəm] adj. （食物）有益健康的；有益身心健康的，增进身心健康的；
 
 **Usages**
 - unwholesome food 变质食物

@@ -1,13 +1,13 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### faint
 [feɪnt]
 
 **Desp**
-adj./v. Very slight or weak; not clear; to suddenly become unconscious.
-微弱的，模糊的；头晕的；（v.）晕倒
+adj/v. very slight or weak; not clear; to suddenly become unconscious.
+adj. 微弱的，模糊的；头晕的；v. 晕倒
 
 **Usages**
 - a faint smile 淡淡的微笑

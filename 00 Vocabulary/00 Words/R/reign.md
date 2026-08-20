@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### reign
 [reɪn]
 
 **Desp**
-n./v. the period during which a monarch rules; to rule or prevail.
+n/v. the period during which a monarch rules; to rule or prevail.
 n. 统治，在位期；主宰 v. 统治，盛行
 
 **Usages**

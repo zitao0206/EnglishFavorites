@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### discrete
 [dɪˈskriːt]
 
 **Desp**
-adj. Separate and distinct; individually separate.
+adj. separate and distinct; individually separate.
 离散的，分立的
 
 **Usages**

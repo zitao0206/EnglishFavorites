@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### double-cross
 [ˌdʌbl ˈkrɒs]
 
 **Desp**
-v. To betray or cheat someone who trusts you.
+v. to betray or cheat someone who trusts you.
 出卖，欺骗（背叛信任自己的人）
 
 **Usages**

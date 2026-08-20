@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### tanned
 [tænd]
 
 **Desp**
-adj./v-ed skin darkened by the sun.
+adj/v-ed skin darkened by the sun.
 深褐色的；被晒成棕褐色
 
 **Usages**

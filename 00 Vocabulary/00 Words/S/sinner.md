@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### sinner
 [ˈsɪnə(r)]
 
 **Desp**
-n. A person who has done wrong or broken religious/moral law.
+n. a person who has done wrong or broken religious/moral law.
 罪人
 
 **Usages**

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### awkward
 [ˈɔːkwəd]
 
 **Desp**
-adj. Causing embarrassment; difficult to handle.
+adj. causing embarrassment; difficult to handle.
 令人尴尬的，为难的；笨拙的
 
 **Usages**

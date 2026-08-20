@@ -1,11 +1,11 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### be deemed as
 
 **Desp**
-phr. To be regarded or considered as something (formal, written).
+phr. to be regarded or considered as something (formal, written).
 被视为……（书面正式）
 
 **Usages**

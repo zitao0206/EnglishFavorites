@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### eliminate
 [ɪˈlɪmɪneɪt]
 
 **Desp**
-v. To completely remove or get rid of something.
+v. to completely remove or get rid of something.
 消除，排除；淘汰
 
 **Usages**

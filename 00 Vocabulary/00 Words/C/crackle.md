@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### crackle
 [ˈkrækl]
 
 **Desp**
-v/n. To make a series of small sharp snapping sounds; such a sound.
+v/n. to make a series of small sharp snapping sounds; such a sound.
 （使）发出噼啪声；噼啪声响
 
 **Usages**

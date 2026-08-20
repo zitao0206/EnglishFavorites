@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### fictional
 [ˈfɪkʃənl]
 
 **Desp**
-adj. Imagined and not real; from a story.
+adj. imagined and not real; from a story.
 虚构的，假想的
 
 **Usages**

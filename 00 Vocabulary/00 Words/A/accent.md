@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### accent
 [ˈæksent]
 
 **Desp**
-n./v. The way a person pronounces words, showing where they are from; extra force given to a syllable.
+n/v. the way a person pronounces words, showing where they are from; extra force given to a syllable.
 口音，腔调；重音；强调
 
 **Usages**

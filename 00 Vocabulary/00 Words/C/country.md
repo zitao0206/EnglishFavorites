@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### country
 
 
 **Desp**
-n. The countryside (as opposed to the city); adj. rural.
+n. the countryside (as opposed to the city); adj. rural.
 n. 乡村，乡下；adj. 乡下的，农村的
 
 **Usages**

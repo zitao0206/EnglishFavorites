@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### docile
 [ˈdəʊsaɪl]
 
 **Desp**
-adj. Quiet and easy to control ≈ gentle / tame.
+adj. quiet and easy to control ≈ gentle / tame.
 驯服的，温顺的
 
 **Usages**

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### tasty
 [ˈteɪsti]
 
 **Desp**
-adj. Having a pleasant taste; delicious.
+adj. having a pleasant taste; delicious.
 美味可口的
 
 **Usages**

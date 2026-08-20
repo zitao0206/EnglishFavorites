@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### hurdle
 [ˈhɜːrdl]
@@ -8,6 +8,8 @@
 **Desp**
 n. An obstacle or difficulty; a frame or fence in a race. v. To overcome an obstacle.
 障碍，难关；跨栏
+
+【同】obstacle [ˈɑːbstək(ə)l] n. 障碍，阻碍；障碍物
 
 **Usages**
 - overcome a hurdle 克服障碍

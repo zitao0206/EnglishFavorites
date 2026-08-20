@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### tedious
 [ˈtiːdiəs]
 
 **Desp**
-adj. Long, slow and boring.
+adj. long, slow and boring.
 乏味的，单调冗长的
 
 **Usages**

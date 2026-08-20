@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### unwind
 [ˌʌnˈwaɪnd]
 
 **Desp**
-v. To relax and stop feeling anxious; to undo something that is wound around.
+v. to relax and stop feeling anxious; to undo something that is wound around.
 放松，松弛；解开，展开
 
 **Usages**

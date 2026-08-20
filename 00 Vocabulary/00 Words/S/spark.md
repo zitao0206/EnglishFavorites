@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### spark
 [spɑːrk]
 
 **Desp**
-n. A small flash of light; an initial stimulus that ignites something. v. To trigger or set in motion.
+n. a small flash of light; an initial stimulus that ignites something. v. To trigger or set in motion.
 火花；触发，引发
 
 **Usages**

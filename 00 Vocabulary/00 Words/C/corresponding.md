@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### corresponding
 [ˌkɒrəˈspɒndɪŋ]
 
 **Desp**
-adj. Matching or connected with something that you have just mentioned.
+adj. matching or connected with something that you have just mentioned.
 相应的，对应的
 
 **Usages**

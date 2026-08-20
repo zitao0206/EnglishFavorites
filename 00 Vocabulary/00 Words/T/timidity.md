@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### timidity
 [tɪˈmɪdəti]
@@ -8,6 +8,7 @@
 **Desp**
 n. Lack of courage or confidence; shyness.
 胆怯，怯懦
+- timid adj. 羞怯的，胆小的
 
 **Usages**
 - overcome timidity 克服胆怯

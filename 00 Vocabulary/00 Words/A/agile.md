@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### agile
 [ˈædʒl]
 
 **Desp**
-adj. Able to move quickly and easily; able to think and react quickly; (of methods) flexible.
+adj. able to move quickly and easily; able to think and react quickly; (of methods) flexible.
 敏捷的，灵活的；反应快的
 
 **Usages**

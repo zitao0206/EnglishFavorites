@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-18
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-18
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### evacuate
 [ɪˈvækjueɪt]
@@ -12,6 +12,7 @@ v. to move people from a place of danger to a safer place.
 **Extension**
 同义词：transfer
 名词形式：evacuation
+execute [ˈeksɪkjuːt] v. 执行，实施；处决
 
 **Usages**
 - evacuate to 转移至

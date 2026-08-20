@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### snore
 [snɔː(r)]
 
 **Desp**
-n./v. To breathe noisily while sleeping.
+n/v. to breathe noisily while sleeping.
 打鼾，打呼噜
 
 **Usages**

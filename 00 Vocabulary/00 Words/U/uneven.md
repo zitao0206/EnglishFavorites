@@ -1,13 +1,15 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### uneven
 [ʌnˈiːvn]
 
 **Desp**
-adj. Not level, smooth or regular.
+adj. not level, smooth or regular.
 不平坦的，不规则的
+
+【反】even. adj. 平坦的；相等的
 
 **Usages**
 - the uneven mark 不规则的印记

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### efficient
 [ɪˈfɪʃnt]
 
 **Desp**
-adj. Achieving maximum productivity with minimum wasted effort or expense.
+adj. achieving maximum productivity with minimum wasted effort or expense.
 高效的，有效率的
 
 **Usages**

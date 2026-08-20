@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### spit
 [spɪt]
 
 **Desp**
-vt./vi. to force liquid or food out of the mouth.
+vt/vi. to force liquid or food out of the mouth.
 吐出；吐痰
 
 **Usages**

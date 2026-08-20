@@ -1,8 +1,9 @@
 🕒 Updated: 2026-08-17
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### disrespectful
+[dɪsrɪˈspektf(ə)l]
 
 **Desp**
 adj. showing a lack of respect.

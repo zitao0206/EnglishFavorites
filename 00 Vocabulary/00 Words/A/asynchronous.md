@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### asynchronous
 [eɪˈsɪŋkrənəs]
 
 **Desp**
-adj. Not existing or occurring at the same time; (of communication) not requiring real-time interaction.
+adj. not existing or occurring at the same time; (of communication) not requiring real-time interaction.
 异步的，非同步的
 
 **Usages**

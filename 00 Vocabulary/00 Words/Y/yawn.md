@@ -1,13 +1,13 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### yawn
 [jɔːn]
 
 **Desp**
-v./n. To open your mouth wide and breathe in deeply because you are tired or bored; a boring thing or event.
-打哈欠；（n.）哈欠；乏味的事物
+v/n. to open your mouth wide and breathe in deeply because you are tired or bored; a boring thing or event.
+v. 打哈欠；n. 哈欠；乏味的事物
 
 **Usages**
 - yawn with boredom 无聊得打哈欠

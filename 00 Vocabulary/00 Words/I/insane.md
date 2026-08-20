@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### insane
 [ɪnˈseɪn]
 
 **Desp**
-adj. Mentally ill; extremely unreasonable or crazy.
+adj. mentally ill; extremely unreasonable or crazy.
 疯狂的，精神失常的
 
 **Usages**

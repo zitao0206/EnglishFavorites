@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### essentially
 [ɪˈsenʃəli]
 
 **Desp**
-adv. Used to say what the most important aspect of something is; basically.
+adv. used to say what the most important aspect of something is; basically.
 本质上，根本上；基本上
 
 **Usages**

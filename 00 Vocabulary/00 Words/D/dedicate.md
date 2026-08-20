@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### dedicate
 [ˈdedɪkeɪt]
 
 **Desp**
-v. To give all your energy, time, or effort to something; to say that a book or song was written for someone.
+v. to give all your energy, time, or effort to something; to say that a book or song was written for someone.
 献身于，致力于；题献
 
 **Usages**

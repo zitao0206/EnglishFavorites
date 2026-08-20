@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 ### slippery slope
 [ˌslɪpəri ˈsloʊp]
 
 **Desp**
 
-phr. A dangerous chain reaction: a course of action that seems harmless at first but leads to serious consequences.
+phr. a dangerous chain reaction: a course of action that seems harmless at first but leads to serious consequences.
 滑坡效应，灾难性连锁反应（常用于政治、辩论等场景）
 
 **Usages**

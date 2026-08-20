@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### modest
 [ˈmɒdɪst]
@@ -8,6 +8,10 @@
 **Desp**
 adj. Not proud or boastful about your abilities; moderate in size or amount.
 谦虚的，谦逊的；适度的，不太大的
+
+【区】
+**modest**：谦虚低调，不自夸；也可表示适度、不大**（中性‑褒义）
+**humble**：谦卑，放低姿态；也可指出身卑微，感情色彩更强
 
 **Usages**
 - a modest person 谦虚的人

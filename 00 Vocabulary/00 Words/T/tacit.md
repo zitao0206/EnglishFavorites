@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### tacit
 [ˈtæsɪt]
 
 **Desp**
-adj. Understood or implied without being stated openly.
+adj. understood or implied without being stated openly.
 心照不宣的，默示的
 
 **Usages**

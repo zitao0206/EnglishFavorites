@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### comply
 [kəmˈplaɪ]
 
 **Desp**
-v. To obey a rule, law, or request; to act in accordance with.
+v. to obey a rule, law, or request; to act in accordance with.
 遵从，服从，遵守
 
 **Usages**

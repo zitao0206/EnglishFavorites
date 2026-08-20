@@ -1,11 +1,11 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### weep for sb/sth
 
 **Desp**
-phr&v. To cry because of sadness for someone or something.
+phr&v. to cry because of sadness for someone or something.
 为……哭泣
 
 **Usages**

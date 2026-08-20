@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### quote
 [kwəʊt]
 
 **Desp**
-n./v. to repeat words from a source; a quotation.
+n/v. to repeat words from a source; a quotation.
 n. 引语，引文 v. 引述，引证
 
 **Usages**

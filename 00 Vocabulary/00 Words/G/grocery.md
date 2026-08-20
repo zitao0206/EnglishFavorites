@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### grocery
 [ˈɡroʊsəri]
 
 **Desp**
-n. Food and other goods sold in a store; a store that sells food and household goods.
+n. food and other goods sold in a store; a store that sells food and household goods.
 食品杂货；食品杂货店
 
 **Usages**

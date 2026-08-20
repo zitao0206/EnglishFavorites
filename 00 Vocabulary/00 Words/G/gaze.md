@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 ### gaze
 [ɡeɪz]
 
@@ -10,7 +10,7 @@ v. to look steadily and intently, especially in admiration, surprise, or thought
 n. A long, steady look.
 
 **Usages**
-- gaze into the abyss 凝视深渊
+- gaze into the abyss [əˈbɪs] 凝视深渊
 - gaze at sb/sth 凝视某人/某物
 - meet sb's gaze 迎上某人的目光
 

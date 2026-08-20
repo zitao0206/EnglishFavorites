@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### consonant
 [ˈkɒnsənənt]
 
 **Desp**
-n. A speech sound that is not a vowel; a letter representing such a sound.
+n. a speech sound that is not a vowel; a letter representing such a sound.
 辅音，辅音音素
 
 **Usages**

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### calculus
 [ˈkælkjələs]
 
 **Desp**
-n. The branch of mathematics dealing with rates of change and areas.
+n. the branch of mathematics dealing with rates of change and areas.
 微积分
 
 **Usages**

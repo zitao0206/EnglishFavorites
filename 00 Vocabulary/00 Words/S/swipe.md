@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### swipe
 [swaɪp]
 
 **Desp**
-v. To move your finger across a screen; to pass a card through a reader; to steal something.
+v. to move your finger across a screen; to pass a card through a reader; to steal something.
 滑动（屏幕）；刷（卡）；偷窃
 
 **Usages**

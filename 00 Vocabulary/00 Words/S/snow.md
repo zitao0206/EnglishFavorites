@@ -1,12 +1,11 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### snow
 
-
 **Desp**
-n. Frozen water falling in flakes; v. to fall as snow.
+n. frozen water falling in flakes; v. to fall as snow.
 n. 雪；v. 下雪
 
 **Usages**

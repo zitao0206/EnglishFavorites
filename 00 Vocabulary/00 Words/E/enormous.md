@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### enormous
 [ɪˈnɔːməs]
 
 **Desp**
-adj. Extremely large in size or degree.
+adj. extremely large in size or degree.
 巨大的，极大的
 
 **Usages**

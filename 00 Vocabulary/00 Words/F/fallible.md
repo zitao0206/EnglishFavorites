@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### fallible
 [ˈfæləbl]
 
 **Desp**
-adj. Able to make mistakes or be wrong.
+adj. able to make mistakes or be wrong.
 会犯错误的；难免出错的
 
 **Usages**

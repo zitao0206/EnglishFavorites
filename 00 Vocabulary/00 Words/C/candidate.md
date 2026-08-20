@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### candidate
 [ˈkændɪdət]
 
 **Desp**
-n. A person who is applying for a job or being considered for a position; a person taking an exam.
+n. a person who is applying for a job or being considered for a position; a person taking an exam.
 候选人；应试者；求职者
 
 **Usages**

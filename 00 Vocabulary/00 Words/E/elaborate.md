@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### elaborate
 [ɪˈlæbərət]
 
 **Desp**
-v. To explain in detail; adj. detailed and complicated.
+v. to explain in detail; adj. detailed and complicated.
 v. 详述；adj. 复杂的，详尽的
 
 **Usages**

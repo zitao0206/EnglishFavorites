@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### thereby
 [ˌðeəˈbaɪ]
 
 **Desp**
-adv. As a result of that action; by doing so.
+adv. as a result of that action; by doing so.
 因此，由此，从而
 
 **Usages**

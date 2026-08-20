@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### whereas
 [weəˈræz]
 
 **Desp**
-conj. But in contrast; while on the other hand.
+conj. but in contrast; while on the other hand.
 然而，反之，鉴于
 
 **Usages**

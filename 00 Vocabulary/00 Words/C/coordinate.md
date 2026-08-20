@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### coordinate
 [koʊˈɔːrdɪneɪt]
 
 **Desp**
-v. To organize things so that they work together effectively; n. a position on a map or graph.
+v. to organize things so that they work together effectively; n. a position on a map or graph.
 协调，配合；坐标
 
 **Usages**

@@ -1,12 +1,14 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### fling oneself at sb
-
+[flɪŋ]
 **Desp**
-phr&v. To throw oneself at someone romantically; to make bold advances toward someone.
+phr&v. to throw oneself at someone romantically; to make bold advances toward someone.
 主动投怀送抱，示好献殷勤，大胆示爱
+
+- fling v.  v. 扔，掷；猛动（身体部位）
 
 **Usages**
 - fling oneself at sb 主动投怀送抱

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### concrete
 [ˈkɒŋkriːt]
 
 **Desp**
-adj. Definite and specific; n. a building material made of cement.
+adj. definite and specific; n. a building material made of cement.
 具体的，明确的；混凝土
 
 **Usages**

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### thrive
 [θraɪv]
 
 **Desp**
-v. To grow, develop, or be successful; to be healthy and happy.
+v. to grow, develop, or be successful; to be healthy and happy.
 茁壮成长；兴旺发达
 
 **Usages**

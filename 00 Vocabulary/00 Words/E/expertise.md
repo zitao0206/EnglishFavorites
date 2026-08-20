@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### expertise
 [ˌekspɜːˈtiːz]
 
 **Desp**
-n. Special skill or knowledge that you get from experience or training.
+n. special skill or knowledge that you get from experience or training.
 专业知识，专业技能；专长
 
 **Usages**

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### skeptical
 [ˈskeptɪkl]
 
 **Desp**
-adj. Having doubts about something that other people believe; not easily convinced.
+adj. having doubts about something that other people believe; not easily convinced.
 怀疑的，持怀疑态度的
 
 **Usages**

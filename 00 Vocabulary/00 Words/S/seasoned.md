@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### seasoned
 [ˈsiːznd]
 
 **Desp**
-adj. Having a lot of experience in a particular activity.
+adj. having a lot of experience in a particular activity.
 经验丰富的；调过味的
 
 **Usages**

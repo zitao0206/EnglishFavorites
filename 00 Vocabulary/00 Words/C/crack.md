@@ -1,13 +1,13 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### crack
 [kræk]
 
 **Desp**
-n./v. A line on the surface of something where it has broken; to break or make something break without separating completely.
-裂缝；（v.）破裂；破解
+n/v. a line on the surface of something where it has broken; to break or make something break without separating completely.
+n. 裂缝；v. 破裂；破解
 
 **Usages**
 - a crack in the wall 墙上的裂缝

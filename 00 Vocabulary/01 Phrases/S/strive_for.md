@@ -1,11 +1,11 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### strive for
 
 **Desp**
-phr&v. To try very hard to achieve something.
+phr&v. to try very hard to achieve something.
 努力争取，为……而奋斗
 
 **Usages**

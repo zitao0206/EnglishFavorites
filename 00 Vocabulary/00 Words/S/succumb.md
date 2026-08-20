@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-18
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-18
-📌 ReviewCount: 1
+📌 ReviewCount: 3
 
 ### succumb
 [səˈkʌm]
@@ -8,9 +8,6 @@
 **Desp**
 v. to yield to pressure or temptation; to die from the effects of something.
 屈服（+ to）
-
-**Extension**
-搭配：succumb to + sth
 
 **Usages**
 - succumb to pressure 屈服于压力

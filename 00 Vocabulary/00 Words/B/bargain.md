@@ -1,12 +1,13 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### bargain
 
 
 **Desp**
-v. To negotiate the price of something; n. something bought at a good price.
+v. To negotiate the price of something;
+n. something bought at a good price.
 v. 讨价还价；n. 便宜货
 
 **Usages**

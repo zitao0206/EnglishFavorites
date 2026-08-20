@@ -1,11 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### yearn for
+[jɜːrn]
 
 **Desp**
-phr&v. To feel a strong desire or longing for something.
+phr&v. to feel a strong desire or longing for something.
 渴望，向往
 
 **Usages**

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### sequential
 [sɪˈkwenʃl]
 
 **Desp**
-adj. Following in a logical order or sequence; happening one after another.
+adj. following in a logical order or sequence; happening one after another.
 连续的，按顺序的
 
 **Usages**

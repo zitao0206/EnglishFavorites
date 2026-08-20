@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### grain
 [ɡreɪn]
 
 **Desp**
-n. Seeds of crops such as wheat and rice; a tiny piece.
+n. seeds of crops such as wheat and rice; a tiny piece.
 谷物，谷粒，颗粒
 
 **Usages**

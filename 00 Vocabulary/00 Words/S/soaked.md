@@ -1,13 +1,14 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### soaked
-[səʊkt]
+[soʊk]
 
 **Desp**
-adj. Very wet.
+adj. very wet.
 湿透的
+v. 浸泡；使湿透，浸湿；
 
 **Usages**
 - get soaked 被淋透

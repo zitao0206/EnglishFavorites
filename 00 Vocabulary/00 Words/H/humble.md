@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### humble
 [ˈhʌmbl]
@@ -8,6 +8,10 @@
 **Desp**
 adj. modest; low in rank or importance.
 谦逊的；低下的，卑微的
+
+【区】
+**modest**：谦虚低调，不自夸；也可表示适度、不大**（中性‑褒义）
+**humble**：谦卑，放低姿态；也可指出身卑微，感情色彩更强
 
 **Usages**
 - humble attitude 谦逊的态度

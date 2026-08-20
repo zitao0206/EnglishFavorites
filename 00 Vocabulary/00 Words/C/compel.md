@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### compel
 [kəmˈpel]
 
 **Desp**
-v. To force someone to do something; to cause a strong feeling or reaction.
+v. to force someone to do something; to cause a strong feeling or reaction.
 强迫，迫使；引起（感情等）
 
 **Usages**

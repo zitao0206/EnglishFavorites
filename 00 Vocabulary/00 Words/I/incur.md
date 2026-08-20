@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### incur
 [ɪnˈkɜː(r)]
 
 **Desp**
-v. To experience something unpleasant as a result of your actions; to bring on yourself.
+v. to experience something unpleasant as a result of your actions; to bring on yourself.
 招致，引起；蒙受（损失、费用）
 
 **Usages**
