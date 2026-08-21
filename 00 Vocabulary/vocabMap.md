@@ -683,6 +683,7 @@ suspicious | Words/S/suspicious.md
 contest | Words/C/contest.md
 
 Phrases(Count: 92):
+
 settle_down | Phrases/S/settle_down.md
 on_good_terms | Phrases/O/on_good_terms.md
 take_note_of | Phrases/T/take_note_of.md

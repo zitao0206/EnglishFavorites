@@ -4,7 +4,7 @@
 第一步（这一步跳过）：
 
 检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/vocabMap.md判断单词/短语是否已经存在。如果已经存在，如下：
-(1) 补充提供的内容到单词的.md中；
+（1）补充提供的内容到单词的.md中；
 （2）并更新索引内容中的ReviewCount， 加1；
 （3）更新Updated字段为最新日期；
 
