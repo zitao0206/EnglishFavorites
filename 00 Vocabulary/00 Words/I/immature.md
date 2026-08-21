@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### immature
 [ˌɪməˈtjʊə(r)]
 
 **Desp**
-adj. Not fully developed physically or mentally; behaving like a child.
+adj. not fully developed physically or mentally; behaving like a child.
 不成熟的
 
 **Usages**

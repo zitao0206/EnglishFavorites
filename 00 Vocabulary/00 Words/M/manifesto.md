@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### manifesto
 [ˌmænɪˈfestəʊ]
 
 **Desp**
-n. A public statement explaining the aims, beliefs, or plans of a person or group.
+n. a public statement explaining the aims, beliefs, or plans of a person or group.
 宣言，声明
 
 **Usages**

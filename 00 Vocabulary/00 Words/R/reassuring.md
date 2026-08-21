@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### reassuring
 [ˌriːəˈʃʊərɪŋ]
 
 **Desp**
-adj. Making you feel less worried or frightened.
+adj. making you feel less worried or frightened.
 安慰的，安心的，可靠的
 
 **Usages**

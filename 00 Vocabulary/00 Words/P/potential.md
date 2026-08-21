@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### potential
 [pəˈtenʃl]
 
 **Desp**
-adj. Possible or likely in the future; n. the ability to develop or become something.
+adj. possible or likely in the future; n. the ability to develop or become something.
 潜在的，可能的；潜力，潜能
 
 **Usages**

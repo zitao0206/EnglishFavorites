@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### recruit
 [rɪˈkruːt]
 
 **Desp**
-v. To enroll someone as a member or worker. n. A new member of an organization.
+v. to enroll someone as a member or worker. n. A new member of an organization.
 招募，招聘；新成员
 
 **Usages**

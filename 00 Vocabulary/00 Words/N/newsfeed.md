@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### newsfeed
 
 
 **Desp**
-n. A stream of regularly updated posts or news shown on a website or app.
+n. a stream of regularly updated posts or news shown on a website or app.
 新闻信息流
 
 **Usages**

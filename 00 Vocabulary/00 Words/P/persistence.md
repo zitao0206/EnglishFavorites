@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### persistence
 [pərˈsɪstəns]
 
 **Desp**
-n. The quality of continuing to do something despite difficulty; the fact of continuing to exist.
+n. the quality of continuing to do something despite difficulty; the fact of continuing to exist.
 坚持，毅力；持续
 
 **Usages**

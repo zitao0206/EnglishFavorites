@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### odds
 [ɒdz]
 
 **Desp**
-n. The probability that something will happen.
+n. the probability that something will happen.
 可能性，几率
 
 **Usages**

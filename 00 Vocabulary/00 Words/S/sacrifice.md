@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### sacrifice
 [ˈsækrɪfaɪs]
 
 **Desp**
-n./v. Giving up something valuable for a good reason; to give up something for the sake of another.
+n./v. giving up something valuable for a good reason; to give up something for the sake of another.
 牺牲；献祭；（v.）牺牲，舍弃
 
 **Usages**

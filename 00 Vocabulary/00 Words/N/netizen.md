@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### netizen
 [ˈnetɪzn]
 
 **Desp**
-n. A person who uses the internet, especially habitually or actively.
+n. a person who uses the internet, especially habitually or actively.
 网民，网络公民（net + citizen）
 
 **Usages**

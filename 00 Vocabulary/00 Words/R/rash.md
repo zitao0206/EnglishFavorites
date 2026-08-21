@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### rash
 [ræʃ]
 
 **Desp**
-n. An area of red spots on the skin; a series of unpleasant events.
+n. an area of red spots on the skin; a series of unpleasant events.
 皮疹；一连串（糟糕的）事情
 
 **Usages**

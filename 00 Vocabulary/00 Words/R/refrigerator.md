@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### refrigerator
 [rɪˈfrɪdʒəreɪtər]
 
 **Desp**
-n. A large appliance that keeps food and drinks cold.
+n. a large appliance that keeps food and drinks cold.
 冰箱，冷藏柜
 
 **Usages**

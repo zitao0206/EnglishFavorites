@@ -1,6 +1,6 @@
-🕒 Updated: 2026-08-19
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-19
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### literally
 [ˈlɪtərəli]
@@ -18,14 +18,9 @@ adv.
 - 口语加强语气 = virtually, absolutely（非正式，欧美日常极高频）
 
 **Examples**
-1. When he said "jump", he did not mean you should literally leap.
-他说"跳"的时候，并不是让你真的跳起来。
-2. The word is translated literally from French.
-这个单词是从法语逐字直译过来的。
-3. I was literally starving after the long-hour meeting.
-漫长会议结束后，我简直饿坏了。
+1. When he said "jump", he did not mean you should literally leap. 他说"跳"的时候，并不是让你真的跳起来。
+2. The word is translated literally from French. 这个单词是从法语逐字直译过来的。
+3. I was literally starving after the long-hour meeting. 漫长会议结束后，我简直饿坏了。
 👉 *并不是真的快要饿死，夸张语气*
-4. The place was literally packed with tourists.
-这个地方简直挤满了游客。
-5. He is a lion, figuratively speaking.
-打个比方，他就是一头雄狮。（比喻，勇猛）
+4. The place was literally packed with tourists. 这个地方简直挤满了游客。
+5. He is a lion, figuratively speaking. 打个比方，他就是一头雄狮。（比喻，勇猛）

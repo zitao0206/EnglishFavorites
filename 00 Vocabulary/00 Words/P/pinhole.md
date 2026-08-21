@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### pinhole
 [ˈpɪnhəʊl]
 
 **Desp**
-n. A very small hole, like one made by a pin.
+n. a very small hole, like one made by a pin.
 小孔，针眼，针孔
 
 **Usages**

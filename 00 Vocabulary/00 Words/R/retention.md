@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### retention
 [rɪˈtenʃn]
 
 **Desp**
-n. The continued possession, use, or control of something; the ability to keep or remember.
+n. the continued possession, use, or control of something; the ability to keep or remember.
 保留，保持；留存率
 
 **Usages**

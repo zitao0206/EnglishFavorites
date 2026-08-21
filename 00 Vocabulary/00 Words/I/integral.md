@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### integral
 [ˈɪntɪɡrəl]
 
 **Desp**
-adj. Necessary to make a whole complete; essential or fundamental.
+adj. necessary to make a whole complete; essential or fundamental.
 不可或缺的，完整的，基本的
 
 **Usages**

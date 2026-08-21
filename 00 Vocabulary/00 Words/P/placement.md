@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### placement
 [ˈpleɪsmənt]
 
 **Desp**
-n. The act of putting something in a particular place; a job position or a period of practical work.
+n. the act of putting something in a particular place; a job position or a period of practical work.
 安置，布置；职位安排，实习
 
 **Usages**

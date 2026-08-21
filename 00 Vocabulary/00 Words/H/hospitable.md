@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### hospitable
 [hɒˈspɪtəbl]
 
 **Desp**
-adj. Friendly and welcoming to guests or strangers.
+adj. friendly and welcoming to guests or strangers.
 好客的，热情友善的
 
 **Usages**

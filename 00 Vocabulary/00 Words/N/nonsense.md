@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### nonsense
 [ˈnɒnsns]
 
 **Desp**
-n. Words or ideas that are silly or have no meaning; foolish behavior.
+n. words or ideas that are silly or have no meaning; foolish behavior.
 胡说，废话；愚蠢的行为
 
 **Usages**

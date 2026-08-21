@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### role-play
 
 
 **Desp**
-vt./n. To act out a particular role in a simulated situation.
+vt/n. to act out a particular role in a simulated situation.
 角色扮演
 
 **Usages**

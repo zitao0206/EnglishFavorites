@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### prestigious
 [preˈstɪdʒəs]
 
 **Desp**
-adj. Respected and admired because of its importance or high quality.
+adj. respected and admired because of its importance or high quality.
 有声望的，享有盛誉的
 
 **Usages**

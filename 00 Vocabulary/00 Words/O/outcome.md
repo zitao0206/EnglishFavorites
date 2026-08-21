@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### outcome
 [ˈaʊtkʌm]
 
 **Desp**
-n. The final result of a process, meeting, or activity.
+n. the final result of a process, meeting, or activity.
 结果，结局；成果
 
 **Usages**

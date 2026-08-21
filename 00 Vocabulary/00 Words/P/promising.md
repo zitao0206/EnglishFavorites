@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### promising
 [ˈprɒmɪsɪŋ]
 
 **Desp**
-adj. Showing signs of likely success.
+adj. showing signs of likely success.
 有前途的，前景可观的
 
 **Usages**

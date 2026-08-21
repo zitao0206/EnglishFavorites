@@ -1,13 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### penalty
 [ˈpenəlti]
 
 **Desp**
-n. A punishment for breaking a law, rule, or agreement; (sports) a disadvantage given for breaking the rules.
-处罚，惩罚；罚金；点球
+n. a punishment for breaking a law, rule, or agreement; (sports) a disadvantage given for breaking the rules.  处罚，惩罚；罚金；点球
 
 **Usages**
 - a heavy penalty 重罚

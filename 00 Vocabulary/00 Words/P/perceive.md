@@ -1,13 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### perceive
 [pərˈsiːv]
 
 **Desp**
-v. To notice something that is not easy to notice; to understand or view something in a particular way.
-察觉，感知；认为，理解
+v. to notice something that is not easy to notice; to understand or view something in a particular way. 察觉，感知；认为，理解
 
 **Usages**
 - perceive the difference 察觉差异

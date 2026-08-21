@@ -1,7 +1,46 @@
 
 **Vocabulary | 文件相对路径**
 
-Words(Count: 643):
+Words(Count: 678):
+approachable | Words/A/approachable.md
+outgoing | Words/O/outgoing.md
+interpersonal | Words/I/interpersonal.md
+passionate | Words/P/passionate.md
+cherish | Words/C/cherish.md
+leverage | Words/L/leverage.md
+refine | Words/R/refine.md
+mold | Words/M/mold.md
+hone | Words/H/hone.md
+tangible | Words/T/tangible.md
+devise | Words/D/devise.md
+premise | Words/P/premise.md
+duress | Words/D/duress.md
+braise | Words/B/braise.md
+testimonial | Words/T/testimonial.md
+deform | Words/D/deform.md
+astronaut | Words/A/astronaut.md
+turnover | Words/T/turnover.md
+trait | Words/T/trait.md
+impetuous | Words/I/impetuous.md
+fast-paced | Words/F/fast-paced.md
+ground-breaking | Words/G/ground-breaking.md
+heart-to-heart | Words/H/heart-to-heart.md
+harness | Words/H/harness.md
+invigorate | Words/I/invigorate.md
+reinforcement | Words/R/reinforcement.md
+abundant | Words/A/abundant.md
+general-purpose | Words/G/general-purpose.md
+inspect | Words/I/inspect.md
+ecosystem | Words/E/ecosystem.md
+authoritative | Words/A/authoritative.md
+comprise | Words/C/comprise.md
+streamline | Words/S/streamline.md
+proficient | Words/P/proficient.md
+render | Words/R/render.md
+avail | Words/A/avail.md
+oversee | Words/O/oversee.md
+suppress | Words/S/suppress.md
+align | Words/A/align.md
 aftermath | Words/A/aftermath.md
 literally | Words/L/literally.md
 
@@ -254,7 +293,6 @@ formulate | Words/F/formulate.md
 slogan | Words/S/slogan.md
 modest | Words/M/modest.md
 sugary | Words/S/sugary.md
-inflammatory | Words/I/inflammatory.md
 elementary | Words/E/elementary.md
 knowledgeable | Words/K/knowledgeable.md
 rash | Words/R/rash.md
@@ -263,7 +301,6 @@ man-made | Words/M/man-made.md
 submarine | Words/S/submarine.md
 fur | Words/F/fur.md
 fan | Words/F/fan.md
-paw | Words/P/paw.md
 cave | Words/C/cave.md
 docile | Words/D/docile.md
 seaside | Words/S/seaside.md
@@ -283,7 +320,6 @@ squeeze | Words/S/squeeze.md
 sour | Words/S/sour.md
 chop | Words/C/chop.md
 stir | Words/S/stir.md
-salad | Words/S/salad.md
 bitter | Words/B/bitter.md
 tasty | Words/T/tasty.md
 digestion | Words/D/digestion.md
@@ -433,7 +469,6 @@ enclose | Words/E/enclose.md
 evident | Words/E/evident.md
 exploit | Words/E/exploit.md
 expire | Words/E/expire.md
-snack | Words/S/snack.md
 reunion | Words/R/reunion.md
 cozy | Words/C/cozy.md
 crack | Words/C/crack.md
@@ -647,7 +682,19 @@ simultaneous | Words/S/simultaneous.md
 suspicious | Words/S/suspicious.md
 contest | Words/C/contest.md
 
-Phrases(Count: 80):
+Phrases(Count: 92):
+settle_down | Phrases/S/settle_down.md
+on_good_terms | Phrases/O/on_good_terms.md
+take_note_of | Phrases/T/take_note_of.md
+as_much_as_possible | Phrases/A/as_much_as_possible.md
+meet_up | Phrases/M/meet_up.md
+stand_out | Phrases/S/stand_out.md
+get_a_grasp_of | Phrases/G/get_a_grasp_of.md
+dwell_on | Phrases/D/dwell_on.md
+slip_up | Phrases/S/slip_up.md
+align_with | Phrases/A/align_with.md
+at_stake | Phrases/A/at_stake.md
+on_board | Phrases/O/on_board.md
 paycheck_to_paycheck | Phrases/P/paycheck_to_paycheck.md
 the_tip_of_the_iceberg | Phrases/T/the_tip_of_the_iceberg.md
 top_down | Phrases/T/top_down.md

@@ -1,13 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### plunge
 [plʌndʒ]
 
 **Desp**
-v./n. To fall or move suddenly and quickly; to decrease sharply; to push something into something else.
-骤降，猛跌；纵身跳入；使陷入；（n.）跳水；骤降
+v/n. to fall or move suddenly and quickly; to decrease sharply; to push something into something else. 骤降，猛跌；纵身跳入；使陷入；n. 跳水；骤降
 
 **Usages**
 - plunge into 纵身跳入；陷入

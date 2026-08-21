@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### scenery
 [ˈsiːnəri]
 
 **Desp**
-n. The natural features of an area considered as a whole; (uncountable) landscape.
+n. the natural features of an area considered as a whole; (uncountable) landscape.
 自然风光，风景（整体景色，不可数）
 
 **Usages**

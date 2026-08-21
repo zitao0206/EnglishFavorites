@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-17
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### realm
 [relm]
 
 **Desp**
-n. A field or domain of activity or interest; a kingdom.
+n. a field or domain of activity or interest; a kingdom.
 领域，范围；王国
 
 **Usages**

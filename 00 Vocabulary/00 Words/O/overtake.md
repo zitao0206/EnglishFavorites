@@ -1,13 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### overtake
 [ˌəʊvəˈteɪk]
 
 **Desp**
-v. To go past a vehicle or person that is going more slowly; to become greater than someone or something.
-超过，赶上；突然降临
+v. to go past a vehicle or person that is going more slowly; to become greater than someone or something. 超过，赶上；突然降临
 
 **Usages**
 - overtake a car 超车

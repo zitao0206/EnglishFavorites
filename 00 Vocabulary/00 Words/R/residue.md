@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### residue
 [ˈrezɪdjuː]
 
 **Desp**
-n. A small amount of something that remains after the rest has gone or been used.
+n. a small amount of something that remains after the rest has gone or been used.
 残留物，残渣；剩余物
 
 **Usages**

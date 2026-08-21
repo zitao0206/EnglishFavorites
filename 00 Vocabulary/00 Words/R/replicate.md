@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### replicate
 [ˈreplɪkeɪt]
 
 **Desp**
-v. To copy or repeat something exactly; (biology) to make copies of itself.
+v. to copy or repeat something exactly; (biology) to make copies of itself.
 复制；重现；复制自身
 
 **Usages**

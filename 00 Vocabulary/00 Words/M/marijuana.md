@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### marijuana
 [ˌmærəˈwɑːnə]
 
 **Desp**
-n. A drug made from the dried leaves of the hemp plant.
+n. a drug made from the dried leaves of the hemp plant.
 大麻
 
 **Usages**

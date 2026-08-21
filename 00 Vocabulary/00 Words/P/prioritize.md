@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### prioritize
 [praɪˈɔːrətaɪz]
 
 **Desp**
-v. To designate or treat something as more important than other things.
+v. to designate or treat something as more important than other things.
 优先处理，按重要性排序
 
 **Usages**

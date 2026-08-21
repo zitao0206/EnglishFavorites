@@ -1,13 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### paralyze
 [ˈpærəlaɪz]
 
 **Desp**
-v. To make someone unable to move; to make a system or organization unable to operate normally.
-使瘫痪，使麻痹；使无法正常运转
+v. to make someone unable to move; to make a system or organization unable to operate normally. 使瘫痪，使麻痹；使无法正常运转
 
 **Usages**
 - be paralyzed with fear 吓得动弹不得

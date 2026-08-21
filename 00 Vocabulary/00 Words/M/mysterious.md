@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### mysterious
 [mɪˈstɪəriəs]
 
 **Desp**
-adj. Difficult to understand or explain; full of mystery.
+adj. difficult to understand or explain; full of mystery.
 神秘的
 
 **Usages**

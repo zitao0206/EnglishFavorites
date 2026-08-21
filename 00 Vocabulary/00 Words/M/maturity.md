@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### maturity
 [məˈtjʊərəti]
 
 **Desp**
-n. The state of being fully developed physically or mentally; the quality of behaving like an adult.
+n. the state of being fully developed physically or mentally; the quality of behaving like an adult.
 成熟
 
 **Usages**

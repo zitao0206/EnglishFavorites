@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### predominant
 [prɪˈdɒmɪnənt]
 
 **Desp**
-adj. More noticeable or common than others; main.
+adj. more noticeable or common than others; main.
 占优势的；主要的，最显著的（数量上、人数上、占比等，描述客观统计）
 
 **dominant**

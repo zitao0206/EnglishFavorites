@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### plug
 [plʌɡ]
 
 **Desp**
-v. To connect something to a power supply or network; n. 插头.
+v. to connect something to a power supply or network; n. 插头.
 插入，接入
 
 **Usages**

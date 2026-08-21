@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### mission
 [ˈmɪʃn]
 
 **Desp**
-n. An important job or task, especially one involving travel; the purpose of an organization.
+n. an important job or task, especially one involving travel; the purpose of an organization.
 任务，使命；代表团；天职
 
 **Usages**

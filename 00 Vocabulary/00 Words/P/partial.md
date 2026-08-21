@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### partial
 [ˈpɑːʃl]
 
 **Desp**
-adj. Not complete or total; showing favor toward one side.
+adj. not complete or total; showing favor toward one side.
 部分的，不完全的；偏袒的
 
 **Usages**

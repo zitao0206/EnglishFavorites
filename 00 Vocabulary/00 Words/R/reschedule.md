@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### reschedule
 [ˌriːˈʃedjuːl]
 
 **Desp**
-v. To change the time of a planned event or arrangement.
+v. to change the time of a planned event or arrangement.
 重新安排时间；改期
 
 **Usages**

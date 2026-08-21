@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### middle-aged
 [ˌmɪdl ˈeɪdʒd]
 
 **Desp**
-adj. No longer young but not yet old, typically between about 40 and 60.
+adj. no longer young but not yet old, typically between about 40 and 60.
 中年的，中老年的
 
 **Usages**

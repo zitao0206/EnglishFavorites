@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### prospective
 [prəˈspektɪv]
 
 **Desp**
-adj. Expected or expecting to be something particular in the future.
+adj. expected or expecting to be something particular in the future.
 预期的，未来的，可能的
 
 **Usages**

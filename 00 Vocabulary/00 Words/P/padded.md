@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### padded
 [ˈpædɪd]
 
 **Desp**
-adj. Filled or covered with soft material; (of animals' feet) having fleshy pads.
+adj. filled or covered with soft material; (of animals' feet) having fleshy pads.
 带软垫的；有厚肉垫的
 
 **Usages**

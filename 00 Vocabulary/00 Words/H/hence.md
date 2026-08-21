@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### hence
 [hens]
 
 **Desp**
-adv. For this reason; therefore.
+adv. for this reason; therefore.
 因此，所以
 
 **Usages**

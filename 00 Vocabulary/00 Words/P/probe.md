@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### probe
 [prəʊb]
 
 **Desp**
-v./n. to investigate; an investigation.
+v/n. to investigate; an investigation.
 探查，调查，探测
 
 **Usages**

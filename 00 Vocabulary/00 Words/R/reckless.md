@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### reckless
 [ˈrekləs]
 
 **Desp**
-adj. Showing a lack of care about danger and the possible results of your actions.
+adj. showing a lack of care about danger and the possible results of your actions.
 鲁莽的，不计后果的
 
 **Usages**

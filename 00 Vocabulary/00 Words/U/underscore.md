@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### underscore
 [ˌʌndərˈskɔːr]
 
 **Desp**
-v. To emphasize or show that something is important; to draw a line under a word.
+v. to emphasize or show that something is important; to draw a line under a word.
 强调，凸显；在……下划线
 
 **Usages**

@@ -1,13 +1,15 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### overhype
 [ˌəʊvəˈhaɪp]
 
 **Desp**
-v. To promote or praise something excessively.
+v. to promote or praise something excessively.
 过度炒作，大肆吹捧
+
+- hype v.（通过传媒）大肆宣传；使（人）兴奋，使（人）活跃
 
 **Usages**
 - overhype a product 过度炒作产品

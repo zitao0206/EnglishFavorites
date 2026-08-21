@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### invaluable
 [ɪnˈvæljuəbl]
 
 **Desp**
-adj. Extremely useful or valuable.
+adj. extremely useful or valuable.
 极有价值的，无价的
 
 **Usages**

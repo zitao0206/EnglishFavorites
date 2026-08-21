@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### imitate
 [ˈɪmɪteɪt]
 
 **Desp**
-v. To copy the way someone behaves or speaks; to copy something.
+v. to copy the way someone behaves or speaks; to copy something.
 模仿，仿效
 
 **Usages**

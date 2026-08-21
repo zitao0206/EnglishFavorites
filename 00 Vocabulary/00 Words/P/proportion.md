@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### proportion
 [prəˈpɔːʃn]
 
 **Desp**
-n. A part or share of a whole; the relationship between the size of two things.
+n. a part or share of a whole; the relationship between the size of two things.
 比例；部分；均衡
 
 **Usages**

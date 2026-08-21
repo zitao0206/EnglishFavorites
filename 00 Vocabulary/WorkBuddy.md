@@ -1,6 +1,5 @@
 新建单词/短语：  
-△ 
-△
+
 
 第一步（这一步跳过）：
 
@@ -118,8 +117,6 @@ phr&v. to think someone or something is inferior or not important.
 
 
 第五步：
-
-默认不提交到github。
 
 对应的更新push到github地址如下：
 

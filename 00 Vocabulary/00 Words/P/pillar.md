@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### pillar
 [ˈpɪlə(r)]
 
 **Desp**
-n. A tall upright support; an important member of a group.
+n. a tall upright support; an important member of a group.
 支柱，栋梁；柱子
 
 **Usages**

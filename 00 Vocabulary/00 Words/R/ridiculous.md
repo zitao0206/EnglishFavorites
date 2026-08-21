@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### ridiculous
 [rɪˈdɪkjələs]
 
 **Desp**
-adj. Very silly or unreasonable; absurd.
+adj. very silly or unreasonable; absurd.
 荒谬的，可笑的
 
 **Usages**

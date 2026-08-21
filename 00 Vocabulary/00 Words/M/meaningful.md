@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### meaningful
 [ˈmiːnɪŋfl]
 
 **Desp**
-adj. Having importance and purpose; significant.
+adj. having importance and purpose; significant.
 有意义的，意味深长的
 
 **Usages**

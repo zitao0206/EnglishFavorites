@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### residence
 [ˈrezɪdəns]
 
 **Desp**
-n. The place where one lives; a house or flat.
+n. the place where one lives; a house or flat.
 住宅，住所，居所
 
 **Usages**

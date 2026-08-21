@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### overrule
 [ˌəʊvəˈruːl]
 
 **Desp**
-v. (formal, law) To change a decision or reject an objection, especially with higher authority.
+v. (formal, law) to change a decision or reject an objection, especially with higher authority.
 否决，驳回
 
 **Usages**

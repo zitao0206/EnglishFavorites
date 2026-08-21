@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### landscape
 [ˈlændskeɪp]
 
 **Desp**
-n. All the visible features of an area of land; the distinctive features of a particular field of activity.
+n. all the visible features of an area of land; the distinctive features of a particular field of activity.
 风景，景观；格局，全貌
 
 **Usages**

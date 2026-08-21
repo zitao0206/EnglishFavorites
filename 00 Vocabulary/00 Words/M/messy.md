@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### messy
 [ˈmesi]
 
 **Desp**
-adj. Untidy or dirty; complicated or difficult to deal with.
+adj. untidy or dirty; complicated or difficult to deal with.
 脏乱的，凌乱的；棘手的
 
 **Usages**

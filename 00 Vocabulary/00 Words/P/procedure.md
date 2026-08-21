@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### procedure
 [prəˈsiːdʒə(r)]
 
 **Desp**
-n. An official or established way of doing something.
+n. an official or established way of doing something.
 程序，步骤，流程，手续
 
 **Usages**

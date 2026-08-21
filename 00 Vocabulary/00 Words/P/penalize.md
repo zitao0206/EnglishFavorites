@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### penalize
 [ˈpiːnəlaɪz]
 
 **Desp**
-v. To punish someone for breaking a rule; to put someone at a disadvantage.
+v. to punish someone for breaking a rule; to put someone at a disadvantage.
 处罚，惩罚
 
 **Usages**

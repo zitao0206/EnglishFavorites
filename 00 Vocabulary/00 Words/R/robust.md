@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### robust
 [rəʊˈbʌst]
 
 **Desp**
-adj. Strong and healthy; firm and reliable.
+adj. strong and healthy; firm and reliable.
 强健的，健壮的；稳固可靠的
 
 **Usages**

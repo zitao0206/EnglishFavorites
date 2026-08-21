@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### pivotal
 [ˈpɪvətl]
 
 **Desp**
-adj. Of crucial importance in relation to the development or success of something.
+adj. of crucial importance in relation to the development or success of something.
 关键的，核心的，举足轻重的
 
 **Usages**

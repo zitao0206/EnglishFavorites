@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### plead
 [pliːd]
 
 **Desp**
-v. To beg earnestly for something; to make an urgent appeal.
+v. to beg earnestly for something; to make an urgent appeal.
 恳求，祈求；（法律）申辩
 
 **Usages**

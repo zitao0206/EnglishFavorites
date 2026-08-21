@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### pardon
 [ˈpɑːdn]
 
 **Desp**
-v./n. To forgive someone for a fault or offense; an act of forgiving.
+v/n. to forgive someone for a fault or offense; an act of forgiving.
 原谅，宽恕；赦免
 
 **Usages**

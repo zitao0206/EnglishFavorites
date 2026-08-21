@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### ironic
 [aɪˈrɑːnɪk]
 
 **Desp**
-adj. Happening in the opposite way to what is expected, often causing wry amusement.
+adj. happening in the opposite way to what is expected, often causing wry amusement.
 讽刺的，具有讽刺意味的
 
 **Usages**

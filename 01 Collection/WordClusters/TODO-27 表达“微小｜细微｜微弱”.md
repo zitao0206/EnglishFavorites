@@ -3,3 +3,5 @@ tiny
 timid
 
 subtle
+
+faint

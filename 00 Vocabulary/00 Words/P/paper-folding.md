@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### paper-folding
 [ˈpeɪpə ˈfəʊldɪŋ]
 
 **Desp**
-n. The art or craft of folding paper into shapes.
+n. the art or craft of folding paper into shapes.
 折纸
 
 **Usages**

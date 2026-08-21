@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### pitfall
 [ˈpɪtfɔːl]
 
 **Desp**
-n. A hidden or unsuspected danger or difficulty.
+n. a hidden or unsuspected danger or difficulty.
 隐患，陷阱，易犯的错误
 
 **Usages**

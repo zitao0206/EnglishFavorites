@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### overt
 [əʊˈvɜːt]
 
 **Desp**
-adj. Done or shown openly; not hidden or secret.
+adj. done or shown openly; not hidden or secret.
 公开的，明显的（与 covert 相对）
 
 【反】 **covert** [ˈkʌvət] 

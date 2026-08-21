@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-16
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### rigorous
 [ˈrɪɡərəs]
 
 **Desp**
-adj. Extremely thorough, exhaustive, and accurate; strictly applied.
+adj. extremely thorough, exhaustive, and accurate; strictly applied.
 严格的，严密的；严谨的
 
 **Usages**

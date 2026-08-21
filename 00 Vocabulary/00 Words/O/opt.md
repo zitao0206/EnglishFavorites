@@ -1,13 +1,15 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### opt
 [ɑːpt]
 
 **Desp**
-v. To choose something or decide to do something.
-选择，决定
+v. to choose something or decide to do something.
+选择，决定 （较正式，强调经过思考后做出抉择）
+
+- choose v. 选择，挑选（最通用词，口语书面均可；可接人/物/不定式）
 
 **Usages**
 - opt for 选择……

@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### reproduction
 [ˌriːprəˈdʌkʃn]
 
 **Desp**
-n. The process of producing young; a copy of something.
+n. the process of producing young; a copy of something.
 繁殖，生殖；复刻，再现
 
 **Usages**

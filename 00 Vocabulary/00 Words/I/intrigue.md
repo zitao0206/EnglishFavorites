@@ -1,12 +1,12 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### intrigue
 [ɪnˈtriːɡ]
 
 **Desp**
-v/n. To make someone very interested and curious; secret or underhanded scheming.
+v/n. to make someone very interested and curious; secret or underhanded scheming.
 v. 激起……的好奇心；n. 阴谋，密谋
 
 **Usages**

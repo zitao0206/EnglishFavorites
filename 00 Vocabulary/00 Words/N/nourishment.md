@@ -1,13 +1,13 @@
-🕒 Updated: 2026-08-17
+🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 
 ### nourishment
-[ˈnʌrɪʃmənt]
+[ˈnɜːrɪʃmənt]
 
 **Desp**
-n. Food or substances that help people or animals grow and stay healthy.
-滋养品，营养（→ nutrition n. 营养）
+n. food or substances that help people or animals grow and stay healthy.
+滋养品，营养（→ nutrition [nuˈtrɪʃ(ə)n] n. 营养）
 
 **Usages**
 - proper nourishment 适当的营养
