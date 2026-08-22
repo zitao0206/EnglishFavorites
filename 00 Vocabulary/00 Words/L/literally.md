@@ -1,7 +1,7 @@
 🕒 Updated: 2026-08-21
 📅 Created: 2026-08-19
 📌 ReviewCount: 2
-
+💾 Mastery: L1
 ### literally
 [ˈlɪtərəli]
 

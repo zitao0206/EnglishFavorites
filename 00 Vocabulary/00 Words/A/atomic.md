@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
 📌 ReviewCount: 2
-
+💾 Mastery: L3
 ### atomic
 [əˈtɑːmɪk]
 
 **Desp**
-adj. Relating to atoms; of or relating to nuclear energy or weapons.
+adj. relating to atoms; of or relating to nuclear energy or weapons.
 原子的；核能的，核武器的
 
 **Usages**

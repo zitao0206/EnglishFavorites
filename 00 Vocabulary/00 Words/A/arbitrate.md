@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
 📌 ReviewCount: 2
-
+💾 Mastery: L2
 ### arbitrate
 [ˈɑːbɪtreɪt]
 
 **Desp**
-v. To officially settle an argument or dispute between two people or groups.
+v. to officially settle an argument or dispute between two people or groups.
 仲裁，公断；调停
 
 **Usages**

@@ -2,6 +2,7 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-16
 📌 ReviewCount: 2
+💾 Mastery: L1
 ### restroom
 [ˈrestruːm]
 

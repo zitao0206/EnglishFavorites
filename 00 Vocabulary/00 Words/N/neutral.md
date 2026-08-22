@@ -1,13 +1,13 @@
 🕒 Updated: 2026-08-21
 📅 Created: 2026-08-17
 📌 ReviewCount: 2
-
+💾 Mastery: L3
 ### neutral
 [ˈnjuːtrəl]
 
 **Desp**
 adj/n. not supporting either side in a conflict; having no strong characteristics or color.
-中立的；中性的，素净的；（n.）中立者
+中立的；中性的，素净的；n. 中立者
 
 **Usages**
 - a neutral country 中立国

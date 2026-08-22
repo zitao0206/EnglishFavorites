@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
 📌 ReviewCount: 2
-
+💾 Mastery: L2
 ### atypical
 [ˌeɪˈtɪpɪkl]
 
 **Desp**
-adj. Not typical; unusual or unrepresentative.
+adj. not typical; unusual or unrepresentative.
 非典型的，不具代表性的
 
 **Usages**

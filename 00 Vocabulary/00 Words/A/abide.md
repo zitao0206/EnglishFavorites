@@ -1,12 +1,13 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
 📌 ReviewCount: 2
+💾 Mastery: L3
 
 ### abide
 [əˈbaɪd]
 
 **Desp**
-v. To accept and act according to a rule or decision; to tolerate something.
+v. to accept and act according to a rule or decision; to tolerate something.
 遵守；忍受，容忍
 
 **Usages**

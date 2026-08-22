@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
 📌 ReviewCount: 2
-
+💾 Mastery: L3
 ### unpack
 [ʌnˈpæk]
 
 **Desp**
-v. To take things out of a container; to analyze something in depth.
+v. to take things out of a container; to analyze something in depth.
 打开；取出；深入剖析，仔细探讨
 
 **Usages**

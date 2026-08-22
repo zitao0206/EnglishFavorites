@@ -1,12 +1,7 @@
 新建单词/短语：  
-- wreck：car wreck
-- on the house: （酒水、食物）店家免费赠送、请客，免单 
-The wine is on the house.
-- boarding school
-- conspire
-- commodity
-- energize
-- synthetic：adj. 合成的；人造的；非天然的；虚假的
+- neural：adj. 神经的，神经系统的（L3）
+eg: Neural networks are computer systems which mimic the workings of the brain.
+神经网络是模仿大脑运行的计算机系统。
 
 第一步（这一步跳过）：
 
@@ -30,17 +25,24 @@ The wine is on the house.
 
 第三步：
 
-文件的内容，如果原文中有备注，要保留至文件中。
+文件的内容，如果原文词汇有备注/释义/例句等，要保留至词汇对应文件中。
 
 单词word参考模版如下
-（注意: 
-（1）要罗列对应词汇的最核心最高频的释义和固定用法；
-（2）如果有常见的反义词，或者同义词，或者其他形式可以在Extension中罗列，Examples和Usages中也要包含这些词语，如果没有，则略过此项。
-（3）单词的音标，要求是美式音标。
+注意:
+（1）💾 Mastery: 如果原词汇中没有补充，默认是L1（
+	L1 = 全新生词，最高复习优先级
+	L2 = 印象微弱，词义模糊
+	L3 = 认识词义，无法主动输出
+	L4 = 熟练掌握，可主动使用
+	L5 = 精通，几乎无需复习）
+（2）要罗列对应词汇的最核心最高频的释义和固定用法；
+（3）如果有常见的反义词，或者同义词，或者其他形式可以在Extension中罗列，Examples和Usages中也要包含这些词语，如果没有，则略过此项。
+（4）单词的音标，要求是美式音标。
 
 🕒 Updated: 2026‑08‑15 
 📅 Created: 2026‑08‑15 
 📌 ReviewCount: 1
+💾 Mastery: L3
 
 ### lateness 
 [ˈleɪtnəs]
@@ -66,6 +68,7 @@ n. the state of arriving or happening after the expected or scheduled time.
 🕒 Updated: 2026‑08‑15 
 📅 Created: 2026‑08‑15 
 📌 ReviewCount: 1
+💾 Mastery: L1
 
 ### sketch
 [sketʃ]
@@ -90,6 +93,7 @@ n. 素描，草图；概述；v. 画草图；简述
 🕒 Updated: 2026‑08‑15 
 📅 Created: 2026‑08‑15 
 📌 ReviewCount: 1
+💾 Mastery: L4
 ### look down upon
 
 **Desp**

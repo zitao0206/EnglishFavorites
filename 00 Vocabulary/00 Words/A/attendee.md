@@ -1,12 +1,12 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
 📌 ReviewCount: 2
-
+💾 Mastery: L3
 ### attendee
 [əˌtenˈdiː]
 
 **Desp**
-n. A person who attends an event, meeting, etc.
+n. a person who attends an event, meeting, etc.
 出席者，参加者
 
 **Usages**

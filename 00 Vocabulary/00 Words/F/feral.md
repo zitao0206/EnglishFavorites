@@ -1,7 +1,7 @@
 🕒 Updated: 2026-08-18
 📅 Created: 2026-08-18
 📌 ReviewCount: 2
-
+💾 Mastery: L1
 ### feral
 [ˈferəl]
 

@@ -1,7 +1,8 @@
 
 **Vocabulary | 文件相对路径**
 
-Words(Count: 683):
+Words(Count: 684):
+neural | Words/N/neural.md
 wreck | Words/W/wreck.md
 synthetic | Words/S/synthetic.md
 energize | Words/E/energize.md

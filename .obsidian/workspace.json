@@ -4,319 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "c7aff57bfb502243",
+        "id": "0376e5c508ad1c99",
         "type": "tabs",
         "children": [
           {
-            "id": "5b7762bd4239bdd1",
+            "id": "58a80619ac003e0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Vocabulary/00 Words/S/supervise.md",
+                "file": "00 Vocabulary/00 Words/A/awkward.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "supervise"
+              "title": "awkward"
             }
           },
           {
-            "id": "3a2e78eb4c4e1e01",
+            "id": "292d89a03b29cecc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Vocabulary/vocabMap.md",
+                "file": "00 Vocabulary/01 Phrases/W/work_around.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vocabMap"
+              "title": "work_around"
             }
           },
           {
-            "id": "e029192fa6bbb30d",
+            "id": "a3a4e1134f5cd0dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Vocabulary/01 Phrases/S/slip_up.md",
+                "file": "00 Vocabulary/workBuddy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "slip_up"
-            }
-          },
-          {
-            "id": "8b5e02b5fb9883e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/01 Phrases/S/stand_out.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "stand_out"
-            }
-          },
-          {
-            "id": "253689e445067326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/01 Phrases/G/get_a_grasp_of.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "get_a_grasp_of"
-            }
-          },
-          {
-            "id": "7b97292d7ef25211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/01 Phrases/D/dwell_on.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dwell_on"
-            }
-          },
-          {
-            "id": "69db8b1ac0c9a1d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/01 Phrases/A/align_with.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "align_with"
-            }
-          },
-          {
-            "id": "300056985d7e4bd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/01 Phrases/T/take_note_of.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "take_note_of"
-            }
-          },
-          {
-            "id": "b7440134547bf28c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/01 Phrases/S/settle_down.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "settle_down"
-            }
-          },
-          {
-            "id": "20669dd62e90d3a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/01 Phrases/O/on_good_terms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "on_good_terms"
-            }
-          },
-          {
-            "id": "b4f4d4f2c78a60d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/01 Phrases/M/meet_up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "meet_up"
-            }
-          },
-          {
-            "id": "67f28c1fd5ae86ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/01 Phrases/A/as_much_as_possible.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "as_much_as_possible"
-            }
-          },
-          {
-            "id": "869d3c310d401c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/00 Words/R/render.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "render"
-            }
-          },
-          {
-            "id": "d1224d52c4f8acae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/00 Words/O/oversee.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "oversee"
-            }
-          },
-          {
-            "id": "2b47963befaf376d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/00 Words/A/avail.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "avail"
-            }
-          },
-          {
-            "id": "28d629a0878ac0ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/00 Words/T/turnover.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "turnover"
-            }
-          },
-          {
-            "id": "4863c2804405824b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Roots/sur-.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sur-"
-            }
-          },
-          {
-            "id": "5c3108a4fa4a47fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Roots/exp-.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "exp-"
-            }
-          },
-          {
-            "id": "e43a5ae2c9f71948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/00 Words/A/abide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "abide"
-            }
-          },
-          {
-            "id": "4b8651621ee0cbfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Roots/ap-.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ap-"
-            }
-          },
-          {
-            "id": "873c98eb087e563e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/00 Words/D/deform.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "deform"
-            }
-          },
-          {
-            "id": "83d47437c556f778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vocabulary/00 Words/I/impetuous.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "impetuous"
+              "title": "workBuddy"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -350,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "synthetic",
+                "query": "neural",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -384,7 +118,8 @@
               "title": "Recent Edits"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -495,34 +230,34 @@
       "recent-edits:Recent Edits": false
     }
   },
-  "active": "e43a5ae2c9f71948",
+  "active": "1cc65da4677dd8ce",
   "lastOpenFiles": [
-    "00 Vocabulary/00 Words/S/synthetic.md",
-    "00 Vocabulary/00 Words/E/energize.md",
-    "00 Vocabulary/00 Words/C/commodity.md",
-    "00 Vocabulary/00 Words/C/conspire.md",
-    "00 Vocabulary/01 Phrases/B/boarding_school.md",
-    "00 Vocabulary/00 Words/W/wreck.md",
-    "00 Vocabulary/01 Phrases/O/on_the_house.md",
-    "00 Vocabulary/workBuddy.md",
+    "00 Vocabulary/00 Words/N/neural.md",
     "00 Vocabulary/vocabMap.md",
-    "01 Collection/00 日常口语.md",
-    "03 Roots/-rior.md",
-    "03 Roots/exp-.md",
-    "03 Roots/sur-.md",
-    "03 Roots/ap-.md",
-    "00 Vocabulary/00 Words/T/turnover.md",
-    "00 Vocabulary/00 Words/I/impetuous.md",
-    "00 Vocabulary/00 Words/D/deform.md",
-    "00 Vocabulary/00 Words/A/avail.md",
-    "00 Vocabulary/00 Words/O/oversee.md",
-    "00 Vocabulary/00 Words/R/render.md",
-    "00 Vocabulary/01 Phrases/A/as_much_as_possible.md",
-    "00 Vocabulary/01 Phrases/M/meet_up.md",
-    "00 Vocabulary/01 Phrases/O/on_good_terms.md",
-    "00 Vocabulary/01 Phrases/S/settle_down.md",
-    "00 Vocabulary/01 Phrases/T/take_note_of.md",
-    "00 Vocabulary/01 Phrases/A/align_with.md",
+    "00 Vocabulary/00 Words/N/neutral.md",
+    "00 Vocabulary/00 Words/N/netizen.md",
+    "00 Vocabulary/00 Words/Q/quote.md",
+    "00 Vocabulary/00 Words/Q/quintessential.md",
+    "00 Vocabulary/00 Words/Q/quantify.md",
+    "00 Vocabulary/00 Words/Q/qualified.md",
+    "00 Vocabulary/00 Words/U/Uygur.md",
+    "00 Vocabulary/00 Words/U/utter.md",
+    "00 Vocabulary/00 Words/U/utilize.md",
+    "00 Vocabulary/00 Words/U/upbringing.md",
+    "00 Vocabulary/00 Words/U/unwind.md",
+    "00 Vocabulary/00 Words/U/unwholesome.md",
+    "00 Vocabulary/00 Words/U/unsystematic.md",
+    "00 Vocabulary/00 Words/U/unpack.md",
+    "00 Vocabulary/00 Words/U/uneven.md",
+    "00 Vocabulary/00 Words/U/unequivocal.md",
+    "00 Vocabulary/00 Words/U/underscore.md",
+    "00 Vocabulary/00 Words/U/underrate.md",
+    "00 Vocabulary/00 Words/U/undermine.md",
+    "00 Vocabulary/00 Words/U/underlying.md",
+    "00 Vocabulary/00 Words/U/undergraduate.md",
+    "00 Vocabulary/00 Words/U/undergo.md",
+    "00 Vocabulary/00 Words/U/underdog.md",
+    "00 Vocabulary/00 Words/V/vowel.md",
     "01 Collection/WordClusters",
     "01 Collection/wordClusters",
     "wordClusters",

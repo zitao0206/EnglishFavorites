@@ -1,7 +1,7 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
 📌 ReviewCount: 3
-
+💾 Mastery: L1
 ### benign
 [bɪˈnaɪn]
 

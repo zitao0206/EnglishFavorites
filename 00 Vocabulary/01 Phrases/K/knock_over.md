@@ -1,10 +1,11 @@
 🕒 Updated: 2026-08-17
 📅 Created: 2026-08-17
 📌 ReviewCount: 1
+💾 Mastery: L2
 ### knock over
 
 **Desp**
-phr&v. To hit something so that it falls; to knock a person down.
+phr&v. to hit something so that it falls; to knock a person down.
 打倒，撞倒
 
 **Usages**
