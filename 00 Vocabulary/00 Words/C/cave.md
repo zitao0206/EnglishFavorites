@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### cave
 [keɪv]
 
-**Desp**
+**Description**
 n. a large hole in the side of a hill or under the ground; v. to explore caves.
 洞穴，山洞；v. 洞穴探险；
 - cave in 屈服让步/坍塌，坍塌

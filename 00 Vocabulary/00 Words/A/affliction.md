@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### affliction
 [əˈflɪkʃn]
 
-**Desp**
+**Description**
 n. Pain, suffering, or illness; something that causes this.
 苦难，苦恼，病痛
 

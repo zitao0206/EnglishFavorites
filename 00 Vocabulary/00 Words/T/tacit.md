@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### tacit
 [ˈtæsɪt]
 
-**Desp**
+**Description**
 adj. understood or implied without being stated openly.
 心照不宣的，默示的
 

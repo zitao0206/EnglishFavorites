@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### claim
 
-**Desp**
+**Description**
 v. to state something as true; to demand something.
 声称，宣称；索取
 

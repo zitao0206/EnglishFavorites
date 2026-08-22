@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### stand by  
 
-**Desp**
+**Description**
 (1) 在场，保持距离：指在某地出现；或者指保持距离或独立；
 (2) 准备行动：指准备行动或做好准备；
 (3) 忠诚，支持：指保持忠诚或支持某人/某事；支持某人，站在某人一边

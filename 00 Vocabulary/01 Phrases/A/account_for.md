@@ -1,11 +1,11 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### account for
 
-**Desp**
+**Description**
 phr. make up a proportion or percentage of something.
 占（比例）
 

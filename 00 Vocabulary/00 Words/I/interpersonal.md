@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### interpersonal
 [ˌɪntərˈpɜːrsənəl]
 
-**Desp**
+**Description**
 adj. relating to relationships or communication between people.
 人际的，人与人之间的
 

@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L4
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### stable emotions
 
-**Desp**
+**Description**
 phr. a calm, steady emotional state.
 稳定的情绪
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### comprise
 [kəmˈpraɪz]
 
-**Desp**
+**Description**
 v. to consist of or be made up of; to constitute or make up.
 包含，包括；组成，构成
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### underscore
 [ˌʌndərˈskɔːr]
 
-**Desp**
+**Description**
 v. to emphasize or show that something is important; to draw a line under a word.
 强调，凸显；在……下划线
 

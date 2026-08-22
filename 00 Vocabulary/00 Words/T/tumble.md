@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### tumble
 [ˈtʌmbl]
 
-**Desp**
+**Description**
 v/n. to fall suddenly and helplessly; a fall.
 v. 跌倒，滚落；（价格）暴跌 n. 跌倒
 

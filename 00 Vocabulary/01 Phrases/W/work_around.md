@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### work around
 
-**Desp**
+**Description**
 phr&v. to find a way to avoid or bypass a problem; to accommodate someone's schedule or constraints.
 变通处理（找到规避办法，绕过）；迁就某人，配合某人时间
 

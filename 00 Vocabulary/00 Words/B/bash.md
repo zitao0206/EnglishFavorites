@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### bash
 [bæʃ]
 
-**Desp**
+**Description**
 v. to hit hard; to criticize strongly; n. a party; a hard hit.
 猛击；严厉批评；狂欢派对
 

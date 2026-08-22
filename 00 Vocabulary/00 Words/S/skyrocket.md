@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### skyrocket
 [ˈskaɪrɒkɪt]
 
-**Desp**
+**Description**
 v. to rise very quickly and suddenly. n. a firework that shoots high into the sky.
 飞速上涨，猛涨；冲天火箭
 

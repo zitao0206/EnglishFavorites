@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### chickenpox
 [ˈtʃɪkɪnpɒks]
 
-**Desp**
+**Description**
 n. a common infectious disease causing fever and red spots on the skin.
 水痘
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### assemble
 [əˈsembl]
 
-**Desp**
+**Description**
 v. to gather together; to put parts together.
 v. 集合，聚集；组装，装配
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### disrespectful
 [dɪsrɪˈspektf(ə)l]
 
-**Desp**
+**Description**
 adj. showing a lack of respect.
 无礼的，不尊重人的
 

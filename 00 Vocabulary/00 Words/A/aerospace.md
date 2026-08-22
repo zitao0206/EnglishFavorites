@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### aerospace
 [ˈeərəʊspeɪs]
 
-**Desp**
+**Description**
 n./adj. the industry of aircraft and spacecraft; relating to it.
 n. 航空航天工业 adj. 航空航天的
 

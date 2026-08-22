@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### expertise
 [ˌekspɜːˈtiːz]
 
-**Desp**
+**Description**
 n. special skill or knowledge that you get from experience or training.
 专业知识，专业技能；专长
 

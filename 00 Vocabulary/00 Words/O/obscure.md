@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### obscure
 [əbˈskjʊr]
 
-**Desp**
+**Description**
 adj. not well known; hard to understand; v. to hide.
 adj. 鲜为人知的；费解的 v. 使模糊，掩盖
 

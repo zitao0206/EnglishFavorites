@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### thereby
 [ˌðeəˈbaɪ]
 
-**Desp**
+**Description**
 adv. as a result of that action; by doing so.
 因此，由此，从而
 

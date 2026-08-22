@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### overtake
 [ˌəʊvəˈteɪk]
 
-**Desp**
+**Description**
 v. to go past a vehicle or person that is going more slowly; to become greater than someone or something. 超过，赶上；突然降临
 
 **Usages**

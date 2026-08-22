@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### sort of
 [sɔːrt əv]
 
-**Desp**
+**Description**
 
 phr. somewhat; to a certain extent; in a way.
 有点；某种程度上；可以说是。口语高频弱化语气词，约等于 kind of。

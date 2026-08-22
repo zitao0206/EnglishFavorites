@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### retrieve
 [rɪˈtriːv]
 
-**Desp**
+**Description**
 v. to get something back; to recover data.
 v. 取回，找回；检索（数据）
 

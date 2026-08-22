@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### tick in sync
 [sɪŋk]
 
-**Desp**
+**Description**
 phr. to operate or think in perfect rhythm or agreement (out of sync = not synchronized).
 步调一致，节奏合拍（out of sync 不同步）
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### eternal
 [ɪˈtɜːrnl]
 
-**Desp**
+**Description**
 adj. lasting forever; without end.
 adj. 永恒的，永久的
 

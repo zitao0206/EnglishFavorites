@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### intent
 [ɪnˈtent]
 
-**Desp**
+**Description**
 n. purpose or intention. adj. focused and determined.
 n. 目的，意图，故意；adj. 专注的，坚决的
 

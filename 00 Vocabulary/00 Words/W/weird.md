@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L4
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### weird
 [wɪrd]
 
-**Desp**
+**Description**
 adj. Very strange and unusual, often in a way that is difficult to explain.
 奇怪的，怪异的
 

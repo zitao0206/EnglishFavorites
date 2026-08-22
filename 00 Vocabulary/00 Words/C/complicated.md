@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### complicated
 [ˈkɑːmplɪkeɪtɪd]
 
-**Desp**
+**Description**
 adj. consisting of many interconnected parts; difficult to understand.
 adj. 复杂的，难懂的
 

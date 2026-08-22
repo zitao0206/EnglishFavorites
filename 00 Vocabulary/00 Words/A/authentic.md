@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### authentic
 [ɔːˈθentɪk]
 
-**Desp**
+**Description**
 adj. real and genuine.
 真的，真正的，正宗的；可信的，可靠的
 

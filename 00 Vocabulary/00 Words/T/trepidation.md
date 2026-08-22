@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### trepidation
 [ˌtrepɪˈdeɪʃn]
 
-**Desp**
+**Description**
 n. (formal) A feeling of anxiety or fear about something that will happen.
 （正式）内心紧张，忧虑，惶恐
 

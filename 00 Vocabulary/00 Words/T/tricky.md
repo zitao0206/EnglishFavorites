@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### tricky
 [ˈtrɪki]
 
-**Desp**
+**Description**
 adj. difficult to deal with or do; requiring care and skill; (of people) deceitful.
 棘手的，难对付的；狡猾的
 

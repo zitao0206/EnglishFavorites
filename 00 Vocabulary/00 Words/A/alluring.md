@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### alluring
 [əˈlʊrɪŋ]
 
-**Desp**
+**Description**
 adj. powerfully attractive or fascinating.
 adj. 诱人的，迷人的
 

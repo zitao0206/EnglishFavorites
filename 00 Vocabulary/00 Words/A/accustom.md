@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### accustom
 [əˈkʌstəm]
 
-**Desp**
+**Description**
 v. to make someone used to something.
 v. 使习惯于
 

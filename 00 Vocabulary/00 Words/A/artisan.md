@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### artisan
 [ˌɑːtɪˈzæn]
 
-**Desp**
+**Description**
 n. a skilled worker who makes things by hand (= craftsman).
 手工艺人，工匠
 

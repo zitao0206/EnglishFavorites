@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### coupon
 [ˈkuːpɑːn]
 
-**Desp**
+**Description**
 n. A piece of paper or code that gives you a discount or a special offer.
 优惠券，代金券
 

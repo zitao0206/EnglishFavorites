@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### invade
 [ɪnˈveɪd]
 
-**Desp**
+**Description**
 v. to enter a place by force; to intrude on.
 v. 侵略，侵入；侵扰
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### staple
 [ˈsteɪpl]
 
-**Desp**
+**Description**
 n. a main product or food; a wire fastener; adj. main.
 n. 主食；主要产品；订书钉 adj. 主要的
 

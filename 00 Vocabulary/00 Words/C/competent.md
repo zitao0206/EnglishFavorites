@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-18
 ### competent
 [ˈkɒmpɪtənt]
 
-**Desp**
+**Description**
 adj. Having the ability and skill to do something well.
 能干的，胜任的
 

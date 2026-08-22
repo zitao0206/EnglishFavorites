@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### allege
 [əˈledʒ]
 
-**Desp**
+**Description**
 v. to state something as a fact without proof.
 声称，指控（无证据地断言）
 

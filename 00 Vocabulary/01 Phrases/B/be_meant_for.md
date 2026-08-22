@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### be meant for
 
-**Desp**
+**Description**
 
 phr. to be intended or designed for someone or something.
 原本是给…的；专为…准备的

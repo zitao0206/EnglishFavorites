@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### criticize
 [ˈkrɪtɪsaɪz]
 
-**Desp**
+**Description**
 v. To say that something or someone is wrong or bad; to judge the merits of a work.
 批评，指责；评论，评价
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### stem
 [stem]
 
-**Desp**
+**Description**
 v. to stop or restrain; n. the main stalk of a plant.
 v. 遏制，阻止；起源于 n. 茎，干；词干
 

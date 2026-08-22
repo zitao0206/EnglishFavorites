@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### lag
 [læɡ]
 
-**Desp**
+**Description**
 v. To fall behind in movement, progress, or development.
 掉队，落后
 

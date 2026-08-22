@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### majority
 [məˈdʒɔːrəti]
 
-**Desp**
+**Description**
 n. the greater number or part of something; most people or things.
 大多数，大部分
 

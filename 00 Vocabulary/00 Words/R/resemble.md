@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### resemble
 [rɪˈzembl]
 
-**Desp**
+**Description**
 v. To look like or be similar to someone or something.
 与……相似，像
 

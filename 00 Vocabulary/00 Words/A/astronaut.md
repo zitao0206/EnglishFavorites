@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### astronaut
 [ˈæstrənɔːt]
 
-**Desp**
+**Description**
 n. a person who is trained to travel and work in a spacecraft.
 宇航员，航天员
 

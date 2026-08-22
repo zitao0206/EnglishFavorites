@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### perusal
 [pəˈruːzl]
 
-**Desp**
+**Description**
 n. the act of reading something carefully; 
 细读，翻阅（→ peruse v. 精读）
 v. peruse 精读

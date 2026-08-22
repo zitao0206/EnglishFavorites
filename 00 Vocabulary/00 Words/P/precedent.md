@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### precedent
 [ˈpresɪdənt]
 
-**Desp**
+**Description**
 n. an earlier event or decision that is used as an example for later situations.
 先例，前例
 

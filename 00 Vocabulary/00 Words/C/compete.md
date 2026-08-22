@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### compete
 [kəmˈpiːt]
 
-**Desp**
+**Description**
 v. to try to be better than others; to take part in a contest.
 竞争，对抗；参加比赛
 

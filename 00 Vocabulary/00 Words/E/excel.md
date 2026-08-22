@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### excel
 [ɪkˈsel]
 
-**Desp**
+**Description**
 v. to be very good at something.
 擅长，突出，胜过
 

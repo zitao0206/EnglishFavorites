@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### substitute
 [ˈsʌbstɪtjuːt]
 
-**Desp**
+**Description**
 n/v. A thing used instead of another; to use one thing in place of another.
 替代品；替代
 

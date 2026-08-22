@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### hone
 [hoʊn]
 
-**Desp**
+**Description**
 v. to sharpen a blade; to develop and improve a skill over time.
 磨砺，磨练（技能）；把……磨锋利
 

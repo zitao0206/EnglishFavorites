@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### suspicious
 [səˈspɪʃəs]
 
-**Desp**
+**Description**
 adj. making one feel that someone/something is involved in wrongdoing; distrustful.
 可疑的；多疑的，怀疑的
 

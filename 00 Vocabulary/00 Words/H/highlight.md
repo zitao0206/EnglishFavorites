@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### highlight
 [ˈhaɪlaɪt]
 
-**Desp**
+**Description**
 v. to emphasize; to mark text with a bright color; n. the best part.
 v. 强调，突出；以亮色标注 n. 最精彩的部分
 

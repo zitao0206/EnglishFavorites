@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### overall
 [ˌəʊvərˈɔːl]
 
-**Desp**
+**Description**
 adj. including everything; total or general.
 总体的，全面的，全部的
 

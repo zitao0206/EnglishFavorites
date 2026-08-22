@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### prominent
 [ˈprɒmɪnənt]
 
-**Desp**
+**Description**
 adj. important, famous, or noticeable; projecting outward.
 显著的，突出的
 

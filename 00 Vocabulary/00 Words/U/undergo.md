@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### undergo
 [ˌʌndərˈɡoʊ]
 
-**Desp**
+**Description**
 v. to experience or be subjected to something, especially something difficult or unpleasant.
 经历，经受（变化、手术等）
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### thematic
 [θɪˈmætɪk]
 
-**Desp**
+**Description**
 adj. relating to or relating to a particular theme or subject.
 主题的，专题的
 

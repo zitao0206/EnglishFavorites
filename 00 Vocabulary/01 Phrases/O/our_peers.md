@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-16
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-16
 ### our peers
 
-**Desp**
+**Description**
 
 phr. people who are the same age or status as us.
 我们的同辈，与我们同龄/同地位的人

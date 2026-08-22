@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### humiliate
 [hjuːˈmɪlieɪt]
 
-**Desp**
+**Description**
 v. To make someone feel ashamed or foolish, especially in public.
 羞辱，使丢脸，使蒙羞
 

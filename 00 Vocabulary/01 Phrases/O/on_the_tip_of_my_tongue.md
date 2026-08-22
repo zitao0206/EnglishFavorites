@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### on the tip of my tongue
 
-**Desp**
+**Description**
 phr. About to be said but not quite remembered or recalled.
 话到嘴边（想不起来）
 

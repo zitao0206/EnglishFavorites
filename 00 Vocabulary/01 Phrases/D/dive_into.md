@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### dive into
 
-**Desp**
+**Description**
 phr&v. to plunge into water; to start doing something with enthusiasm and depth.
 深入，潜入；潜心钻研，深入探讨
 

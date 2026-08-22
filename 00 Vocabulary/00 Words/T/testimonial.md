@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### testimonial
 [ˌtestɪˈmoʊniəl]
 
-**Desp**
+**Description**
 n. a formal statement praising someone's qualities or work; adj. of or relating to testimony.
 n. 推荐信，证明书；（顾客的）好评；adj. 表白的，纪念的
 

@@ -1,12 +1,12 @@
-📅 Created: 2026‑08‑16    
+📅 Created: 2026‑08‑16
+🕒 Updated: 2026‑08‑20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026‑08‑20
 ### the status quo
 [kwoʊ]
 
-**Desp**
+**Description**
 
 phr. The existing state of affairs; the way things currently are.
 现状，目前的状况（源自拉丁语 status quo = "原有的状态"）

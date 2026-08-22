@@ -1,11 +1,11 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### align with
 
-**Desp**
+**Description**
 phr&v. to be in agreement or alliance with; to adjust so as to match.
 与……保持一致，与……结盟；使对齐
 

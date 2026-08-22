@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### demonstrate
 [ˈdemənstreɪt]
 
-**Desp**
+**Description**
 v. to show clearly that something is true or exists; to show how something works; to take part in a public protest.
 证明，论证；演示；游行示威
 

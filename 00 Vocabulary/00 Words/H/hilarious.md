@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### hilarious
 [hɪˈleəriəs]
 
-**Desp**
+**Description**
 adj. extremely funny.
 极其搞笑的，爆笑的（funny 普通好笑，hilarious 程度更强）
 【区别】

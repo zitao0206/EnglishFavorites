@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### disgrace
 [dɪsˈɡreɪs]
 
-**Desp**
+**Description**
 n. Loss of reputation or respect; shame. v. To bring shame upon.
 耻辱，丢脸；使蒙羞
 

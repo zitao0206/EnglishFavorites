@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### oath
 [oʊθ]
 
-**Desp**
+**Description**
 n. a solemn promise, often invoking a divine witness; a formal declaration.
 誓言，誓约；宣誓
 

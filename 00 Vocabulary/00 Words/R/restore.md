@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### restore
 
-**Desp**
+**Description**
 v. to bring something back to its original state.
 修复，复原，恢复；归还，返还
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### antisemitism
 [ˌæntiˈsemɪtɪzəm]
 
-**Desp**
+**Description**
 n. hostility toward Jewish people.
 反犹太主义，排犹主义
 

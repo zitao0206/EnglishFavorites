@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### speculate
 [ˈspekjəleɪt]
 
-**Desp**
+**Description**
 v. To form a theory or conjecture about a subject without firm evidence.
 推测，猜测；投机
 

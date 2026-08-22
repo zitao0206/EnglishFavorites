@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### fuel
 [fjuːəl]
 
-**Desp**
+**Description**
 n. material burned to produce energy. v. to increase or make stronger; to supply with fuel.
 n. 燃料；v. 加剧，助长；加油
 

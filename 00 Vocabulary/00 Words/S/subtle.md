@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### subtle
 [ˈsʌtl]
 
-**Desp**
+**Description**
 adj. Not obvious or easy to notice; delicate and understated; clever and indirect.
 微妙的；不易察觉的；巧妙的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### moral
 [ˈmɔːrəl]
 
-**Desp**
+**Description**
 adj. Relating to the standards of good or bad behavior, fairness, honesty, etc.; n. a lesson about right and wrong.
 道德的，道义上的；寓意
 

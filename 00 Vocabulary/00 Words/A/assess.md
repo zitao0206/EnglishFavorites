@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### assess
 [əˈses]
 
-**Desp**
+**Description**
 v. to judge or evaluate the value, quality or importance of something (= evaluate).
 评估，评定
 

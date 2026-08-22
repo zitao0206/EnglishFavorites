@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### reckon
 [ˈrekən]
 
-**Desp**
+**Description**
 v. to think or calculate; to estimate.
 v. 认为，估计；计算，测算
 

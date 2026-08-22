@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### dismissive
 [dɪsˈmɪsɪv]
 
-**Desp**
+**Description**
 adj. showing that you think someone or something is not important.
 轻蔑的，鄙视的，不屑一顾的
 

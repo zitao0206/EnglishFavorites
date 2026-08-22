@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### prospect
 [ˈprɒspekt]
 
-**Desp**
+**Description**
 n. the possibility of future success; v. to search for mineral deposits.
 前景，前途；v. 勘探
 

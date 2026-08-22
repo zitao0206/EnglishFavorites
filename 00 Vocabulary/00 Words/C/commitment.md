@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### commitment
 [kəˈmɪtmənt]
 
-**Desp**
+**Description**
 n. a promise or firm decision; dedication.
 n. 承诺，许诺；投入，奉献
 

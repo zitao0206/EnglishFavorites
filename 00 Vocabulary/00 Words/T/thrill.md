@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### thrill
 [θrɪl]
 
-**Desp**
+**Description**
 n/v. A sudden feeling of excitement and pleasure; to excite someone greatly.
 n. 兴奋，激动；v. 使兴奋
 

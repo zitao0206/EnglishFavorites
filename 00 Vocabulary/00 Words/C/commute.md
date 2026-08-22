@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### commute
 [kəˈmjuːt]
 
-**Desp**
+**Description**
 v. to travel regularly between home and work; n. the journey.
 v. 通勤 n. 通勤路程
 

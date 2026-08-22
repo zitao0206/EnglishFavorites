@@ -1,12 +1,12 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 ### energize
 [ˈɛnərdʒaɪz]
 
-**Desp**
+**Description**
 v. to give someone energy and enthusiasm; to supply with electrical or other energy.
 v. 使充满活力，激励；供能
 

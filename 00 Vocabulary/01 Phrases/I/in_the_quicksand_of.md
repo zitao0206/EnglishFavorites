@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### in the quicksand of
 
-**Desp**
+**Description**
 
 idiom. trapped inside a messy hard to escape situation
 字面含义：流沙之中，一旦踩进去会越挣扎陷得越深。

@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### brainwave
 
-**Desp**
+**Description**
 n. an electrical signal in the brain; a sudden clever idea.
 脑电波(常用复数：brainwaves)；灵光一现
 

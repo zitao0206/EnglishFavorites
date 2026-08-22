@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 22
-🕒 Updated: 2026-08-18
 ### precarious
 [prɪˈkeəriəs]
 
-**Desp**
+**Description**
 adj. not secure or certain; dangerously unstable.
 不稳定的，岌岌可危的
 

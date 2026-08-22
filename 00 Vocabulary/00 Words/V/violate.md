@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### violate
 [ˈvaɪəleɪt]
 
-**Desp**
+**Description**
 v. to break a law or agreement; to disturb.
 v. 违反，违背；侵犯，亵渎
 

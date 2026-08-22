@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### the tip of the iceberg
 [ˈaɪsbɜːrɡ]
 
-**Desp**
+**Description**
 phr. the small, visible part of a much larger problem or situation.
 冰山一角（只显露问题/真相的一小部分，背后还有更多）
 

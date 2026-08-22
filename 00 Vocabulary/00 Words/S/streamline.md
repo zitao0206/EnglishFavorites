@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### streamline
 [ˈstriːmlaɪn]
 
-**Desp**
+**Description**
 v. to make a system or process more efficient by removing unnecessary steps; to shape for less resistance.
 使（机构、流程）效率更高，精简；使成流线型
 

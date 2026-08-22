@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### inflame
 [ɪnˈfleɪm]
 
-**Desp**
+**Description**
 v. to provoke or intensify strong feelings; to cause inflammation in the body.
 激怒，使加剧；使发炎
 

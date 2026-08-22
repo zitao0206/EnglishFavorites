@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### woodland
 [ˈwʊdlənd]
 
-**Desp**
+**Description**
 n. land covered with trees; a small forest.
 林地
 

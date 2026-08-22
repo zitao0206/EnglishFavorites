@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L4
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### ecosystem
 [ˈiːkoʊsɪstəm]
 
-**Desp**
+**Description**
 n. a biological community of interacting organisms and their physical environment; (fig.) a complex network of interdependent elements.
 生态系统；（喻）相互依存的体系
 

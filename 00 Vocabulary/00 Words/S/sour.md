@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### sour
 [ˈsaʊə]
 
-**Desp**
+**Description**
 adj. having a sharp, acid taste; (of milk) spoiled.
 酸的；变馊的
 

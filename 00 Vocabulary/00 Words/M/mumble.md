@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### mumble
 [ˈmʌmbl]
 
-**Desp**
+**Description**
 v. To speak quietly and unclearly.
 咕哝，含糊地说话
 

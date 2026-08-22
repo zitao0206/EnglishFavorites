@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### reclaim
 [rɪˈkleɪm]
 
-**Desp**
+**Description**
 v. to get something back; to restore land to a useful state.
 v. 收回，回收；开垦，改造（土地）
 

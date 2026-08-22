@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### marginal
 [ˈmɑːrdʒɪnl]
 
-**Desp**
+**Description**
 adj. small and not important; at or near the edge.
 adj. 微小的，不重要的；边缘的
 

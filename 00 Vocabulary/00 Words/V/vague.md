@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### vague
 [veɪɡ]
 
-**Desp**
+**Description**
 adj. not clear or definite; indistinct.
 adj. 模糊的，不明确的；含糊其辞的
 

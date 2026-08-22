@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### quintessential
 [ˌkwɪntɪˈsenʃl]
 
-**Desp**
+**Description**
 adj. Being the most typical or perfect example of something.
 典型的，精髓的
 

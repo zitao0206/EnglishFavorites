@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### manipulate
 [məˈnɪpjuleɪt]
 
-**Desp**
+**Description**
 v. to control someone skillfully or unfairly; to handle objects.
 v. 操纵，摆布；操作，处理
 

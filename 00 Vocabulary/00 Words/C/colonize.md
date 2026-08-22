@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### colonize
 [ˈkɒlənaɪz]
 
-**Desp**
+**Description**
 vt. to take control of a place and settle there.
 开拓殖民地，殖民
 

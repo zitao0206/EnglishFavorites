@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### obligate
 [ˈɑːblɪɡeɪt]
 
-**Desp**
+**Description**
 v. to make someone legally or morally bound to do something.
 v. （在法律或道义上）强制，使有义务
 

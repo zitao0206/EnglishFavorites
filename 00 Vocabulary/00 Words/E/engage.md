@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### engage
 [ɪnˈɡeɪdʒ]
 
-**Desp**
+**Description**
 v. to take part in something; to attract and hold attention; to employ someone.
 参与，从事；吸引；雇用
 

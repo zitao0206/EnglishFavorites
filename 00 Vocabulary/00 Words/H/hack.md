@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### hack
 [hæk]
 
-**Desp**
+**Description**
 v. to secretly get into a computer system; to cut roughly. n. a person who hacks computers.
 入侵（计算机系统）；乱砍；黑客
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### territory
 [ˈterətɔːri]
 
-**Desp**
+**Description**
 n. land under the control of a country; an area of knowledge or activity.
 领土，版图；领域，范围
 

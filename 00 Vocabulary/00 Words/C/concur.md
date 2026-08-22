@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### concur
 [kənˈkɜːr]
 
-**Desp**
+**Description**
 v. to agree with someone or something.
 v. 同意，赞成；（事件）同时发生
 

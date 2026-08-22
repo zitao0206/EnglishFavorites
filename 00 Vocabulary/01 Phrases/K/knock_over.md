@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### knock over
 
-**Desp**
+**Description**
 phr&v. to hit something so that it falls; to knock a person down.
 打倒，撞倒
 

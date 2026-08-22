@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### cope
 [koʊp]
 
-**Desp**
+**Description**
 v. to deal successfully with something difficult.
 v. 应付，妥善处理
 

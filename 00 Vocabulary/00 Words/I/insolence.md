@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### insolence
 [ˈɪnsələns]
 
-**Desp**
+**Description**
 n. rude and disrespectful behavior.
 n. 傲慢无礼，粗鲁
 

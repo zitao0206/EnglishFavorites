@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### ambassador
 [æmˈbæsədə(r)]
 
-**Desp**
+**Description**
 n. a senior official sent to represent a country abroad; a person who represents something.
 大使，使者
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### feasible
 [ˈfiːzəbl]
 
-**Desp**
+**Description**
 adj. possible and practical to do.
 adj. 可行的，行得通的
 

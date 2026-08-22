@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### mature
 [məˈtjʊə(r)]
 
-**Desp**
+**Description**
 adj. fully developed; v. to reach an advanced stage of development.
 成熟的；v. 成熟
 

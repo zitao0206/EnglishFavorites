@@ -1,11 +1,11 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 ### on the house
 
-**Desp**
+**Description**
 
 phr. (of drinks or food in a bar or restaurant) provided free by the establishment.
 （酒水、食物）店家免费赠送、请客，免单

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### assimilate
 [əˈsɪməleɪt]
 
-**Desp**
+**Description**
 v. to become part of a group or culture; to absorb and understand information.
 融入，同化；吸收
 

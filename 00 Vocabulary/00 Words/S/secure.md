@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### secure
 [sɪˈkjʊr]
 
-**Desp**
+**Description**
 adj. safe from risk; firm; v. to obtain; to make safe.
 adj. 安全的；稳固的 v. 获得；保护，扣紧
 

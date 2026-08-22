@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### punch
 [pʌntʃ]
 
-**Desp**
+**Description**
 v. to hit someone or something hard with your fist; to make a hole in something.
 拳打；猛击；打洞
 

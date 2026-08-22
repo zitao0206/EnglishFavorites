@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### previous
 [ˈpriːviəs]
 
-**Desp**
+**Description**
 adj. Existing or occurring before in time or order.
 先前的，以前的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### elite
 [eɪˈliːt]
 
-**Desp**
+**Description**
 n. A group of people with the highest status or ability in a society or organization.
 精英
 

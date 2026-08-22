@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### sensitive
 [ˈsensətɪv]
 
-**Desp**
+**Description**
 adj. Easily affected or damaged by something; aware of and understanding other people's feelings; needing careful handling.
 敏感的；体恤的；机密的
 

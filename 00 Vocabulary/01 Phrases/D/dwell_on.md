@@ -1,11 +1,11 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### dwell on
 
-**Desp**
+**Description**
 phr&v. to think or talk too much about something, especially something unpleasant.
 老是想着，纠结于，（不快的事）念念不忘
 

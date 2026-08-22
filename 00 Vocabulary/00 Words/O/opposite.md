@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### opposite
 [ˈɒpəzɪt]
 
-**Desp**
+**Description**
 adj. completely different; facing something. prep. across from.
 完全相反的，不同的；对面的
 

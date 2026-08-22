@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### infinite
 [ˈɪnfɪnət]
 
-**Desp**
+**Description**
 adj. Without limits or end; extremely great.
 无限的，无穷的；极大的（反义：finite 有限的）
 

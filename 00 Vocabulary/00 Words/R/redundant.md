@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### redundant
 [rɪˈdʌndənt]
 
-**Desp**
+**Description**
 adj. no longer needed; unnecessarily repetitive.
 adj. 多余的，被裁减的；累赘的
 

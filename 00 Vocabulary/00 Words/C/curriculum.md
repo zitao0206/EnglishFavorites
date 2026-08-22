@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### curriculum
 [kəˈrɪkjələm]
 
-**Desp**
+**Description**
 n. the subjects taught in a school or course.
 n. 课程（体系）
 

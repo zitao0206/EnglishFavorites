@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### rigid
 [ˈrɪdʒɪd]
 
-**Desp**
+**Description**
 adj. stiff and not bending; strict and inflexible.
 adj. 僵硬的；死板的，严格的
 

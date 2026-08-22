@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### show off
 [ˈʃəʊ ɒf]
 
-**Desp**
+**Description**
 n. a person who behaves in a way intended to attract attention; showing off.
 炫耀，卖弄；爱炫耀的人
 

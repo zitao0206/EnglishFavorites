@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### nuance
 [ˈnjuːɑːns]
 
-**Desp**
+**Description**
 n. a very small difference in meaning, sound, color or feeling.
 细微差别
 

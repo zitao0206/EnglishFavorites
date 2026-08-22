@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### cushion
 [ˈkʊʃn]
 
-**Desp**
+**Description**
 n. A soft bag of cloth filled with material; v. to soften the effect of an impact.
 n. 垫子，坐垫；v. 缓冲，减轻
 

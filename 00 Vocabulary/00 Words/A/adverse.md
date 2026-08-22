@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### adverse
 [ˈædvɜːs]
 
-**Desp**
+**Description**
 adj. unfavorable.
 不利的，相反的，敌对的
 

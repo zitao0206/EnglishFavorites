@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### contest
 [ˈkɑːntest]
 
-**Desp**
+**Description**
 n. a competition, event, or struggle to win something.
 比赛，竞赛；争夺
 v. [kənˈtest] to oppose or dispute.

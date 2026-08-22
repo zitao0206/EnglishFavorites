@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### collagen
 [ˈkɒlədʒən]
 
-**Desp**
+**Description**
 n. a protein in skin and tissue.
 胶原蛋白，胶原
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### backdoor
 [ˈbækdɔː(r)]
 
-**Desp**
+**Description**
 n./adj. a door at the back of a building; a secret or indirect way of doing something; a hidden way into a computer system.
 后门；秘密途径；（计算机）后门程序
 

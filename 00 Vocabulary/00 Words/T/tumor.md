@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### tumor
 [ˈtjuːmə(r)]
 
-**Desp**
+**Description**
 n. A mass of diseased cells growing in the body.
 肿瘤，肿块
 

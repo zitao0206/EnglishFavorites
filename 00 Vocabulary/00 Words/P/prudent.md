@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### prudent
 [ˈpruːdnt]
 
-**Desp**
+**Description**
 adj. acting with care and thought for the future; wise.
 adj. 谨慎的，精明的，深谋远虑的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### craft
 [kræft]
 
-**Desp**
+**Description**
 n. Skill in making things by hand; an activity involving skill. v. To make something with skill.
 手艺，工艺；精心制作
 

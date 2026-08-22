@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### invigorate
 [ɪnˈvɪɡəreɪt]
 
-**Desp**
+**Description**
 v. to give energy or vitality to someone or something.
 使精力充沛，使振奋，激发
 

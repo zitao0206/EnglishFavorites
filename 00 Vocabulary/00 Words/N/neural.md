@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### neural
 [ˈnʊrəl]
 
-**Desp**
+**Description**
 adj. relating to the nerves or nervous system.
 adj. 神经的，神经系统的
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### implement
 [ˈɪmplɪment]
 
-**Desp**
+**Description**
 v. to put a plan or decision into effect; n. a tool.
 v. 实施，执行 n. 工具，器具
 

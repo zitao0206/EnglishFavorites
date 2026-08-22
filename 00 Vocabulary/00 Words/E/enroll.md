@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### enroll
 [ɪnˈrəʊl]
 
-**Desp**
+**Description**
 v. To officially join a course, school, or organization.
 注册，登记；入学（= enrol）
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### profound
 [prəˈfaʊnd]
 
-**Desp**
+**Description**
 adj. very great, deep, or intense.
 adj. 深刻的，深远的；渊博的
 

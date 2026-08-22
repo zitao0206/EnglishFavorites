@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### specific
 [spəˈsɪfɪk]
 
-**Desp**
+**Description**
 adj. clearly defined or identified; relating to a particular subject.
 具体的，明确的；特定的
 

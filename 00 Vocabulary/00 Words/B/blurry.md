@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### blurry
 [ˈblɜːri]
 
-**Desp**
+**Description**
 adj. not clear; out of focus (can describe memory).
 模糊的，看不清的（可形容记忆）
 

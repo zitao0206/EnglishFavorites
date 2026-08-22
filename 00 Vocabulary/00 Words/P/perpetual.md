@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### perpetual
 [pərˈpetʃuəl]
 
-**Desp**
+**Description**
 adj. never ending or changing; continuous.
 adj. 永久的，持续不断的
 

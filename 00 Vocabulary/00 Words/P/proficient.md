@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### proficient
 [prəˈfɪʃnt]
 
-**Desp**
+**Description**
 adj. competent or skilled in doing something; expert.
 精通的，熟练的
 

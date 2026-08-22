@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### let alone
 
-**Desp**
+**Description**
 phr. not to mention; even less.
 更不用说，何况
 

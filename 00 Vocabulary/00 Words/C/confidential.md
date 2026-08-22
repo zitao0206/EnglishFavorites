@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### confidential
 [ˌkɑːnfɪˈdenʃl]
 
-**Desp**
+**Description**
 adj. meant to be kept secret.
 adj. 机密的，保密的
 

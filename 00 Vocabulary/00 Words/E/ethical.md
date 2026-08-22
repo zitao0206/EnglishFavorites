@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### ethical
 [ˈeθɪkl]
 
-**Desp**
+**Description**
 adj. relating to moral principles; morally right and acceptable.
 伦理的，道德的；合乎道德的
 

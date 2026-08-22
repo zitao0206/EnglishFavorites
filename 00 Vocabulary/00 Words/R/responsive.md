@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### responsive
 [rɪˈspɑːnsɪv]
 
-**Desp**
+**Description**
 adj. reacting quickly and positively; answering.
 adj. 反应积极的，灵敏的；回应的
 

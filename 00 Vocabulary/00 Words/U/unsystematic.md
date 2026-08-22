@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### unsystematic
 [ˌʌnsɪstəˈmætɪk]
 
-**Desp**
+**Description**
 adj. not done according to a planned or organized method.
 无系统的，无组织的
 

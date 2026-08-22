@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### faint
 [feɪnt]
 
-**Desp**
+**Description**
 adj/v. very slight or weak; not clear; to suddenly become unconscious.
 adj. 微弱的，模糊的；头晕的；v. 晕倒
 

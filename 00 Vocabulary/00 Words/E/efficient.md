@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### efficient
 [ɪˈfɪʃnt]
 
-**Desp**
+**Description**
 adj. achieving maximum productivity with minimum wasted effort or expense.
 高效的，有效率的
 

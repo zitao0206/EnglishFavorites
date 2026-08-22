@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### consent
 [kənˈsent]
 
-**Desp**
+**Description**
 v/n. to agree to something; permission.
 v. 同意，准许 n. 同意，许可
 

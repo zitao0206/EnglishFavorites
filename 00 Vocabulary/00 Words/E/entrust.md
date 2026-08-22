@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### entrust
 [ɪnˈtrʌst]
 
-**Desp**
+**Description**
 v. to give someone responsibility for a task or object, trusting them to handle it.
 委托，交付，交由……保管/办理
 

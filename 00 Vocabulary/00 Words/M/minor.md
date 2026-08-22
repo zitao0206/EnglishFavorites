@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### minor
 [ˈmaɪnə(r)]
 
-**Desp**
+**Description**
 adj. lesser in importance, size or seriousness; under the legal age. n. a person under the legal age of adulthood.
 adj. 较小的，次要的；未成年的；n. 未成年人
 

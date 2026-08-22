@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### theoretical
 [ˌθiːəˈretɪkl]
 
-**Desp**
+**Description**
 adj. concerned with or involving the theory of a subject rather than its practical application.
 理论的，理论上的
 

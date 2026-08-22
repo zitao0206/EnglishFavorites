@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### circumstance
 [ˈsɜːkəmstəns]
 
-**Desp**
+**Description**
 n. A fact or condition that affects a situation; the conditions of your life.
 情况，情形；环境，境况
 

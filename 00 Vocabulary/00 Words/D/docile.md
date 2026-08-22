@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### docile
 [ˈdəʊsaɪl]
 
-**Desp**
+**Description**
 adj. quiet and easy to control ≈ gentle / tame.
 驯服的，温顺的
 

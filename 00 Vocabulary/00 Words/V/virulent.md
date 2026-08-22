@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### virulent
 [ˈvɪrələnt]
 
-**Desp**
+**Description**
 adj. extremely severe or harmful; highly infectious or toxic.
 剧毒的，致命的
 

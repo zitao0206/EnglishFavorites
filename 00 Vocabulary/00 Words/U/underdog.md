@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### underdog
 
-**Desp**
+**Description**
 n. a person or team expected to lose; the weaker side.
 弱者，不被看好的一方；逆袭故事
 

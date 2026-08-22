@@ -1,11 +1,11 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### stand out
 
-**Desp**
+**Description**
 phr&v. to be easily noticeable or clearly better than others.
 突出，显眼，出色
 

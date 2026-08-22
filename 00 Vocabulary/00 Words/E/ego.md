@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### ego
 [ˈiːɡəʊ]
 
-**Desp**
+**Description**
 n. a person's sense of self-importance.
 自我，自尊心
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### outgoing
 [ˈaʊtɡoʊɪŋ]
 
-**Desp**
+**Description**
 adj. friendly, sociable, and energetic in company.
 外向的，好交际的；即将离任的
 

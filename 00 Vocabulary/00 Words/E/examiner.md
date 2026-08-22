@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### examiner
 [ɪɡˈzæmɪnə(r)]
 
-**Desp**
+**Description**
 n. a person who examines or tests someone's knowledge or ability.
 考官，审查者
 

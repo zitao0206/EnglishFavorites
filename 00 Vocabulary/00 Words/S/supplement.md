@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### supplement
 [ˈsʌplɪmənt]
 
-**Desp**
+**Description**
 n/v. something added to improve or complete something; a pill or product added to your diet; to add something extra.
 n. 补充物；增刊；膳食补充剂；v. 补充，增补
 

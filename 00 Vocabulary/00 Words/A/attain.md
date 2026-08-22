@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### attain
 [əˈteɪn]
 
-**Desp**
+**Description**
 v. to reach or achieve a goal or level.
 v. 达到，获得，实现
 

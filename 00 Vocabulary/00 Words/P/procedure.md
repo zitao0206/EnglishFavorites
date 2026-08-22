@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### procedure
 [prəˈsiːdʒə(r)]
 
-**Desp**
+**Description**
 n. an official or established way of doing something.
 程序，步骤，流程，手续
 

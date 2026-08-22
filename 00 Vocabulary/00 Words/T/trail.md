@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### trail
 [treɪl]
 
-**Desp**
+**Description**
 v. to be behind in a game or competition; to follow. n. a path; a mark or track.
 v.（比分）落后；跟随，追踪；n. 小径，痕迹，踪迹
 

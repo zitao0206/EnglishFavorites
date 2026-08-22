@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### awful
 [ˈɔːfl]
 
-**Desp**
+**Description**
 adj. very bad or unpleasant; (used for emphasis) very great.
 糟糕的，可怕的；极度的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### coordinate
 [koʊˈɔːrdɪneɪt]
 
-**Desp**
+**Description**
 v. to organize things so that they work together effectively; n. a position on a map or graph.
 协调，配合；坐标
 

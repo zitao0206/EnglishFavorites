@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### entourage
 [ˌɑːntəˈrɑːʒ]
 
-**Desp**
+**Description**
 n. a group of people attending or surrounding an important person; surroundings.
 随从，随行人员；（引申）周围，环境
 

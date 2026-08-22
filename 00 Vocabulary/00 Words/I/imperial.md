@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### imperial
 [ɪmˈpɪriəl]
 
-**Desp**
+**Description**
 adj. relating to an empire or emperor.
 adj. 帝国的，皇帝的；英制的
 

@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### with good grace
  
-**Desp**
+**Description**
 
 phr. willingly and politely, without complaining
 欣然地；大度体面地；毫无怨言地（接受不愉快的事：失败、批评、损失）

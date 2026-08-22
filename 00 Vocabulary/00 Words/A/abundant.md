@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### abundant
 [əˈbʌndənt]
 
-**Desp**
+**Description**
 adj. existing or available in large quantities; plentiful.
 大量的，充裕的，丰盛的
 

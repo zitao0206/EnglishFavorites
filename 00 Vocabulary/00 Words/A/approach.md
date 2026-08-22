@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### approach
 [əˈproʊtʃ]
 
-**Desp**
+**Description**
 n. A way of dealing with something; v. to move closer to someone or something; to deal with a problem.
 方法，途径；接近；处理
 

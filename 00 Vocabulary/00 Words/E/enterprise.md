@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### enterprise
 [ˈentəpraɪz]
 
-**Desp**
+**Description**
 n. ① a company or business ② a project or undertaking ③ readiness to take on new ventures.
 企业，公司；事业心
 

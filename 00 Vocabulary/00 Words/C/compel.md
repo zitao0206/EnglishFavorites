@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### compel
 [kəmˈpel]
 
-**Desp**
+**Description**
 v. to force someone to do something; to cause a strong feeling or reaction.
 强迫，迫使；引起（感情等）
 

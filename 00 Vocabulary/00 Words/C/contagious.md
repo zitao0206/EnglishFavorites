@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### contagious
 [kənˈteɪdʒəs]
 
-**Desp**
+**Description**
 adj. spread by contact; (of emotion) likely to spread.
 adj. （疾病）接触传染的；（情绪）有感染力的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### toll
 [toʊl]
 
-**Desp**
+**Description**
 n. money paid for using a road or bridge; the damage or deaths caused by something.
 过路费；通行费；代价，伤亡
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### sissy
 [ˈsɪsi]
 
-**Desp**
+**Description**
 n. a cowardly or weak person; a boy seen as unmanly. adj. cowardly, weak.
 n. 胆小鬼，怯懦的人；adj. 女人气的，柔弱的
 

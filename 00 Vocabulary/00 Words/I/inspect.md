@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### inspect
 [ɪnˈspekt]
 
-**Desp**
+**Description**
 v. to look at something closely and carefully, especially to check quality or condition.
 检查，查看，审视，视察
 

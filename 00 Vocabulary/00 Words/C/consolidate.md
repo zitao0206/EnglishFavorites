@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### consolidate
 [kənˈsɑːlɪdeɪt]
 
-**Desp**
+**Description**
 v. to make stronger; to combine into one.
 v. 巩固；合并，统一
 

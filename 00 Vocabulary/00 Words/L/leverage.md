@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### leverage
 [ˈlevərɪdʒ]
 
-**Desp**
+**Description**
 v. to use something to maximum advantage; n. the action of a lever, or the power to influence.
 v. 利用，充分运用；n. 杠杆作用，影响力
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### interpret
 [ɪnˈtɜːrprɪt]
 
-**Desp**
+**Description**
 v. to explain the meaning of; to translate speech.
 v. 解释，解读；口译
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### inflate
 [ɪnˈfleɪt]
 
-**Desp**
+**Description**
 v. to fill with air or gas; to increase prices.
 v. 使充气；使（物价）上涨，膨胀
 

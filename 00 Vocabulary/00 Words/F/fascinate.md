@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### fascinate
 [ˈfæsɪneɪt]
 
-**Desp**
+**Description**
 v. to attract and hold someone's interest strongly.
 v. 迷住，深深吸引
 

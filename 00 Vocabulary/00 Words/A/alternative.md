@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### alternative
 [ɔːlˈtɜːrnətɪv]
 
-**Desp**
+**Description**
 n. another possible choice; adj. available as another option.
 n. 可供选择的事物，替代方案；adj. 替代的
 

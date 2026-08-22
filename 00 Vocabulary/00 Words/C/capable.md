@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### capable
 [ˈkeɪpəbl]
 
-**Desp**
+**Description**
 adj. having the ability to do something well.
 adj. 有能力的，能干的
 

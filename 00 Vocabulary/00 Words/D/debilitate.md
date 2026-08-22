@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### debilitate
 [dɪˈbɪlɪteɪt]
 
-**Desp**
+**Description**
 v. to make someone or something physically or mentally weak.
 使虚弱，使衰弱
 

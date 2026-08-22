@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### coherence
 [kəʊˈhɪərəns]
 
-**Desp**
+**Description**
 n. the quality of being logical, consistent and easy to understand.
 连贯性，一致性
 

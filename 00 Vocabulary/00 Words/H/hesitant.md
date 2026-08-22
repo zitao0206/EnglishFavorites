@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### hesitant
 [ˈhezɪtənt]
 
-**Desp**
+**Description**
 adj. uncertain about doing something; slow to act.
 adj. 犹豫的，迟疑的
 

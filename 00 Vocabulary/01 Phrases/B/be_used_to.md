@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L4
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### be used to doing
 
-**Desp**
+**Description**
 phr&v. to be accustomed to doing something.
 习惯于做某事
 

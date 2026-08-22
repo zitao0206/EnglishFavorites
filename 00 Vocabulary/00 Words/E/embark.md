@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### embark
 [ɪmˈbɑːrk]
 
-**Desp**
+**Description**
 v. to board a ship or plane; to start something new.
 v. 上船，登机；开始，从事
 

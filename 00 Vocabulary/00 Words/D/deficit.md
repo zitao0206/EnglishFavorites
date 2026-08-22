@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### deficit
 [ˈdefɪsɪt]
 
-**Desp**
+**Description**
 n. the amount by which something is less than what is needed; a loss or shortage.
 亏损，赤字，不足额
 

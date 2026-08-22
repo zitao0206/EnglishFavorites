@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### revenue
 [ˈrevənjuː]
 
-**Desp**
+**Description**
 n. money that an organization receives; income.
 （组织的）收入，收益；税收收入
 

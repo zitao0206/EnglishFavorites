@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### monopolize
 [məˈnɑːpəlaɪz]
 
-**Desp**
+**Description**
 v. to have complete control of a market or thing.
 v. 垄断；独占
 

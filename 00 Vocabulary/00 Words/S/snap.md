@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### snap
 [snæp]
 
-**Desp**
+**Description**
 v. to break suddenly; to suddenly lose control or become angry; to take a photo. n. a sudden break; a photo. 折断，断裂；突然失去冷静，崩溃；拍照
 
 **Usages**

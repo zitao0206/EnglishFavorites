@@ -1,12 +1,12 @@
 📅 Created: 2026-08-20
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### align
 [əˈlaɪn]
 
-**Desp**
+**Description**
 v. to put things in a straight line; to agree with or support someone or something.
 使排成直线；使一致；与……结盟/保持一致
 

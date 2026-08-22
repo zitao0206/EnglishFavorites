@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### legislative
 [ˈledʒɪsleɪtɪv]
 
-**Desp**
+**Description**
 adj. relating to making laws.
 adj. 立法的，有立法权的
 

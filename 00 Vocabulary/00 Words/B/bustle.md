@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### bustle
 [ˈbʌsl]
 
-**Desp**
+**Description**
 n/v. Busy and noisy activity; to move around busily.
 繁忙，喧嚣；忙碌地移动
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### brew
 [bruː]
 
-**Desp**
+**Description**
 v. to make beer or tea; (of trouble) to develop; n. a drink.
 v. 酿造（啤酒）；冲泡（茶、咖啡）；酝酿 n. 冲泡的饮料
 

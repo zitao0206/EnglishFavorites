@@ -1,12 +1,12 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 ### conspire
 [kənˈspaɪər]
 
-**Desp**
+**Description**
 v. to secretly plan with others to do something harmful or illegal; (of events) to combine to produce a result.
 v. 密谋，共谋；共同导致（某事发生）
 

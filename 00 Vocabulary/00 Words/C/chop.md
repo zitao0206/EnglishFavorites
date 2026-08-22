@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### chop
 [tʃɒp]
 
-**Desp**
+**Description**
 v. To cut into pieces with a knife; n. a piece of meat.
 剁，砍，切碎；（n.）肉排
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### exotic
 [ɪɡˈzɑːtɪk]
 
-**Desp**
+**Description**
 adj. from a distant foreign country; strikingly unusual.
 adj. 异国的，奇异的
 

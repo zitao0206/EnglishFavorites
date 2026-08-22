@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### manufacture
 [ˌmænjuˈfæktʃə(r)]
 
-**Desp**
+**Description**
 v. to make goods in large quantities using machines.
 制造，生产
 

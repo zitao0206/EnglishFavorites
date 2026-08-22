@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### exemplify
 [ɪɡˈzemplɪfaɪ]
 
-**Desp**
+**Description**
 v. to be a typical example of.
 v. 是…的典范，例证
 

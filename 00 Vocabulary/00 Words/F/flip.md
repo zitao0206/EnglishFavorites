@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### flip
 [flɪp]
 
-**Desp**
+**Description**
 v. to turn over quickly; to look through pages quickly; to become suddenly angry.
 快速翻动，浏览；翻转；（俚）突然发怒
 

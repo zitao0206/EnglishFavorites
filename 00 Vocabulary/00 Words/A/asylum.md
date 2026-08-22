@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### asylum
 [əˈsaɪləm]
 
-**Desp**
+**Description**
 n. protection given by a country to refugees.
 庇护，避难
 

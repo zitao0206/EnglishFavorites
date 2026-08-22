@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### legitimize
 [lɪˈdʒɪtəmaɪz]
 
-**Desp**
+**Description**
 v. to make something legal or acceptable.
 v. 使合法化，使正当化
 

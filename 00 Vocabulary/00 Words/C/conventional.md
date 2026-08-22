@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### conventional
 [kənˈvenʃənl]
 
-**Desp**
+**Description**
 adj. based on what is usually done or believed; traditional.
 adj. 传统的，常规的；守旧的
 

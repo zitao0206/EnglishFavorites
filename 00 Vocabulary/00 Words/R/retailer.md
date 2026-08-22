@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### retailer
 [ˈriːteɪlər]
 
-**Desp**
+**Description**
 n. a business that sells goods to consumers.
 n. 零售商
 

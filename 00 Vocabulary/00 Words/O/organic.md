@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### organic
 [ɔːrˈɡænɪk]
 
-**Desp**
+**Description**
 adj. relating to living matter; grown without chemicals; natural and gradual.
 adj. 有机的；有机种植的；自然的，渐进的
 

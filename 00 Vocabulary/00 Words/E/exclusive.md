@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### exclusive
 [ɪkˈskluːsɪv]
 
-**Desp**
+**Description**
 adj. limited to a particular group; not shared; expensive and high-class.
 adj. 独有的，排外的；高端的 n. 独家报道
 

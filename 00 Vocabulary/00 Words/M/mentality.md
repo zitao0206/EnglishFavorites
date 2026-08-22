@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### mentality
 [menˈtæləti]
 
-**Desp**
+**Description**
 n. a particular way of thinking.
 心态，思维模式，想法
 

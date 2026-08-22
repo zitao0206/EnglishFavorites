@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### exert
 [ɪɡˈzɜːrt]
 
-**Desp**
+**Description**
 v. to use power or influence; to make an effort.
 v. 施加（影响、压力）；努力，尽力
 

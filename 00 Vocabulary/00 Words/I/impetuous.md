@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### impetuous
 [ɪmˈpetʃuəs]
 
-**Desp**
+**Description**
 adj. acting or done quickly and without thought or care.
 冲动的，鲁莽的，轻率的
 

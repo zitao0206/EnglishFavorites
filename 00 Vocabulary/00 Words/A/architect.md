@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### architect
 [ˈɑːkɪtekt]
 
-**Desp**
+**Description**
 n. q person who designs buildings; the designer or creator of an idea or plan.
 建筑师，设计师；缔造者
 

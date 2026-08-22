@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### crackle
 [ˈkrækl]
 
-**Desp**
+**Description**
 v/n. to make a series of small sharp snapping sounds; such a sound.
 （使）发出噼啪声；噼啪声响
 

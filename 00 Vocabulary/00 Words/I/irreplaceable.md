@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### irreplaceable
 [ˌɪrɪˈpleɪsəbl]
 
-**Desp**
+**Description**
 adj. impossible to replace; unique.
 不可替代的，独一无二的
 

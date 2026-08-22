@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### corpse
 [kɔːps]
 
-**Desp**
+**Description**
 n.a dead body, usually of a person.
 尸体
 

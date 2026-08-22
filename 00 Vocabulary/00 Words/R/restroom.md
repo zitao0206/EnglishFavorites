@@ -1,13 +1,12 @@
-
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### restroom
 [ˈrestruːm]
 
-**Desp**
+**Description**
 n. a public toilet; a bathroom in a public place.
 公共厕所，卫生间
 

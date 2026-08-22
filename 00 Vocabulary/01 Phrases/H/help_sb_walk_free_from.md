@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### help sb walk free from
 
-**Desp**
+**Description**
 phr&v. To help someone escape punishment or be released from blame.
 帮某人脱罪/逃脱
 

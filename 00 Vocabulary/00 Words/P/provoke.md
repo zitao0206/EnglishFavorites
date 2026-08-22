@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### provoke
 [prəˈvoʊk]
 
-**Desp**
+**Description**
 v. to cause a particular reaction or feeling; to make someone angry on purpose.
 激起，引起；挑衅，激怒
 

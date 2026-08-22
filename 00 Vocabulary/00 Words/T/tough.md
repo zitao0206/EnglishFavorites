@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### tough
 [tʌf]
 
-**Desp**
+**Description**
 adj. difficult; strong and durable; strict.
 adj. 困难的；坚韧的；强硬的
 

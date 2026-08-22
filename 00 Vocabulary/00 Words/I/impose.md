@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### impose
 [ɪmˈpoʊz]
 
-**Desp**
+**Description**
 v. to force a rule or burden on someone; to take unfair advantage.
 v. 强加；征收（税款）；勉强（利用）
 

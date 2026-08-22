@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### external
 [ɪkˈstɜːrnl]
 
-**Desp**
+**Description**
 adj. located outside; coming from outside.
 adj. 外部的，外面的；外来的
 

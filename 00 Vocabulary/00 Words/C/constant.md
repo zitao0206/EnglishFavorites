@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### constant
 [ˈkɑːnstənt]
 
-**Desp**
+**Description**
 adj. Occurring continuously over a period of time; unchanging. n. A quantity that remains the same.
 持续的，不断的；恒定的
 

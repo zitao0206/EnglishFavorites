@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### dizzy
 [ˈdɪzi]
 
-**Desp**
+**Description**
 adj. having or involving a sensation of spinning around and losing one's balance.
 头晕的，眩晕的
 

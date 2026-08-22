@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### fan
 [fæn]
 
-**Desp**
+**Description**
 n. A machine or object that moves air; a person who admires someone.
 风扇，扇子；迷，粉丝
 

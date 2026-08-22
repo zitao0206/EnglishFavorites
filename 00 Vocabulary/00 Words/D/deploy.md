@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### deploy
 [dɪˈplɔɪ]
 
-**Desp**
+**Description**
 v. to move forces or resources into position for action; to use effectively.
 v. 部署，调度；有效运用
 

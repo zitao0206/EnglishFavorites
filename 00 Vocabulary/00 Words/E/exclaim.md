@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### exclaim
 [ɪkˈskleɪm]
 
-**Desp**
+**Description**
 v. to say something suddenly and loudly because of surprise, anger, or excitement.
 惊叫，呼喊；大声说出
 

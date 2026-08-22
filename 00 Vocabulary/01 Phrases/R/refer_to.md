@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### refer to
 
-**Desp**
+**Description**
 phr&v. ① To mean or concern something ② To look at something for information.
 ① 指的是，涉及，意思是（=mean）② 查询，参考
 

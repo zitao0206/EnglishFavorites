@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### rip out
 
-**Desp**
+**Description**
 phr. to remove something by pulling.
 拔除，拆除
 

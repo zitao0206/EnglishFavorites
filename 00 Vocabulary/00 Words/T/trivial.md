@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### trivial
 [ˈtrɪviəl]
 
-**Desp**
+**Description**
 adj. Of little importance or value.
 琐碎的，不重要的
 

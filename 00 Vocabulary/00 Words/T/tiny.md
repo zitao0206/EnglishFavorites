@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### tiny
 [ˈtaɪni]
 
-**Desp**
+**Description**
 adj. Very small in size.
 微小的，极小的
 

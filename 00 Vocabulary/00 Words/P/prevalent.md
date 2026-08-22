@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### prevalent
 [ˈprevələnt]
 
-**Desp**
+**Description**
 adj. common or widespread at a particular time or place.
 流行的，普遍的
 

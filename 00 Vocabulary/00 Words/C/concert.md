@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### concert
 [ˈkɒnsət]
 
-**Desp**
+**Description**
 n. A musical performance given in public.
 音乐会，演奏会
 

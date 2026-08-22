@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### session
 [ˈseʃn]
 
-**Desp**
+**Description**
 n. a period of time spent doing a particular activity; a formal meeting; a period of court or parliament meetings.
 一场，一节（活动）；会议；开庭期
 

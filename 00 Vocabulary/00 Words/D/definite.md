@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### definite
 [ˈdefɪnət]
 
-**Desp**
+**Description**
 adj. certain, clear, and not likely to change.
 明确的，肯定的；确定的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### fur
 [fɜː]
 
-**Desp**
+**Description**
 n. the thick soft hair covering the body of some animals.
 （动物）软毛，毛皮
 

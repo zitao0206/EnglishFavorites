@@ -1,12 +1,12 @@
 📅 Created: 2026-08-20
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-20
 ### on board
 [bɔːrd]
 
-**Desp**
+**Description**
 phr. on a ship, plane, or train; involved in a project or organization; agreeing to support something.
 在船/飞机/车上；参与，加盟；同意，支持
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### disruptive
 [dɪsˈrʌptɪv]
 
-**Desp**
+**Description**
 adj. causing trouble and preventing something from continuing as normal; innovative in a way that changes an industry.
 破坏性的，扰乱性的；（商业）颠覆性的
 

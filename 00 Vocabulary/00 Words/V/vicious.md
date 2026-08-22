@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### vicious
 [ˈvɪʃəs]
 
-**Desp**
+**Description**
 adj. violent and cruel; (of a circle) self-perpetuating.
 adj. 恶毒的，凶残的；恶性的
 

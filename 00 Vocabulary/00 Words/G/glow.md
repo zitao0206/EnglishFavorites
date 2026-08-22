@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### glow
 [ɡloʊ]
 
-**Desp**
+**Description**
 v/n. to give out a steady warm light; a soft light.
 v. 发光，发热；n. 光辉，红光
 

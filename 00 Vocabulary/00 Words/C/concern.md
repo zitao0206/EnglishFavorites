@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### concern
 
 
-**Desp**
+**Description**
 v. To relate to; to worry; n. worry; something that is important to someone.
 v. 涉及，与…相关；让…担心；n. 担心；关心的事
 

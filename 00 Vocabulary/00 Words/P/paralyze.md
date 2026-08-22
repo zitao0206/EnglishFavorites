@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### paralyze
 [ˈpærəlaɪz]
 
-**Desp**
+**Description**
 v. to make someone unable to move; to make a system or organization unable to operate normally. 使瘫痪，使麻痹；使无法正常运转
 
 **Usages**

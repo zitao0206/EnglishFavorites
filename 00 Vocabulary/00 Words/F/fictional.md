@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### fictional
 [ˈfɪkʃənl]
 
-**Desp**
+**Description**
 adj. imagined and not real; from a story.
 虚构的，假想的
 

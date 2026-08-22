@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### agile
 [ˈædʒl]
 
-**Desp**
+**Description**
 adj. able to move quickly and easily; able to think and react quickly; (of methods) flexible.
 敏捷的，灵活的；反应快的
 

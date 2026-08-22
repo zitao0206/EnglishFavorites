@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### utter
 [ˈʌtə(r)]
 
-**Desp**
+**Description**
 adj. complete or total. 完全的，彻底的；
 v. to say something aloud. 说出
 

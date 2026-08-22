@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### top down
 
-**Desp**
+**Description**
 phr&adj. from the top of an organization down to the lower levels.
 自上而下的
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### literal
 [ˈlɪtərəl]
 
-**Desp**
+**Description**
 adj. taking words in their basic meaning, not figurative; exact.
 adj. 字面上的，按字面理解的；完全按原文的
 

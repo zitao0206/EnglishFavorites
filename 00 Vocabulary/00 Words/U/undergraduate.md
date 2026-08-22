@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### undergraduate 
 [ˌʌndərˈɡrædʒuət]
 
-**Desp**
+**Description**
 n. A university student who has not yet received a bachelor's degree.
 大学本科生，在校大学生
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### verdict
 [ˈvɜːdɪkt]
 
-**Desp**
+**Description**
 n. an official decision made by a jury or judge; a conclusion or opinion.
 裁决，判决；（最终）定论
 

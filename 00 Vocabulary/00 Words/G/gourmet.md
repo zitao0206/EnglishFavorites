@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### gourmet
 [ˈɡʊəmeɪ]
 
-**Desp**
+**Description**
 n. A person who enjoys and knows a lot about good food.
 美食家
 adj.（食物）美味的；提供美食的

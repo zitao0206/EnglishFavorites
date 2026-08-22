@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### exquisite
 [ɪkˈskwɪzɪt]
 
-**Desp**
+**Description**
 adj. extremely beautiful and finely made (stronger than delicate).
 精美的，精致绚丽的（程度比 delicate 更深）
 

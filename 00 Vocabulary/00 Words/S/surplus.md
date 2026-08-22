@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### surplus
 [ˈsɜːpləs]
 
-**Desp**
+**Description**
 n. an amount that is more than what is needed. adj. more than what is needed.
 n. 过剩，剩余；adj. 过剩的，多余的
 

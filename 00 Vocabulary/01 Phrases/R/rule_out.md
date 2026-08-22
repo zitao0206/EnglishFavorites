@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### rule out
 
-**Desp**
+**Description**
 phr&v. to exclude something as a possibility; to prevent something from happening.
 排除，不考虑；阻止
 

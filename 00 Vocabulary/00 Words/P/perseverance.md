@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### perseverance
 [ˌpɜːsəˈvɪərəns]
 
-**Desp**
+**Description**
 n. continued effort to do or achieve something despite difficulties.
 毅力，坚持不懈
 

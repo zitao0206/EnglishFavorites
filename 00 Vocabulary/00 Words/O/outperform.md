@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### outperform
 [ˌaʊtpəˈfɔːm]
 
-**Desp**
+**Description**
 v. to do better than someone or something, especially in performance or results.
 胜过，优于（业绩、性能、数据）
 

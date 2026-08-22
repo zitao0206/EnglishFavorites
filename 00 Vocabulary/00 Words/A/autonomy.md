@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### autonomy
 [ɔːˈtɒnəmi]
 
-**Desp**
+**Description**
 n. The right or ability of a group or person to govern itself or make their own decisions.
 自治，自治权；自主，自主权
 

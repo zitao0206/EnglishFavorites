@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### bittersweet
 [ˈbɪtərswiːt]
 
-**Desp**
+**Description**
 adj. Arousing pleasure tinged with sadness; both bitter and sweet to the taste.
 苦乐参半的，又苦又甜的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### fascinating
 [ˈfæsɪneɪtɪŋ]
 
-**Desp**
+**Description**
 adj. Extremely interesting and attractive.
 迷人的，有极大吸引力的
 

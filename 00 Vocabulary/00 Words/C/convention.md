@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### convention
 [kənˈvenʃn]
 
-**Desp**
+**Description**
 n. A large formal meeting of people with the same interest; a way of behaving that is generally accepted.
 大会，会议；惯例，常规；公约
 

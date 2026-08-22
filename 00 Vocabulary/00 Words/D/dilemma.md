@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### dilemma
 [dɪˈlemə]
 
-**Desp**
+**Description**
 n. a situation in which you have to make a difficult choice between two things.
 困境，进退两难
 

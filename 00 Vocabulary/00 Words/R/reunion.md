@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### reunion
 [ˌriːˈjuːniən]
 
-**Desp**
+**Description**
 n. A meeting of people who have not seen each other for a long time.
 重聚，团聚；同学会
 

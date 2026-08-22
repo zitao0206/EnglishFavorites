@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### be caught  
  
-**Desp**
+**Description**
 
 phr. (catch 的过去分词) 被夹在，陷入；遇上；被抓住；遭到。
 新闻、听力超高频搭配，后面常接不同介词，含义差别很大。

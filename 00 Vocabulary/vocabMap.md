@@ -1,5 +1,5 @@
 
-Phrases(Count: 94):
+Count(Words): 884  + Count(Phrases)94: = 978
 **Vocabulary | 文件相对路径**
 
 Words(Count: 884): 

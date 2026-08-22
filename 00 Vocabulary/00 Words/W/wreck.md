@@ -1,12 +1,12 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 ### wreck
 [rɛk]
 
-**Desp**
+**Description**
 n. a vehicle or ship that has been badly damaged or destroyed; an accident in which a vehicle is destroyed.
 v. to destroy or badly damage something.
 n. 残骸，失事（车辆、船只）；v. 破坏，毁坏

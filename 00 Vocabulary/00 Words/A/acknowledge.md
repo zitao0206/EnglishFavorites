@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L4
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### acknowledge
 [əkˈnɒlɪdʒ]
 
-**Desp**
+**Description**
 v. To accept or admit that something is true; to thank someone for something they have done.
 承认；致谢；确认收到
 

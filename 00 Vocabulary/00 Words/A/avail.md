@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### avail
 [əˈveɪl]
 
-**Desp**
+**Description**
 v. to help or be of use; n. use, benefit (used in 'to no avail').
 v. 有帮助，有益，有用；n. 效用，用途
 

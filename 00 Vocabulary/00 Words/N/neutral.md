@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### neutral
 [ˈnjuːtrəl]
 
-**Desp**
+**Description**
 adj/n. not supporting either side in a conflict; having no strong characteristics or color.
 中立的；中性的，素净的；n. 中立者
 

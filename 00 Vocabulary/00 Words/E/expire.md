@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### expire
 [ɪkˈspaɪə(r)]
 
-**Desp**
+**Description**
 v. to come to an end or stop being valid; to die.
 到期，失效；断气，死亡
 

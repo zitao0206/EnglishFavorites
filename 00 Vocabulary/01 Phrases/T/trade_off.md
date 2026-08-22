@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-18
 ### trade off
 
-**Desp**
+**Description**
 phr&v. to balance two things against each other; n. a compromise between two things you cannot have both of.
 权衡，取舍
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### mistrust
 [mɪsˈtrʌst]
 
-**Desp**
+**Description**
 v/n. to lack trust or confidence in someone; a feeling of not trusting.
 不信任，怀疑
 

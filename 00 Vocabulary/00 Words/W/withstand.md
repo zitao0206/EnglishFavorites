@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### withstand
 [wɪðˈstænd]
 
-**Desp**
+**Description**
 v. to resist or endure successfully.
 经受住，抵抗
 

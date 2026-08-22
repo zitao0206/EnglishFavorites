@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### referee
 [ˌrefəˈriː]
 
-**Desp**
+**Description**
 n. an official who enforces rules in a game; a person who gives references.
 n. 裁判员；推荐人；仲裁者
 

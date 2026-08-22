@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### emerging research
 
-**Desp**
+**Description**
 
 phr. new studies or findings that are just beginning to develop or receive attention.
 新兴研究，最新研究

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### forage
 [ˈfɒrɪdʒ]
 
-**Desp**
+**Description**
 v. to search for food; n. food for livestock.
 觅食；n. 饲料
 

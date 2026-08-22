@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### advancement
 [ədˈvɑːnsmənt]
 
-**Desp**
+**Description**
 n. progress; development; promotion to a higher position.
 进步，进展，技术革新；晋升
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### versus
 [ˈvɜːsəs]
 
-**Desp**
+**Description**
 prep. Used to compare two things or to say that two people or teams are competing against each other.
 与……相对；对抗（常缩写为 vs.）
 

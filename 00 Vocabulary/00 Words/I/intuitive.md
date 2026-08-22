@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### intuitive
 [ɪnˈtjuːɪtɪv]
 
-**Desp**
+**Description**
 adj. based on instinct; easy to understand and use.
 直觉的，直观的，易懂好用的
 

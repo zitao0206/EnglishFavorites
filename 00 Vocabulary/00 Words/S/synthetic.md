@@ -1,12 +1,12 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 ### synthetic
 [sɪnˈθɛtɪk]
 
-**Desp**
+**Description**
 adj. produced by chemical synthesis rather than of natural origin; artificial.
 adj. 合成的；人造的；非天然的；虚假的
 

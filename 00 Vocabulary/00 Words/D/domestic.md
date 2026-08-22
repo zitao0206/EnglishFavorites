@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 4
-🕒 Updated: 2026-08-22
 ### domestic
 [dəˈmestɪk]
 
-**Desp**
+**Description**
 adj. relating to a country's internal affairs; relating to home or family; (of animals) kept by people.
 国内的；家庭的，家用的；驯养的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### licence
 [ˈlaɪsns]
 
-**Desp**
+**Description**
 n. An official document giving permission to do or own something; freedom to do something.
 许可证，执照；许可，自由（美式拼作 license）
 

@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### scale up
 
-**Desp**
+**Description**
 phr. to increase in size or amount. ↔ scale down 缩减规模
 扩容，扩大规模
 

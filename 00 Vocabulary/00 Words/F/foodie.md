@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### foodie
 [ˈfuːdi]
 
-**Desp**
+**Description**
 n. a person who is very interested in food and cooking.
 美食家，吃货
 

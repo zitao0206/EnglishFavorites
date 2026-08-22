@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### spice
 [spaɪs]
 
-**Desp**
+**Description**
 n/v. a substance from plants used to give flavor to food; excitement or interest; to add flavor.
 n. 香料，调味品；趣味，刺激；v. 给……调味；为……增添趣味
 

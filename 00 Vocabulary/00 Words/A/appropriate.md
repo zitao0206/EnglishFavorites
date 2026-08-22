@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### appropriate
 [əˈproʊpriət]
 
-**Desp**
+**Description**
 adj. suitable or right for a particular situation.
 合适的，恰当的
 

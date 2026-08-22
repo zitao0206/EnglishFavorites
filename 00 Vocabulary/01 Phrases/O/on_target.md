@@ -1,11 +1,11 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### on target
 
-**Desp**
+**Description**
 phr. on course to achieve a goal; making expected progress.
 达到目标，按计划推进
 

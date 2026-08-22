@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### mortal
 [ˈmɔːtl]
 
-**Desp**
+**Description**
 adj. causing death; n. a human being subject to death.
 致命的；n. 凡人
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### insure
 [ɪnˈʃʊr]
 
-**Desp**
+**Description**
 v. to buy insurance protection.
 v. 给…投保，为…保险
 

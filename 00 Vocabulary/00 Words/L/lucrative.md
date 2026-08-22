@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### lucrative
 [ˈluːkrətɪv]
 
-**Desp**
+**Description**
 adj. Producing much money; profitable.
 利润丰厚的，赚钱的
 

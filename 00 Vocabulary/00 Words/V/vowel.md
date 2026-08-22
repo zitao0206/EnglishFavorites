@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### vowel
 [ˈvaʊəl]
 
-**Desp**
+**Description**
 n. a speech sound produced without stopping the breath; a letter (a, e, i, o, u) representing such a sound.
 元音，元音音素
 

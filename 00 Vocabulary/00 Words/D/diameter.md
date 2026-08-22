@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### diameter
 [daɪˈæmɪtə(r)]
 
-**Desp**
+**Description**
 n. the distance across a circle through its centre.
 直径
 

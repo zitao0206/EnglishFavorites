@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### perish
 [ˈperɪʃ]
 
-**Desp**
+**Description**
 v. to die, especially in a sudden or violent way; to be destroyed completely.
 死亡，丧生，毁灭，消亡
 

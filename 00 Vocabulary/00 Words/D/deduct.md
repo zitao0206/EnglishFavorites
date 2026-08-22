@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### deduct
 [dɪˈdʌkt]
 
-**Desp**
+**Description**
 v. to take away an amount or part from a total.
 扣除，减去
 

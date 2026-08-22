@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### cheer up
 
-**Desp**
+**Description**
 phr&v. to become happier; to make someone happier.
 振作起来，使高兴起来
 

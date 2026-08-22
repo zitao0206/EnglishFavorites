@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### characteristic
 [ˌkærəktəˈrɪstɪk]
 
-**Desp**
+**Description**
 n. a typical feature; adj. typical of a person or thing.
 n. 特征，特性；adj. 典型的，特有的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### integrity
 [ɪnˈteɡrəti]
 
-**Desp**
+**Description**
 n. The quality of being honest and having strong moral principles; the state of being whole and undivided.
 正直，诚实；完整，完好
 

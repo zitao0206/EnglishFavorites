@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### be destined to do / for sth
 
-**Desp**
+**Description**
 
 phr. to be certain to happen or to be meant to do or have something.
 注定要做某事；注定会……

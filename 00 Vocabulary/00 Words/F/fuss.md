@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### fuss
 [fʌs]
 
-**Desp**
+**Description**
 n. unnecessary excitement or worry about something unimportant.
 大惊小怪，紧张不安，小题大做
 

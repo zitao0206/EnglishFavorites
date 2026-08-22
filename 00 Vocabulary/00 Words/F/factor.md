@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### factor
 [ˈfæktə]
 
-**Desp**
+**Description**
 n. one of the things that influence a result.
 因素
 

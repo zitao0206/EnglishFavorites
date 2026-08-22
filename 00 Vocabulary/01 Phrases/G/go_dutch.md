@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### go Dutch
 
-**Desp**
+**Description**
 phr. To share the cost of a meal or outing equally among the participants; each person pays for their own share.
 AA制，各付各的
 

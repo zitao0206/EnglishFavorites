@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### strengthen
 [ˈstreŋθn]
 
-**Desp**
+**Description**
 v. to make something stronger; to become stronger.
 使变强，加强；（情感、决心）更加坚强
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### solidify
 [səˈlɪdɪfaɪ]
 
-**Desp**
+**Description**
 v. to make or become hard or solid; to make more definite or secure.
 凝固，固化；巩固，加强
 

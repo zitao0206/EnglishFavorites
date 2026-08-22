@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### hold off
 
-**Desp**
+**Description**
 
 phr. to delay doing something; to stop someone from doing something; to keep someone away.
 阻止，拖延，暂缓

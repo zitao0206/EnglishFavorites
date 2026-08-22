@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### awkward
 [ˈɔːkwəd]
 
-**Desp**
+**Description**
 adj. causing embarrassment; difficult to handle.
 令人尴尬的，为难的；笨拙的
 

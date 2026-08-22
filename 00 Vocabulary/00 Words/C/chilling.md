@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### chilling
 [ˈtʃɪlɪŋ]
 
-**Desp**
+**Description**
 adj. frightening; making you feel cold or afraid. (from chill n./v.)
 (1) 令人寒意刺骨的，阴森的，令人恐惧的
 (2) (非正式口语) 放松、休闲、摆烂、无所事事 👉 **NO.1 日常高频** relaxing, doing nothing stressful

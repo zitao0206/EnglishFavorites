@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### clarity
 [ˈklærəti]
 
-**Desp**
+**Description**
 n. The quality of being clear and easy to understand.
 清晰，清楚；明晰
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### pinhole
 [ˈpɪnhəʊl]
 
-**Desp**
+**Description**
 n. a very small hole, like one made by a pin.
 小孔，针眼，针孔
 

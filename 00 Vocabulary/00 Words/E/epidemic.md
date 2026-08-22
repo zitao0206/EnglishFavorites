@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### epidemic
 [ˌepɪˈdemɪk]
 
-**Desp**
+**Description**
 n. a widespread outbreak of disease; a rapid spread of a problem.
 n. 流行病；（坏事的）泛滥
 

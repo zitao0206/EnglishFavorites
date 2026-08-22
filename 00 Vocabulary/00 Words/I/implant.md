@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### implant
 [ɪmˈplɑːnt]
 
-**Desp**
+**Description**
 v./n. to put something into a person's body by surgery; to fix an idea firmly in someone's mind.
 植入，移植；灌输（观念）；（n.）植入物
 

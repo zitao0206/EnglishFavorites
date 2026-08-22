@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### cherish
 [ˈtʃerɪʃ]
 
-**Desp**
+**Description**
 v. to hold something dear; to keep a hope or memory in one's mind deeply.
 珍视，珍惜；怀有（希望、想法）
 

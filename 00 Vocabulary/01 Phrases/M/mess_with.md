@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### mess with
 
-**Desp**
+**Description**
 phr&v. to interfere with or cause trouble for someone or something.
 招惹，找麻烦；扰乱某人
 

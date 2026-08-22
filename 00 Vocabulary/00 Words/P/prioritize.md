@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### prioritize
 [praɪˈɔːrətaɪz]
 
-**Desp**
+**Description**
 v. to designate or treat something as more important than other things.
 优先处理，按重要性排序
 

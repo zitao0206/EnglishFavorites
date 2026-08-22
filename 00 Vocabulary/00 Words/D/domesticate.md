@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### domesticate
 [dəˈmestɪkeɪt]
 
-**Desp**
+**Description**
 v. to tame wild animals or cultivate wild plants for human use.
 v. 驯化（动物），驯养；培育（植物）
 

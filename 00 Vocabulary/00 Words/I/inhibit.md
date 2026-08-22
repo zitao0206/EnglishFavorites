@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### inhibit
 [ɪnˈhɪbɪt]
 
-**Desp**
+**Description**
 v. to prevent or slow down a process or action.
 v. 抑制，阻止，阻碍
 

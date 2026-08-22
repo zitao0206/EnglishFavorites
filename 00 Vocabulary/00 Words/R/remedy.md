@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### remedy
 [ˈremədi]
 
-**Desp**
+**Description**
 n/v. a way of solving a problem or curing an illness; to correct or improve a situation.
 n. 补救办法；药物，疗法；v. 补救，纠正
 

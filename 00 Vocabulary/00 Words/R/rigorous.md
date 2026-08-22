@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### rigorous
 [ˈrɪɡərəs]
 
-**Desp**
+**Description**
 adj. extremely thorough, exhaustive, and accurate; strictly applied.
 严格的，严密的；严谨的
 

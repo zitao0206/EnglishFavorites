@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### personnel
 [ˌpɜːsəˈnel]
 
-**Desp**
+**Description**
 n. the people who work for an organization.
 人员，员工，全体人员
 

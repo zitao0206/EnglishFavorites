@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### regression
 [rɪˈɡreʃn]
 
-**Desp**
+**Description**
 n. a return to a former or less developed state; a statistical method.
 倒退，退步；回归分析
 

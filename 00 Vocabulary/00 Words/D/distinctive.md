@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### distinctive
 [dɪˈstɪŋktɪv]
 
-**Desp**
+**Description**
 adj. having a special quality that makes something easy to recognize.
 adj. 独特的，与众不同的
 

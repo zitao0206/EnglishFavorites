@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-16
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-16
 ### postgraduate 
 [ˌpoʊstˈɡrædʒuət]
 
-**Desp**
+**Description**
 n. A student who is studying for an advanced degree (such as a master's or doctorate) after completing a bachelor's degree.
 研究生；adj. 研究生的
 

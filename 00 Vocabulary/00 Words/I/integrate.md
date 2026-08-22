@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### integrate
 [ˈɪntɪɡreɪt]
 
-**Desp**
+**Description**
 v. to combine parts into a whole; to blend into a group.
 v. 使融合，使一体化；融入
 

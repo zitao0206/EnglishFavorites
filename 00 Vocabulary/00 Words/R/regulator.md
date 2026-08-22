@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### regulator
 [ˈreɡjuleɪtə(r)]
 
-**Desp**
+**Description**
 n. an official organization that controls an activity and makes sure it follows rules.
 监管机构，管理机构
 

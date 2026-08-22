@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### presume
 [prɪˈzjuːm]
 
-**Desp**
+**Description**
 v. to think that something is true because it is likely, although you are not certain.
 假定，推测；擅自做某事
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### derivative
 [dɪˈrɪvətɪv]
 
-**Desp**
+**Description**
 n./adj. a value measuring the rate of change of a function; derived from something else.
 导数；衍生的
 

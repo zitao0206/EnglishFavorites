@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### make a scene
 
-**Desp**
+**Description**
 phr&v. To behave noisily and emotionally in public.
 当众大吵大闹，闹事
 

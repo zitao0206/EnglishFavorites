@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### rebel
 [ˈrebl / rɪˈbel]
 
-**Desp**
+**Description**
 n. a person who fights against authority; v. to resist control.
 n. 反叛者；v. 造反，反叛
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### fulfil
 [fʊlˈfɪl]
 
-**Desp**
+**Description**
 v. to achieve or satisfy something; to perform a duty.
 v. 实现，满足；履行（职责）
 

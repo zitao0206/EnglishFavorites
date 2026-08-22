@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### occasional
 [əˈkeɪʒənl]
 
-**Desp**
+**Description**
 adj. happening sometimes but not often.
 adj. 偶尔的，间或发生的
 

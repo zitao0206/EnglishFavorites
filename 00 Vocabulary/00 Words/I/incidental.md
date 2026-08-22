@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### incidental
 [ˌɪnsɪˈdentl]
 
-**Desp**
+**Description**
 adj. happening as a minor part of something; accidental.
 adj. 附带的，次要的；偶然的
 

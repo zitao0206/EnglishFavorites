@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### on track
 
-**Desp**
+**Description**
 phr. making progress in the right way; likely to achieve the desired result.
 步入正轨；进展顺利
 

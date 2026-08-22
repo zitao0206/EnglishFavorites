@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### deteriorate
 [dɪˈtɪriəreɪt]
 
-**Desp**
+**Description**
 v. to become worse.
 v. 恶化，变坏
 

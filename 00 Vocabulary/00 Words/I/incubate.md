@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### incubate
 [ˈɪŋkjubeɪt]
 
-**Desp**
+**Description**
 v. to sit on eggs to hatch them; to develop slowly.
 孵卵，孵化
 

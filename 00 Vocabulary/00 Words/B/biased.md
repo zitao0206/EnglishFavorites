@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### biased
 [ˈbaɪəst]
 
-**Desp**
+**Description**
 adj. unfairly preferring one person or view.
 adj. 有偏见的，偏袒的
 

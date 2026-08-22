@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### grey area
 
-**Desp**
+**Description**
 
 phr. a situation that is not clearly defined or covered by rules.
 灰色地带，模糊不清的范畴

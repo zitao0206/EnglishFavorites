@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### gaze
 [ɡeɪz]
 
-**Desp**
+**Description**
 v. to look steadily and intently, especially in admiration, surprise, or thought.
 凝视，注视
 n. A long, steady look.

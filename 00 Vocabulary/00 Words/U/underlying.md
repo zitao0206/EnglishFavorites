@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### underlying
 [ˌʌndəˈlaɪɪŋ]
 
-**Desp**
+**Description**
 adj. basic, fundamental, but not obvious at first.
 根本的，潜在的，深层的
 

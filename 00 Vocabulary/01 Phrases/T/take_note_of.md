@@ -1,11 +1,11 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L4
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### take note of
 
-**Desp**
+**Description**
 phr&v. to pay attention to and remember something; to notice.
 注意到，留意，把……记在心里
 

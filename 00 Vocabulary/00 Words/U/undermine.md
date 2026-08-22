@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### undermine
 [ˌʌndərˈmaɪn]
 
-**Desp**
+**Description**
 v. To gradually weaken, damage, or lessen the effectiveness of something.
 破坏，削弱，暗中损坏
 

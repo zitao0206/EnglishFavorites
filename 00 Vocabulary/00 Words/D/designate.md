@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### designate
 [ˈdezɪɡneɪt]
 
-**Desp**
+**Description**
 v. To officially choose someone or something for a purpose; to mark or indicate.
 指定，指派，标明
 

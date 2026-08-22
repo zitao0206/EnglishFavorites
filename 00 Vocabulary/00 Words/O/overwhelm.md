@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### overwhelm
 [ˌoʊvərˈwelm]
 
-**Desp**
+**Description**
 v. to affect strongly; to defeat completely.
 v. 使不知所措；（洪水般）淹没；彻底击败
 

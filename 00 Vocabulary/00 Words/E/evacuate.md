@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### evacuate
 [ɪˈvækjueɪt]
 
-**Desp**
+**Description**
 v. to move people from a place of danger to a safer place.
 撤离，转移
 

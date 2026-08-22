@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### spacious
 [ˈspeɪʃəs]
 
-**Desp**
+**Description**
 adj. having plenty of room; large in area.
 adj. 宽敞的，开阔的
 

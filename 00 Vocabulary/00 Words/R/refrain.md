@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### refrain
 [rɪˈfreɪn]
 
-**Desp**
+**Description**
 v. to hold back from doing something; n. a repeated line in a song.
 v. 克制，避免 n. 副歌，重复的话
 

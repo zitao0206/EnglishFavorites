@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### affiliate
 [əˈfɪlieɪt]
 
-**Desp**
+**Description**
 v. to attach to a larger organization; n. a related organization.
 v. 使隶属于；n. 附属机构，分公司
 

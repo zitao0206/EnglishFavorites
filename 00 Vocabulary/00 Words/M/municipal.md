@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### municipal
 [mjuːˈnɪsɪpl]
 
-**Desp**
+**Description**
 adj. relating to a city or its government.
 adj. 市政的，市的
 

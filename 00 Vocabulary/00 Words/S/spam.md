@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### spam
 [spæm]
 
-**Desp**
+**Description**
 n. irrelevant or inappropriate messages sent to many people; v. to flood someone with messages.
 垃圾消息；狂发消息，刷屏
 

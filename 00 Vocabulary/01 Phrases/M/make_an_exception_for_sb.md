@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### make an exception for sb
 
-**Desp**
+**Description**
 phr. To allow someone not to follow a rule that others must follow.
 为某人破例
 

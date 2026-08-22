@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### bureau
 [ˈbjʊroʊ]
 
-**Desp**
+**Description**
 n.  政府）局、处、办事处
 
 【扩】

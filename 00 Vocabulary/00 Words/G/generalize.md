@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### generalize
 [ˈdʒenrəlaɪz]
 
-**Desp**
+**Description**
 v. To make a general statement that is based on only a few examples; to apply a rule to a wider range.
 概括，归纳；推广，普及
 

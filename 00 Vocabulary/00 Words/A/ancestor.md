@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### ancestor
 [ˈænsestə(r)]
 
-**Desp**
+**Description**
 n. A person from whom one is descended; an early form of something.
 祖先，老祖；雏形
 

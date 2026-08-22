@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### frontier
 [ˈfrʌntɪə(r)]
 
-**Desp**
+**Description**
 n. the border of a country; the edge of what is known or developed.
 边境，边界；前沿，尖端
 

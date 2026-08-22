@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### hazard
 [ˈhæzəd]
 
-**Desp**
+**Description**
 n/v. a danger or risk; to risk something or make a guess.
 危险，隐患；（v.）冒险；大胆猜测
 

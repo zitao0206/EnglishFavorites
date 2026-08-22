@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### more of
 
-**Desp**
+**Description**
 
 phr. to a greater degree; used to say something is closer to one thing than another.
 更大程度上的，更偏向于，更多是

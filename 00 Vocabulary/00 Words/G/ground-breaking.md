@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### ground-breaking
 [ˌɡraʊnd ˈbreɪkɪŋ]
 
-**Desp**
+**Description**
 adj. introducing new ideas or methods; pioneering.
 开创性的，开拓性的，突破性的
 

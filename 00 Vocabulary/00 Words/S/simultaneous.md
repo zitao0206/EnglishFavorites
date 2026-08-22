@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### simultaneous
 [ˌsaɪm(ə)lˈteɪniəs]
 
-**Desp**
+**Description**
 adj. happening, done, or existing at the same time.
 同时发生的，同步的
 

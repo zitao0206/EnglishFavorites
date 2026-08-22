@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### underrate
 [ˌʌndərˈreɪt]
 
-**Desp**
+**Description**
 v. to rate or evaluate too low; to underestimate.
 低估，轻视
 

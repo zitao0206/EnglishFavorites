@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### criteria
 [kraɪˈtɪəriə]
 
-**Desp**
+**Description**
 n. standards or principles by which something is judged or decided.
 标准，准则（criterion 的复数形式）
 

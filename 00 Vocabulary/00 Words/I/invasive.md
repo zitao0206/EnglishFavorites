@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### invasive
 [ɪnˈveɪsɪv]
 
-**Desp**
+**Description**
 adj. tending to spread aggressively and harmfully; (medical) involving cutting into the body.
 侵入的，入侵的
 

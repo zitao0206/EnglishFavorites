@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-17
 ### aggressive
 [əˈɡresɪv]
 
-**Desp**
+**Description**
 adj. Forceful and ready to attack; very determined to succeed; (of a disease) developing quickly.
 好斗的，挑衅的；积极进取的；攻势的
 

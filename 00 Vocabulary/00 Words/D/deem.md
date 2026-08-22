@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### deem
 [diːm]
 
-**Desp**
+**Description**
 v. to consider or judge something in a particular way.
 v. 认为，视为
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### vibrate
 [ˈvaɪbreɪt]
 
-**Desp**
+**Description**
 v. to shake with small quick movements.
 v. 震动，颤动
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### age-restricted
 [ˈeɪdʒ rɪˌstrɪktɪd]
 
-**Desp**
+**Description**
 adj. restricted or limited to people of a certain age.
 年龄受限的，限年龄的
 

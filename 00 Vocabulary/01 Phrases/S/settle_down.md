@@ -1,11 +1,11 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### settle down
 
-**Desp**
+**Description**
 phr&v. to begin living a stable, settled life; to become calm after excitement.
 安定下来，定居；（激动后）平静下来
 

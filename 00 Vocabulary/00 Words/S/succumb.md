@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### succumb
 [səˈkʌm]
 
-**Desp**
+**Description**
 v. to yield to pressure or temptation; to die from the effects of something.
 屈服（+ to）
 

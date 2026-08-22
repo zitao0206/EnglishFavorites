@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### reluctant
 [rɪˈlʌktənt]
 
-**Desp**
+**Description**
 adj. unwilling and hesitant to do something.
 adj. 不情愿的，勉强的
 

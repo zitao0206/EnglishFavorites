@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### distract
 
 
-**Desp**
+**Description**
 v. To prevent someone from concentrating on something.
 使分心，使注意力转移
 

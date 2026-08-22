@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### fire-extinguisher
 [ɪkˈstɪŋɡwɪʃə(r)]
 
-**Desp**
+**Description**
 n. A device used to put out small fires.
 灭火器
 

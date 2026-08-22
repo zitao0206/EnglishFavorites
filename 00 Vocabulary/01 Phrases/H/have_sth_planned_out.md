@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### have sth planned out
 
-**Desp**
+**Description**
 phr. to have arranged or organized something in detail beforehand.
 把某事全盘规划，周密谋划
 

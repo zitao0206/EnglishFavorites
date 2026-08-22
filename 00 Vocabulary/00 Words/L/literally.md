@@ -1,12 +1,12 @@
 📅 Created: 2026-08-19
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### literally
 [ˈlɪtərəli]
 
-**Desp**
+**Description**
 adv.
 1. 字面上；按照本义（非比喻）
 2. 【口语】简直，实实在在（加强语气，**并非字面含义**，雅思听力、阅读高频）

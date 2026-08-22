@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### fancy
 [ˈfænsi]
 
-**Desp**
+**Description**
 v/adj/n. to want or like something; elaborate or expensive; imagination or liking.
 v. 想要，喜欢
 adj. 时髦的，奢华的；华丽的，花哨的 

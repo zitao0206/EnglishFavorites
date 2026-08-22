@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### numerous
 [ˈnuːmərəs]
 
-**Desp**
+**Description**
 adj. many; existing in large numbers.
 adj. 众多的，许多的
 

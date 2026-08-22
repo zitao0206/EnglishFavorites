@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### pessimistic
 [ˌpesɪˈmɪstɪk]
 
-**Desp**
+**Description**
 adj. expecting bad outcomes; gloomy.
 adj. 悲观的
 

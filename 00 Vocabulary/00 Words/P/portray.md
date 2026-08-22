@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### portray
 [pɔːˈtreɪ]
 
-**Desp**
+**Description**
 v. to describe or show someone or something in a certain way.
 描绘，刻画；描述，塑造
 

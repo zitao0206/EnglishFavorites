@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### deliberate
 [dɪˈlɪbərət]
 
-**Desp**
+**Description**
 adj./v. done on purpose, intentional; done slowly and carefully; to think or discuss carefully.
 故意的，蓄意的；从容谨慎的；（v.）仔细考虑
 

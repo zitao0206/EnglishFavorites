@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### denounce
 [dɪˈnaʊns]
 
-**Desp**
+**Description**
 v. to publicly criticize something as wrong.
 v. 谴责，抨击；告发
 

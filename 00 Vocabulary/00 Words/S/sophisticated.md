@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### sophisticated
 [səˈfɪstɪkeɪtɪd]
 
-**Desp**
+**Description**
 adj. Having or showing much worldly experience; complex and refined.
 老练的，精密的，复杂的
 

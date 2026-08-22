@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### defuse
 [ˌdiːˈfjuːz]
 
-**Desp**
+**Description**
 v. to make a dangerous or tense situation calmer; to remove the fuse from a bomb.
 缓和，平息；拆除（炸弹的）引信
 

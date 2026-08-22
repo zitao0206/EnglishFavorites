@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### sugary
 [ˈʃʊɡəri]
 
-**Desp**
+**Description**
 adj. Containing a lot of sugar; too sweet.
 含糖的，甜的
 

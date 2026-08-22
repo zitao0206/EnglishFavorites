@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### legitimate
 [lɪˈdʒɪtɪmət]
 
-**Desp**
+**Description**
 adj. legal or acceptable; reasonable; (of a child) born to married parents.
 adj. 合法的；正当合理的；婚生的
 

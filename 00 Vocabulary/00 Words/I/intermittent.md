@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### intermittent
 [ˌɪntəˈmɪtənt]
 
-**Desp**
+**Description**
 adj. stopping and starting at intervals; not continuous.
 间歇的，断续的
 

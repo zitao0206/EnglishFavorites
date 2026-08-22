@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-22
 ### render
 [ˈrendər]
 
-**Desp**
+**Description**
 v. to provide or give (a service, help); to cause to become; to translate or perform.
 提供，给予（服务、帮助）；使成为，致使（render sth + adj.）；翻译；渲染
 

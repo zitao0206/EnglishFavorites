@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### enviable
 [ˈenviəbl]
 
-**Desp**
+**Description**
 adj. causing envy; very desirable.
 adj. 令人羡慕的
 

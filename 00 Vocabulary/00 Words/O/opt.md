@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### opt
 [ɑːpt]
 
-**Desp**
+**Description**
 v. to choose something or decide to do something.
 选择，决定 （较正式，强调经过思考后做出抉择）
 

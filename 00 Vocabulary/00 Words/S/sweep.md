@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### sweep
 [swiːp]
 
-**Desp**
+**Description**
 v. to clean with a brush; to move quickly; n. a wide movement.
 v. 打扫；掠过，席卷 n. 打扫；广泛搜索
 

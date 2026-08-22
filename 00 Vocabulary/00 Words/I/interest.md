@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### interest
 [ˈɪntrəst]
 
-**Desp**
+**Description**
 n. the feeling of wanting to know or learn about something; money paid for borrowing; advantage.
 兴趣；利益；利息
 

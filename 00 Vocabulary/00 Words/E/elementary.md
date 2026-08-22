@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### elementary
 [ˌelɪˈmentri]
 
-**Desp**
+**Description**
 adj. simple and basic; relating to the early stages of education.
 简单的，基础的；初级的
 

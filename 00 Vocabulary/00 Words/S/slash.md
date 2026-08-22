@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### slash
 [slæʃ]
 
-**Desp**
+**Description**
 v. to cut something violently; to reduce greatly; n. a cut mark.
 v. 砍，劈；大幅削减 n. 砍痕；斜线
 

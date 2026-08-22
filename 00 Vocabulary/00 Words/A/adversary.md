@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### adversary
 [ˈædvəsəri]
 
-**Desp**
+**Description**
 n. an opponent or enemy. adj. opposed or hostile.
 n. 敌人，对手；adj. 敌对的，作对的
 

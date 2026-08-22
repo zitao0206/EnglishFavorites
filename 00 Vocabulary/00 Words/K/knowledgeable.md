@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### knowledgeable
 [ˈnɒlɪdʒəbl]
 
-**Desp**
+**Description**
 adj. Knowing a lot about a particular subject.
 博学的，见多识广的，知识渊博的
 

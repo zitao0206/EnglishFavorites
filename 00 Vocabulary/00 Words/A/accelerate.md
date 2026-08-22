@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### accelerate
 [əkˈseləreɪt]
 
-**Desp**
+**Description**
 v. to move or happen faster; to speed up.
 v. 加速，加快，促进
 

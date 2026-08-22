@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### sanctuary
 [ˈsæŋktʃuəri]
 
-**Desp**
+**Description**
 n. a place of refuge or protection; a nature reserve.
 庇护所，保护区
 

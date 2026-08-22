@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### diagnose
 [ˈdaɪəɡnəʊz]
 
-**Desp**
+**Description**
 v. to identify an illness or the cause of a problem.
 诊断，找出原因
 

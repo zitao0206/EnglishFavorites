@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### term
 [tɜːm]
 
-**Desp**
+**Description**
 n/v. A word or phrase used to describe something; a fixed period of time; one of the periods of the school year.
 术语，措辞；期限，学期；任期；v. 把……称为
 

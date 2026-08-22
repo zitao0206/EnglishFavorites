@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### monologue
 [ˈmɑːnəlɔːɡ]
 
-**Desp**
+**Description**
 n. a long speech by one speaker, especially in a play, film, or conversation.
 独白，长篇独白（mono- 单一 + -logue 话语）
 

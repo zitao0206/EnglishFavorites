@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### chart board
 [tʃɑːrt bɔːrd]
 
-**Desp**
+**Description**
 
 phr. A board or panel displaying charts; similar to a dashboard.
 表格/图表板，

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### trustworthy
 [ˈtrʌstwɜːði]
 
-**Desp**
+**Description**
 adj. able to be relied on as honest or truthful.
 可靠的，守信的
 

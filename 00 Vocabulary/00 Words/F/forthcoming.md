@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### forthcoming
 [ˌfɔːrθˈkʌmɪŋ]
 
-**Desp**
+**Description**
 adj. about to happen; willing to give information.
 adj. 即将到来的；乐于提供信息的
 

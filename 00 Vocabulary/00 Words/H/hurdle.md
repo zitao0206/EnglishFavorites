@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### hurdle
 [ˈhɜːrdl]
 
-**Desp**
+**Description**
 n. An obstacle or difficulty; a frame or fence in a race. v. To overcome an obstacle.
 障碍，难关；跨栏
 

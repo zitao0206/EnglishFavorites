@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### devise
 [dɪˈvaɪz]
 
-**Desp**
+**Description**
 v. to invent a plan, system, or method by careful thought.
 设计，想出，发明（方法、制度）
 

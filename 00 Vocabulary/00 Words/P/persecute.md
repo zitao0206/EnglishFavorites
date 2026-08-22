@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### persecute
 [ˈpɜːsɪkjuːt]
 
-**Desp**
+**Description**
 v. to treat someone cruelly or unfairly because of race, religion or beliefs.
 （因种族、信仰、观点）迫害，残害
 

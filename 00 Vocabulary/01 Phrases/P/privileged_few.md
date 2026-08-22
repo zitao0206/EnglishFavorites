@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-16
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-16
 ### privileged few
 [ˈprɪvəlɪdʒd fjuː]
 
-**Desp**
+**Description**
 
 phr. a small group of people who have special advantages, wealth, or power.
 少数特权阶层

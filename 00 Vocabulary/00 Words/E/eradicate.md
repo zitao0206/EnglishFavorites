@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### eradicate
 [ɪˈrædɪkeɪt]
 
-**Desp**
+**Description**
 v. to destroy completely; to put an end to.
 根除，消灭
 

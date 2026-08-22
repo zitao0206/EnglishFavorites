@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### aggravate
 [ˈæɡrəveɪt]
 
-**Desp**
+**Description**
 v. to make a problem worse; to annoy someone.
 v. 使恶化，加重；激怒
 

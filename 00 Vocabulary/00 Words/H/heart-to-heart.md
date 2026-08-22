@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### heart-to-heart
 [ˌhɑːrt tə ˈhɑːrt]
 
-**Desp**
+**Description**
 n. an honest and intimate conversation between two people; adj. frank and sincere.
 n. 促膝谈心，坦诚的交谈；adj. 推心置腹的
 

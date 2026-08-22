@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### elaborate
 [ɪˈlæbərət]
 
-**Desp**
+**Description**
 v. to explain in detail; adj. detailed and complicated.
 v. 详述；adj. 复杂的，详尽的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### authoritative
 [əˈθɔːrəteɪtɪv]
 
-**Desp**
+**Description**
 adj. trusted as accurate and reliable; commanding and confident.
 权威的，可信的；专断的，命令式的
 

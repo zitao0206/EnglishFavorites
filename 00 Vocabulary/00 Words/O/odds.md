@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### odds
 [ɒdz]
 
-**Desp**
+**Description**
 n. the probability that something will happen.
 可能性，几率
 

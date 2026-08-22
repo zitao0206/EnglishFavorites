@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### formality
 [fɔːˈmæləti]
 
-**Desp**
+**Description**
 n. a formal or official procedure; something done as a matter of custom rather than necessity.
 正式礼节，例行公事
 

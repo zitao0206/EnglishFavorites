@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### quantify
 [ˈkwɒntɪfaɪ]
 
-**Desp**
+**Description**
 v. to measure or express the amount or size of something.
 测定…的数量，量化
 

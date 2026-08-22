@@ -1,11 +1,11 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### meet up
 
-**Desp**
+**Description**
 phr&v. to meet someone, usually informally or by arrangement.
 碰面，相聚，会面（通常非正式）
 

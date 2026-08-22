@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### feral
 [ˈferəl]
 
-**Desp**
+**Description**
 adj. existing in a wild or untamed state, esp. after escaping from captivity.
 野生的，野化的
 

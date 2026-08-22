@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### extract
 [ɪkˈstrækt]
 
-**Desp**
+**Description**
 v. to remove or take out; n. a substance taken from something.
 v. 提取，提取；摘录 n. 提取物，摘录
 

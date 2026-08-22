@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### dignity
 [ˈdɪɡnəti]
 
-**Desp**
+**Description**
 n. the state of being worthy of respect.
 尊严，高贵；人格
 

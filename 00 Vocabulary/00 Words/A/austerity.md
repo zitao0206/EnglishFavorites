@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### austerity
 [ɒˈsterəti]
 
-**Desp**
+**Description**
 n. strict economy; a plain, simple way of living.
 紧缩，压缩（财政）；简朴，朴素，节俭的生活方式
 

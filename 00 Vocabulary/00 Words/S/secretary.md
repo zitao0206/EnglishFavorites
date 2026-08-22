@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### secretary
 [ˈsekrəteri]
 
-**Desp**
+**Description**
 n. a person employed by an organization to assist with clerical and administrative tasks; a senior official of a department or organization.
 秘书；（政府部门）部长，书记
 

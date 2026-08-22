@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### notorious
 [noʊˈtɔːriəs]
 
-**Desp**
+**Description**
 adj. famous for something bad.
 adj. 臭名昭著的，声名狼藉的
 

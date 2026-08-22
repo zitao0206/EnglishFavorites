@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### bluff
 [blʌf]
 
-**Desp**
+**Description**
 v./n. to try to deceive someone by pretending to be stronger or more confident than you are.
 虚张声势，吓唬
 

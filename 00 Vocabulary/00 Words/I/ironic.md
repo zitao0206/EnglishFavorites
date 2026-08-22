@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### ironic
 [aɪˈrɑːnɪk]
 
-**Desp**
+**Description**
 adj. happening in the opposite way to what is expected, often causing wry amusement.
 讽刺的，具有讽刺意味的
 

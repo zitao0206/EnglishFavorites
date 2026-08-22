@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### reckless
 [ˈrekləs]
 
-**Desp**
+**Description**
 adj. showing a lack of care about danger and the possible results of your actions.
 鲁莽的，不计后果的
 

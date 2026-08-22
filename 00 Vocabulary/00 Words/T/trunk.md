@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### trunk
 [trʌŋk]
 
-**Desp**
+**Description**
 n. the main stem of a tree; the human or animal body excluding head and limbs.
 树干，（人或动物的）躯干
 

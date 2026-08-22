@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### tangible
 [ˈtændʒəbəl]
 
-**Desp**
+**Description**
 adj. real and concrete enough to be touched or measured; clear and definite.
 有形的，可触摸的；切实的，明确的
 

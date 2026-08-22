@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### beneath
 [bɪˈniːθ]
 
-**Desp**
+**Description**
 prep/adv. below something; under; not worthy of.
 prep. 在…下方；低于；不值得 adv. 在下方
 

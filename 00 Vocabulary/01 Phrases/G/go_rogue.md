@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### go rogue 
 [roʊɡ]
 
-**Desp**
+**Description**
 phr. to start behaving in an uncontrolled, rebellious or unpredictable way.
 搞反叛的，失控的，桀骜不驯
 

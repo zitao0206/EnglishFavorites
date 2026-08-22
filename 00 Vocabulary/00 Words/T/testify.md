@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### testify
 [ˈtestɪfaɪ]
 
-**Desp**
+**Description**
 v. to give evidence in court; to prove something.
 v. 作证，证明
 

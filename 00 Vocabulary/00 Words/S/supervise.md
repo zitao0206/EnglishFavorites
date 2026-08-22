@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 4
-🕒 Updated: 2026-08-22
 ### supervise
 [ˈsuːpərvaɪz]
 
-**Desp**
+**Description**
 v. to be in charge of a person or activity and make sure that things are done correctly, safely, etc.
 监督，管理，指导
 

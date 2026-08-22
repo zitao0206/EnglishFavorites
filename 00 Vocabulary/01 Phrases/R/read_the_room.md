@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-16
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-16
 ### read the room
 
-**Desp**
+**Description**
 
 phr. To understand and adapt to the mood, attitudes, and unspoken cues of the people present.
 读懂现场，察言观色（感知环境中人的情绪、态度、潜台词等；look at emotions）

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### imperative
 [ɪmˈperətɪv]
 
-**Desp**
+**Description**
 adj. extremely important and urgent; n. something that must be done.
 adj. 极重要的，紧迫的；n. 必要的事， imperative 语气
 

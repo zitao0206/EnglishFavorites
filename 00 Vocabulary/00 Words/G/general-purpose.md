@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### general-purpose
 [ˌdʒenərəl ˈpɜːrpəs]
 
-**Desp**
+**Description**
 adj. suitable for a wide range of uses or tasks; not specialized.
 多用途的，多功能的，通用的
 

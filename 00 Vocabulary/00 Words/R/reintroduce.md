@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### reintroduce
 [ˌriːɪntrəˈdjuːs]
 
-**Desp**
+**Description**
 v. to introduce again; to return a species to its native habitat.
 重新引入
 

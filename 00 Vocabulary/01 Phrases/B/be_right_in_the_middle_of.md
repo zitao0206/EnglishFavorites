@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### be right in the middle of..
 
-**Desp**
+**Description**
 
 phr.
 1. 正处在…当中；恰逢（时间、事件进程）

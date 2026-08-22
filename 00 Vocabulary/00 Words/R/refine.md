@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### refine
 [rɪˈfaɪn]
 
-**Desp**
+**Description**
 v. to improve something by making small changes; to purify a substance.
 改进，完善；提炼，精炼
 

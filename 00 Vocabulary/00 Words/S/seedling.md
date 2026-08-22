@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### seedling
 [ˈsiːdlɪŋ]
 
-**Desp**
+**Description**
 n. a young plant grown from a seed.
 幼苗
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### refuge
 [ˈrefjuːdʒ]
 
-**Desp**
+**Description**
 n. shelter or protection from danger; a safe place.
 n. 庇护，避难；避难所
 

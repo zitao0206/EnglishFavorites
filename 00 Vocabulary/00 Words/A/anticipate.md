@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### anticipate
 [ænˈtɪsɪpeɪt]
 
-**Desp**
+**Description**
 v. to expect something and prepare for it.
 预期，预料，预计
 

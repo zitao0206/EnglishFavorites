@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### explicit
 [ɪkˈsplɪsɪt]
 
-**Desp**
+**Description**
 adj. stated clearly and directly.
 adj. 明确的，清楚的；直白的
 

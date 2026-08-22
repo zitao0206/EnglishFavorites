@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### right as rain
 
-**Desp**
+**Description**
 phr. Perfectly healthy or fine.
 （身体）痊愈，恢复健康；完全正常
 

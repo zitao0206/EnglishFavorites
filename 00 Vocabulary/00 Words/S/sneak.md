@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### sneak
 [sniːk]
 
-**Desp**
+**Description**
 v. to go quietly and secretly; to take secretly.
 v. 偷偷地走，溜；偷偷拿
 

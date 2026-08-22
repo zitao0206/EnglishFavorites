@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### nocturnal
 [nɒkˈtɜːnl]
 
-**Desp**
+**Description**
 adj. active at night.
 夜间活动的
 

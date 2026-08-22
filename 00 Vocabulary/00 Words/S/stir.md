@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### stir
 [stɜː]
 
-**Desp**
+**Description**
 v/n. To mix by moving a spoon around; to move slightly.
 搅拌；搅动；激起
 

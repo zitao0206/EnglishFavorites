@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### bargain hunter
 
-**Desp**
+**Description**
 
 phr. People who look for goods at low prices; shoppers who seek out deals and discounts.
 淘便宜货的人，捡漏顾客，薅羊毛的消费者

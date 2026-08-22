@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### eliminate
 [ɪˈlɪmɪneɪt]
 
-**Desp**
+**Description**
 v. to completely remove or get rid of something.
 消除，排除；淘汰
 

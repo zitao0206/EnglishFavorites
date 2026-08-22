@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### suspend
 [səˈspend]
 
-**Desp**
+**Description**
 v. to hang something up; to stop temporarily; to bar someone from a job or school.
 v. 悬挂；暂停；停职，停学
 

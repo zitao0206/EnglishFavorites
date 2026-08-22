@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### harness
 [ˈhɑːrnɪs]
 
-**Desp**
+**Description**
 v. to control and make use of (a resource); n. straps and gear fitted on a horse or worn for safety.
 v. 利用，控制（自然力、资源）；n. 马具；（安全）背带
 

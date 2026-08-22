@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### oblige
 [əˈblaɪdʒ]
 
-**Desp**
+**Description**
 v. to force someone to do something; to do a favor.
 v. 迫使；（被动）不得不；帮忙
 

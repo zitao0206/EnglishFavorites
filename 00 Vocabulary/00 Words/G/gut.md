@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### gut
 [ɡʌt]
 
-**Desp**
+**Description**
 n. the stomach and intestines; courage or bravery; a strong instinctive feeling.
 勇气，胆量；直觉；内脏
 

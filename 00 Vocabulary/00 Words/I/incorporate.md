@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### incorporate
 [ɪnˈkɔːrpəreɪt]
 
-**Desp**
+**Description**
 v. to include something as part of a whole.
 v. 包含，吸收，把…并入
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### constitute
 [ˈkɑːnstɪtuːt]
 
-**Desp**
+**Description**
 v. to form or make up; to be considered as.
 v. 构成，组成；被视为
 

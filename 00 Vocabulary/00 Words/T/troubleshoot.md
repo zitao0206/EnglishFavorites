@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### troubleshoot
 
-**Desp**
+**Description**
 v. to find and fix problems, especially technical ones.
 故障排查
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### slack
 [slæk]
 
-**Desp**
+**Description**
 adj. not tight; not busy; lazy; n. loose part; v. to slacken.
 adj. 松弛的；萧条的；懈怠的 n. 松弛部分 v. 放松
 

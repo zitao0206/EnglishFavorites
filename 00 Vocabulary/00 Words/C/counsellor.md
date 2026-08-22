@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### counsellor
 [ˈkaʊnsələ(r)]
 
-**Desp**
+**Description**
 n. a person whose job is to give advice; an adviser.
 顾问，咨询师；辅导员
 

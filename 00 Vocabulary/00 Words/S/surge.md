@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### surge
 [sɜːrdʒ]
 
-**Desp**
+**Description**
 v/n. to rise quickly; a sudden large increase.
 v. 激增，涌动 n. 激增；浪涌
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### contemporary
 [kənˈtempəreri]
 
-**Desp**
+**Description**
 adj. Belonging to the present time; of the same time period.
 当代的；同时代的
 

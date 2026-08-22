@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### stimulate
 [ˈstɪmjuleɪt]
 
-**Desp**
+**Description**
 v. to encourage activity or growth; to make someone excited or interested.
 刺激，激励；促进；激发
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### nonsense
 [ˈnɒnsns]
 
-**Desp**
+**Description**
 n. words or ideas that are silly or have no meaning; foolish behavior.
 胡说，废话；愚蠢的行为
 

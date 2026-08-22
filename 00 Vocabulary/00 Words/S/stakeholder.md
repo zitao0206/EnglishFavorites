@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### stakeholder
 [ˈsteɪkhəʊldə(r)]
 
-**Desp**
+**Description**
 n. a person or group with an interest or concern in something.
 利益相关者
 

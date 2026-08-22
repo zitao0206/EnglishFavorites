@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### solemn
 [ˈsɑːləm]
 
-**Desp**
+**Description**
 adj. Formal and dignified; not cheerful or smiling; serious.
 庄严的，肃穆的；严肃的
 

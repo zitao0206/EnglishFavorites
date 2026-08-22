@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### marijuana
 [ˌmærəˈwɑːnə]
 
-**Desp**
+**Description**
 n. a drug made from the dried leaves of the hemp plant.
 大麻
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### transcend
 [trænˈsend]
 
-**Desp**
+**Description**
 v. to go beyond the limits of.
 v. 超越，超出（极限）
 

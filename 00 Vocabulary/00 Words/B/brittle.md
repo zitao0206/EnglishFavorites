@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### brittle
 [ˈbrɪtl]
 
-**Desp**
+**Description**
 adj. hard but easily broken; (of emotions) fragile.
 易碎的；脆弱的
 

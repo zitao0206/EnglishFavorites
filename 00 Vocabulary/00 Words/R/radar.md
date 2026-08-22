@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### radar
 [ˈreɪdɑː(r)]
 
-**Desp**
+**Description**
 n. a system using radio waves to detect objects; an intuitive ability to notice something.
 雷达；直觉感知能力
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### encounter
 [ɪnˈkaʊntər]
 
-**Desp**
+**Description**
 v. to meet or experience something unexpectedly; n. a meeting.
 v. 遭遇，偶然遇见 n. 相遇，遭遇
 

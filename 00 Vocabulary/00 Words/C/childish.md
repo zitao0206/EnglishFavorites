@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### childish
 [ˈtʃaɪldɪʃ]
 
-**Desp**
+**Description**
 adj. Behaving in a silly way typical of a young child (disapproving).
 幼稚的，孩子气的
 

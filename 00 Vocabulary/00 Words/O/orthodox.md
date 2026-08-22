@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### orthodox
 [ˈɔːrθədɑːks]
 
-**Desp**
+**Description**
 adj. following traditional beliefs; conventional.
 adj. 正统的，传统的；（东）正教的
 

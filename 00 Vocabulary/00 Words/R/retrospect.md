@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### retrospect
 [ˈretrəspekt]
 
-**Desp**
+**Description**
 n. thinking about something that happened in the past.
 回顾，回想（in retrospect 回想起来）
 

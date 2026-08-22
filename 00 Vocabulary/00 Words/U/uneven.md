@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### uneven
 [ʌnˈiːvn]
 
-**Desp**
+**Description**
 adj. not level, smooth or regular.
 不平坦的，不规则的
 

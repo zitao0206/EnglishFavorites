@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-16
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-16
 ### seal the deal
 
-**Desp**
+**Description**
 
 phr. to finalize an agreement; to make an arrangement certain.
 敲定交易，达成协议

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### ingrain
 [ɪnˈɡreɪn]
 
-**Desp**
+**Description**
 v. deeply root; firmly establish.
 使……根深蒂固；
 就……原料染色；生染

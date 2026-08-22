@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### crush
 [krʌʃ]
 
-**Desp**
+**Description**
 v. to press with force to break; to defeat completely; n. a crowd; an infatuation.
 v. 压碎，碾碎；彻底击败 n. 迷恋；果汁饮料
 

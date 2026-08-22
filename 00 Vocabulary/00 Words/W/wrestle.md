@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### wrestle
 [ˈresl]
 
-**Desp**
+**Description**
 v/n. to fight by holding and trying to throw someone; to struggle with a difficult problem or decision.
 摔跤，搏斗；努力解决，与……搏斗
 

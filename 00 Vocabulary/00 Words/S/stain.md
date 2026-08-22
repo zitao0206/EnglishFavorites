@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### stain
 [steɪn]
 
-**Desp**
+**Description**
 v/n. to mark something; a mark that is hard to remove.
 v. 沾染，染色 n. 污渍
 

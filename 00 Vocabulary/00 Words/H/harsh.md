@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### harsh
 [hɑːʃ]
 
-**Desp**
+**Description**
 adj. Unpleasantly rough, severe, or cruel; too strong or bright.
 严厉的；刺耳的；严酷的
 

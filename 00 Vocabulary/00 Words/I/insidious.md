@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### insidious
 [ɪnˈsɪdiəs]
 
-**Desp**
+**Description**
 adj. proceeding in a gradual, subtle way, but with harmful effects; treacherous.
 潜伏的，潜在的，外表无害实则有害的
 

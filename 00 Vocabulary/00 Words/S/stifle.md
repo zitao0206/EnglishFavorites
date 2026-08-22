@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### stifle
 [ˈstaɪfl]
 
-**Desp**
+**Description**
 v. to prevent something from happening or continuing; to make someone unable to breathe.
 扼杀，抑制；使窒息
 

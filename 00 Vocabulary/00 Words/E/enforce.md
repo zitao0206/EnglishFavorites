@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### enforce
 [ɪnˈfɔːrs]
 
-**Desp**
+**Description**
 v. to make people obey a law or rule.
 v. 执行，实施（法律）；强迫
 

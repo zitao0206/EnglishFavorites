@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### shrink
 [ʃrɪŋk]
 
-**Desp**
+**Description**
 v. To become or make smaller; to move back from fear.
 收缩，退缩，缩小
 

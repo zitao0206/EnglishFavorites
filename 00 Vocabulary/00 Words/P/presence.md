@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### presence
 [ˈprezns]
 
-**Desp**
+**Description**
 n. the fact of being present.
 出席，参加；存在
 

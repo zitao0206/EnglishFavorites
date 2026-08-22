@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### execution
 [ˌeksɪˈkjuːʃn]
 
-**Desp**
+**Description**
 n. the act of carrying out a plan.
 执行，落实，实施
 

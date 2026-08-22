@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### endorse
 [ɪnˈdɔːrs]
 
-**Desp**
+**Description**
 v. to publicly support or approve of something; to appear in an advertisement saying you like a product.
 支持，赞同；代言；背书
 

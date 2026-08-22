@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### contract
 [ˈkɑːntrækt] n. / [kənˈtrækt] v.
 
-**Desp**
+**Description**
 n. A legal agreement between two or more people or organizations; v. to make a formal agreement; to become smaller.
 合同，契约；签订合同；收缩
 

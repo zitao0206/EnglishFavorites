@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### endure
 [ɪnˈdʊr]
 
-**Desp**
+**Description**
 v. to suffer patiently; to last a long time.
 v. 忍受，忍耐；持续存在
 

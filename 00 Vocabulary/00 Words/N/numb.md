@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### numb
 [nʌm]
 
-**Desp**
+**Description**
 adj. deprived of the power of physical sensation; unable to feel. 
 v. to make numb.
 麻木的，失去知觉的；使麻木

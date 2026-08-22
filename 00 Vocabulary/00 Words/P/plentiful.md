@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### plentiful
 [ˈplentɪfl]
 
-**Desp**
+**Description**
 adj. existing in or yielding plenty; abundant.
 丰富的，大量的
 

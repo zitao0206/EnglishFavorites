@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### colonizer
 [ˈkɒlənaɪzə(r)]
 
-**Desp**
+**Description**
 n. a person or group that establishes a colony in a new area.
 殖民者，开拓者
 

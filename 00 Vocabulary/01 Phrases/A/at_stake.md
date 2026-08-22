@@ -1,11 +1,11 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### at stake
 
-**Desp**
+**Description**
 phr. at risk; in a situation where something may be lost or gained.
 濒临险境，处于成败关头，利害攸关
 

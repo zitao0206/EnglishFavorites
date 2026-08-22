@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### envelope
 [ˈenvələʊp]
 
-**Desp**
+**Description**
 n. a flat paper container used for sending letters or documents.
 信封；封套
 

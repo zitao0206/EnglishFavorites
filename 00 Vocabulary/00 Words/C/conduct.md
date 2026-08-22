@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### conduct
 [kənˈdʌkt / ˈkɑːndʌkt]
 
-**Desp**
+**Description**
 v. to carry out or lead; n. behavior.
 v. 实施，进行；指挥 n. 行为，举止
 

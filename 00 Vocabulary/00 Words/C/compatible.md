@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### compatible
 [kəmˈpætəbl]
 
-**Desp**
+**Description**
 adj. Able to exist or occur together without conflict; (of machines, software) able to be used together.
 兼容的，能共存的
 

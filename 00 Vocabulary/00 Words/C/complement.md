@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### complement
 [ˈkɑːmplɪment]
 
-**Desp**
+**Description**
 v. to combine well with; n. something that completes.
 v. 补充，与…相辅相成 n. 补充物
 

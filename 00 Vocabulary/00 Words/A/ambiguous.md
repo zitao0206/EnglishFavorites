@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### ambiguous
 [æmˈbɪɡjuəs]
 
-**Desp**
+**Description**
 adj. having more than one possible meaning; unclear.
 adj. 模棱两可的，有歧义的
 

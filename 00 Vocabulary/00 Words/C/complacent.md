@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### complacent
 [kəmˈpleɪsnt]
 
-**Desp**
+**Description**
 adj. too satisfied with yourself to see dangers or improve.
 adj. 自满的，自鸣得意的
 

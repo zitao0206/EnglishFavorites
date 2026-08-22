@@ -1,11 +1,11 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### as much as possible
 
-**Desp**
+**Description**
 phr. to the greatest extent or amount that can be achieved.
 尽可能多地，尽量
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### exacerbate
 [ɪɡˈzæsəbeɪt]
 
-**Desp**
+**Description**
 v. to make a problem or situation worse.
 使恶化，加剧
 

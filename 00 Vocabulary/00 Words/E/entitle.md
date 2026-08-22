@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### entitle
 [ɪnˈtaɪtl]
 
-**Desp**
+**Description**
 v. to give someone the right to have or do something; to give a title to a book, film, etc.
 使有权利，使有资格；给……命名
 

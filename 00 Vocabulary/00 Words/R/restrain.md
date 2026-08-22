@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### restrain
 [rɪˈstreɪn]
 
-**Desp**
+**Description**
 v. to hold back or control someone/something.
 v. 抑制，遏制，管束
 

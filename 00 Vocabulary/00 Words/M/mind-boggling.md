@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### mind-boggling
 [ˈmaɪnd bɒɡlɪŋ]
 
-**Desp**
+**Description**
 adj. so extreme or surprising that it is hard to imagine.
 令人难以置信的，惊人的
 

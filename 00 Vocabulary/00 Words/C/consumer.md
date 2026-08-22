@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### consumer
 [kənˈsjuːmə(r)]
 
-**Desp**
+**Description**
 n. A person who buys goods and services (= customer).
 消费者，顾客
 

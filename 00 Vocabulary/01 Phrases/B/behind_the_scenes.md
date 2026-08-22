@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-16
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-16
 ### behind the scenes
 [siːn]
 
-**Desp**
+**Description**
 
 phr. In or into the background; done secretly or out of public view.
 在幕后，在暗中

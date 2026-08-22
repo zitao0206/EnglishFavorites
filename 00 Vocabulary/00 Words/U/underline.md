@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### underline
 [ˌʌndərˈlaɪn]
 
-**Desp**
+**Description**
 v. to draw a line under; to emphasize.
 v. 在…下画线；强调，突显
 

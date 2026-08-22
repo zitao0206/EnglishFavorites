@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### analyst
 [ˈænəlɪst]
 
-**Desp**
+**Description**
 n. a person who studies and analyzes data, especially in finance or technology.
 分析师，分析员
 

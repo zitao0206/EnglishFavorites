@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### be subject to
 
-**Desp**
+**Description**
 
 phr. to suffer or experience something; to be controlled or affected by something; to depend on a condition.
 遭受，经受；受…约束；以…为条件

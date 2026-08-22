@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### estate
 [ɪˈsteɪt]
 
-**Desp**
+**Description**
 n. a large area of land with a big house; all of the money and property that someone owns.
 房地产，财产；庄园
 

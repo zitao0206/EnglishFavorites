@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### bargain
 
 
-**Desp**
+**Description**
 v. To negotiate the price of something;
 n. something bought at a good price.
 v. 讨价还价；n. 便宜货

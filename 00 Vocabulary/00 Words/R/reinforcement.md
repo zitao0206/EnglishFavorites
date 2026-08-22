@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### reinforcement
 [ˌriːɪnˈfɔːrsmənt]
 
-**Desp**
+**Description**
 n. the act of strengthening or supporting; extra people or material sent to help.
 增强，强化，加固；增援部队（或物资）
 

@@ -1,11 +1,11 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 ### boarding school
 
-**Desp**
+**Description**
 
 phr&n. a school where students live and study during the term.
 寄宿学校

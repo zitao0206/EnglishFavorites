@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### entertain
 [ˌentərˈteɪn]
 
-**Desp**
+**Description**
 v. to amuse someone; to host guests.
 v. 使娱乐，逗乐；招待，款待
 

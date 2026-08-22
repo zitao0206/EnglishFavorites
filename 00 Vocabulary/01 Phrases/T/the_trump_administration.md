@@ -1,11 +1,11 @@
-📅 Created: 2026‑08‑16    
+📅 Created: 2026‑08‑16
+🕒 Updated: 2026‑08‑16
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026‑08‑16
 ### the Trump administration
 
-**Desp**
+**Description**
 
 phr. the US government under President Trump.
 特朗普政府，特朗普当局

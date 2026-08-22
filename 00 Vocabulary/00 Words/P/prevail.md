@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### prevail
 [prɪˈveɪl]
 
-**Desp**
+**Description**
 v. to win or gain control; to be common or widespread.
 获胜，占上风；盛行，流行
 

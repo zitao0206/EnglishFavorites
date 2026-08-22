@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### befall
 
-**Desp**
+**Description**
 v. to happen to someone, especially something bad.
 降临，发生于…身上（多指灾难厄运）
 

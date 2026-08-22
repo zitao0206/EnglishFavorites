@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### issue
 [ˈɪʃuː]
 
-**Desp**
+**Description**
 n. an important topic or problem; v. to publish or give out.
 n. 问题，议题；发行；（期刊）期号 v. 发布，发行
 

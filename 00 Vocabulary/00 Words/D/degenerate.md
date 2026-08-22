@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### degenerate
 [dɪˈdʒenəreɪt]
 
-**Desp**
+**Description**
 v. to become worse in quality; adj. morally corrupt.
 v. 恶化，退化，蜕变 adj. 堕落的
 

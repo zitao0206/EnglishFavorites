@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### increment
 [ˈɪŋkrəmənt]
 
-**Desp**
+**Description**
 n. an increase in amount or value; a regular increase in salary. adj. (incremental) 渐进的.
 增长，增加额；增量
 

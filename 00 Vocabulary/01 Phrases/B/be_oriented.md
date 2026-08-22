@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### be oriented
 [bi ˈɔːrientɪd]
 
-**Desp**
+**Description**
 
 phr. 以……为导向；面向……；侧重于。
 （商务、政策、新闻高频表达）

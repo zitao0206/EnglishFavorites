@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### foster
 [ˈfɔːstər / ˈfɑːstər]
 
-**Desp**
+**Description**
 v. to encourage development; to care for a child not one's own.
 v. 培养，促进；寄养，抚育
 

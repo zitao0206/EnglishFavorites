@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### tropical
 [ˈtrɑːpɪkl]
 
-**Desp**
+**Description**
 adj. relating to the tropics; hot and humid.
 adj. 热带的；湿热的
 

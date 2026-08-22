@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### spark
 [spɑːrk]
 
-**Desp**
+**Description**
 n. a small flash of light; an initial stimulus that ignites something. v. To trigger or set in motion.
 火花；触发，引发
 

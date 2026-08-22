@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### all-time
 [ˈɔːl taɪm]
 
-**Desp**
+**Description**
 adj. the best, worst, highest or lowest that has ever been; of all time.
 空前的，有史以来的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### superior
 [suːˈpɪəriə(r)]
 
-**Desp**
+**Description**
 adj./n. Better in quality or ability than others; thinking you are better than others; a person of higher rank.
 出众的，优秀的，优越的；上级的；高傲的；（n.）上级
 

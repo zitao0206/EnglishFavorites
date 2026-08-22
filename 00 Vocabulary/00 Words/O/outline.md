@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P3
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### outline
 [ˈaʊtlaɪn]
 
-**Desp**
+**Description**
 n/v. A general description or plan of something without details; to describe the main points.
 提纲，概要；轮廓；（v.）概述
 

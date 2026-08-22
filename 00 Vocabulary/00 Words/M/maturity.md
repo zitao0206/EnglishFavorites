@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### maturity
 [məˈtjʊərəti]
 
-**Desp**
+**Description**
 n. the state of being fully developed physically or mentally; the quality of behaving like an adult.
 成熟
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### be equivalent to
 [ɪˈkwɪvələnt]
 
-**Desp**
+**Description**
 phr. to be equal to something in value, amount or meaning.
 等同于，相当于
 

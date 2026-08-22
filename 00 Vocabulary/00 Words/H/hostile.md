@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### hostile
 [ˈhɑːstl]
 
-**Desp**
+**Description**
 adj. unfriendly and aggressive; opposing something.
 adj. 怀有敌意的，不友好的；强烈反对的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### fatigue
 [fəˈtiːɡ]
 
-**Desp**
+**Description**
 n. extreme tiredness; v. to make someone very tired.
 疲劳，疲乏；使疲劳
 

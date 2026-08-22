@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### gamble
 [ˈɡæmbl]
 
-**Desp**
+**Description**
 v/n. To risk money on a game or an uncertain result; a risky action taken in the hope of a good outcome.
 赌博；冒险；n. 赌博，冒险
 

@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### historically
 
-**Desp**
+**Description**
 adv. throughout history; from a historical point of view.
 在历史上，从历史角度
 

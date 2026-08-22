@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### trigger
 [ˈtrɪɡər]
 
-**Desp**
+**Description**
 v. to cause something to start; n. a device that fires a gun; a cause.
 v. 引发，触发 n. 扳机；诱因
 

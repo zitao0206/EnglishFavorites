@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### pedestrian
 [pəˈdestriən]
 
-**Desp**
+**Description**
 n. a person walking on the road; adj. of or for walkers.
 行人；adj. 行人的，步行的
 

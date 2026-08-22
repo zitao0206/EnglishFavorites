@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### be down in the dumps
 
-**Desp**
+**Description**
 phr. To feel sad or depressed.
 闷闷不乐，情绪低落
 

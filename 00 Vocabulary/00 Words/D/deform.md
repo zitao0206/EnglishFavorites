@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### deform
 [dɪˈfɔːrm]
 
-**Desp**
+**Description**
 v. to spoil the shape or appearance of something; to become distorted.
 使变形，使成畸形
 

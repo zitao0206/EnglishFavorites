@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### cabin
 [ˈkæbɪn]
 
-**Desp**
+**Description**
 n. A small wooden house; a room on a ship or plane.
 小木屋；船舱，机舱
 

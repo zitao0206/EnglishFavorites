@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### country
 
 
-**Desp**
+**Description**
 n. the countryside (as opposed to the city); adj. rural.
 n. 乡村，乡下；adj. 乡下的，农村的
 

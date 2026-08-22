@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### mastermind
 [ˈmɑːstəmaɪnd]
 
-**Desp**
+**Description**
 n. a person who plans and organizes a complex scheme, especially a criminal one.
 策划者，主谋，智囊
 

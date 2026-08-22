@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### allocate
 [ˈæləkeɪt]
 
-**Desp**
+**Description**
 v. to distribute resources for a purpose.
 v. 分配，拨给
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### role-play
 
 
-**Desp**
+**Description**
 vt/n. to act out a particular role in a simulated situation.
 角色扮演
 

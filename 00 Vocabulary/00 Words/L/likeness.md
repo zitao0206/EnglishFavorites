@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### likeness
 [ˈlaɪknəs]
 
-**Desp**
+**Description**
 n. The quality of being similar in appearance or character.
 相似，相像；肖像
 

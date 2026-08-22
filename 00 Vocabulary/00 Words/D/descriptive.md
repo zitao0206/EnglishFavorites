@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### descriptive
 [dɪˈskrɪptɪv]
 
-**Desp**
+**Description**
 adj. Giving a description; describing something.
 描述性的，说明性的
 

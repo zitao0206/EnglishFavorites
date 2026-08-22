@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### cue
 [kjuː]
 
-**Desp**
+**Description**
 n. a signal or hint that tells someone to do something.
 暗示，提示，信号
 

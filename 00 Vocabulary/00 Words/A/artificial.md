@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### artificial
 [ˌɑːrtɪˈfɪʃl]
 
-**Desp**
+**Description**
 adj. made by humans, not natural; not sincere.
 adj. 人造的，人工的；虚假的
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### frustrate
 [ˈfrʌstreɪt]
 
-**Desp**
+**Description**
 v. to prevent someone's plans; to make someone annoyed.
 v. 挫败；使沮丧，使恼火
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### essentially
 [ɪˈsenʃəli]
 
-**Desp**
+**Description**
 adv. used to say what the most important aspect of something is; basically.
 本质上，根本上；基本上
 

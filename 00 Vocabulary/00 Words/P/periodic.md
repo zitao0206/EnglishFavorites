@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### periodic
 [ˌpɪriˈɑːdɪk]
 
-**Desp**
+**Description**
 adj. happening at regular intervals.
 adj. 周期性的，定期的
 

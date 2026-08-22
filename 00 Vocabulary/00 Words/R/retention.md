@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### retention
 [rɪˈtenʃn]
 
-**Desp**
+**Description**
 n. the continued possession, use, or control of something; the ability to keep or remember.
 保留，保持；留存率
 

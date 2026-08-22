@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### manifesto
 [ˌmænɪˈfestəʊ]
 
-**Desp**
+**Description**
 n. a public statement explaining the aims, beliefs, or plans of a person or group.
 宣言，声明
 

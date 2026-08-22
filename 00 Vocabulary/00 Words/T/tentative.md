@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### tentative
 [ˈtentətɪv]
 
-**Desp**
+**Description**
 adj. not certain or fixed; hesitant.
 试探性的，不确定的，暂定的，初步的
 

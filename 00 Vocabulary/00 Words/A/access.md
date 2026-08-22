@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### access
 [ˈækses]
 
-**Desp**
+**Description**
 n. the right or ability to enter or use something; an entrance. v. to enter or reach.
 n. 入口；通道；使用权；v. 接入，访问
 

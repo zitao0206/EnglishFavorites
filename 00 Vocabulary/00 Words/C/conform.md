@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### conform
 [kənˈfɔːrm]
 
-**Desp**
+**Description**
 v. to behave according to rules or standards.
 v. 遵守，符合，顺应
 

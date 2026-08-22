@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### multiple
 [ˈmʌltɪpl]
 
-**Desp**
+**Description**
 adj. Involving many things, people, events, etc.; several.
 多个的，多样的
 

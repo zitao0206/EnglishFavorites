@@ -1,11 +1,11 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### get a grasp of
 
-**Desp**
+**Description**
 phr&v. to come to understand something fully; to master.
 掌握，领会，理解
 

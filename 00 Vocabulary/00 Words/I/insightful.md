@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### insightful
 [ˈɪnsaɪtfəl]
 
-**Desp**
+**Description**
 adj. Showing a deep understanding of something.
 富有洞察力的，见解深刻的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### burnout
 [ˈbɜːrnaʊt]
 
-**Desp**
+**Description**
 n. The state of being extremely tired or ill because of overwork; the point at which something stops working.
 精疲力竭；职业倦怠；烧毁
 

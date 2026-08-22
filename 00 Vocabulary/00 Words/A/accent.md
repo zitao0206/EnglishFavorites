@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L4
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### accent
 [ˈæksent]
 
-**Desp**
+**Description**
 n/v. the way a person pronounces words, showing where they are from; extra force given to a syllable.
 口音，腔调；重音；强调
 

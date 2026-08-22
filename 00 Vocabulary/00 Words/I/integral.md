@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### integral
 [ˈɪntɪɡrəl]
 
-**Desp**
+**Description**
 adj. necessary to make a whole complete; essential or fundamental.
 不可或缺的，完整的，基本的
 

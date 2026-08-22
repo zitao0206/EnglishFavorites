@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### curry
 [ˈkɜːri]
 
-**Desp**
+**Description**
 n. a spicy dish of vegetables or meat served with sauce.
 咖喱饭菜
 

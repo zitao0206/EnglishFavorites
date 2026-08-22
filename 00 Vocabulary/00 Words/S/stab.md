@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### stab
 [stæb]
 
-**Desp**
+**Description**
 v. to thrust a knife or other pointed weapon into someone/something.
 刺，戳，捅，扎
 n. A thrust with a pointed weapon; an attempt.

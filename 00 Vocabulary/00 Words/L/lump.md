@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### lump
 [lʌmp]
 
-**Desp**
+**Description**
 v. to put things together into one group; to deal with together. n. a piece of something solid.
 把…归并；肿块；一块
 

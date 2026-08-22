@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### gross
 [ɡrəʊs]
 
-**Desp**
+**Description**
 adj. very unpleasant; total, before deductions.
 恶劣的，反胃的，令人不适的；总的
 

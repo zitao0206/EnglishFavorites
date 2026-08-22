@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### confront
 [kənˈfrʌnt]
 
-**Desp**
+**Description**
 v. to face a problem or danger directly; to challenge or question someone.
 面对，正视；对抗；质问
 

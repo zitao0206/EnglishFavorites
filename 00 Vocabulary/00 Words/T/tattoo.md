@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### tattoo
 [tæˈtuː]
 
-**Desp**
+**Description**
 n. a picture or pattern drawn on skin with needles and ink. v. to mark skin in this way.
 n. 纹身；v. 纹身，给…刺花纹
 

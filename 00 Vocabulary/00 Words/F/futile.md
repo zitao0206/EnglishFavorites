@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### futile
 [ˈfjuːtl]
 
-**Desp**
+**Description**
 adj. producing no useful result; pointless.
 adj. 徒劳的，无益的
 

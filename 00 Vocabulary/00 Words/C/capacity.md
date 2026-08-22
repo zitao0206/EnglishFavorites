@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### capacity
 [kəˈpæsəti]
 
-**Desp**
+**Description**
 n. The ability to do something; the amount that something can hold or produce.
 能力；容量，容积；职位
 

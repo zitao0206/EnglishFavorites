@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### raw
 [rɔː]
 
-**Desp**
+**Description**
 adj. Not cooked; in a natural, unprocessed state.
 生的，未加工的；原始的
 

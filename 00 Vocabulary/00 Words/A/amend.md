@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### amend
 [əˈmend]
 
-**Desp**
+**Description**
 v. to change a law or document to improve it.
 v. 修改，修订（法律、文件）
 

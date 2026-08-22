@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### involution
 [ˌɪnvəˈluːʃn]
 
-**Desp**
+**Description**
 n. The process of being rolled inward; in Chinese internet culture, excessive competition leading to diminishing returns.
 内卷；内旋（数学/生物术语）
 

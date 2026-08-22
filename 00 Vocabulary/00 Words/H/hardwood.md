@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### hardwood
 [ˈhɑːdwʊd]
 
-**Desp**
+**Description**
 n. the wood from broad-leaved trees, typically hard and dense.
 硬木
 

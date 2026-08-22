@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-18
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-18
 ### vegetarian
 [ˌvedʒəˈteəriən]
 
-**Desp**
+**Description**
 adj. eating only plants; n. a person who does not eat meat.
 素食的；n. 素食者
 

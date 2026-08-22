@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### mug
 [mʌɡ]
 
-**Desp**
+**Description**
 v. To attack and rob someone in a public place.
 行凶抢劫
 

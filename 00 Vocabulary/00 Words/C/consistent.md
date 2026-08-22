@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### consistent
 [kənˈsɪstənt]
 
-**Desp**
+**Description**
 adj. always behaving or happening in the same way; in agreement.
 一贯的，始终如一的
 

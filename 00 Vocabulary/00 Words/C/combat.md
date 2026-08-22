@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### combat
 [ˈkɑːmbæt / kəmˈbæt]
 
-**Desp**
+**Description**
 n. fighting; v. to fight against something harmful.
 n. 战斗，格斗 v. 打击，与…作斗争
 

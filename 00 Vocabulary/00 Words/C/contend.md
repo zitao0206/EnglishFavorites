@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### contend
 
 
-**Desp**
+**Description**
 v. To claim or argue; to deal with a difficult situation (contend with).
 声称，主张；不得不应对、处理
 

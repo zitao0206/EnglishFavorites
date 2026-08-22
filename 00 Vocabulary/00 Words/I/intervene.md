@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### intervene
 [ˌɪntərˈviːn]
 
-**Desp**
+**Description**
 v. to become involved in a situation to change it.
 v. 干预，介入；调停
 

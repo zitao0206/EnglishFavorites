@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### counsel
 [ˈkaʊnsl]
 
-**Desp**
+**Description**
 n. advice; a lawyer. v. to advise.
 n. 忠告，建议；律师；v. 商议，劝告
 

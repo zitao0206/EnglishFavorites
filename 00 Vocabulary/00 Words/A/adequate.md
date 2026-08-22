@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### adequate
 [ˈædɪkwət]
 
-**Desp**
+**Description**
 adj. enough for a purpose; satisfactory but not great.
 adj. 足够的，充分的；尚可的
 

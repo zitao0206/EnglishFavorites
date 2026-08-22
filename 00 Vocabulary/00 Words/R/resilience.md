@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### resilience
 [rɪˈzɪliəns]
 
-**Desp**
+**Description**
 n. The ability to recover quickly from difficulties or changes.
 韧性，恢复力；适应力
 

@@ -1,11 +1,11 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### aftermath
 
-**Desp**
+**Description**
 n. （战争、风暴、事故的）后果，余波；
 
 

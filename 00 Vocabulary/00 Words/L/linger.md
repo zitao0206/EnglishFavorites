@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### linger
 [ˈlɪŋɡər]
 
-**Desp**
+**Description**
 v. to stay in a place longer than necessary; to remain or persist.
 逗留，徘徊；（感觉、印象等）萦绕，挥之不去
 

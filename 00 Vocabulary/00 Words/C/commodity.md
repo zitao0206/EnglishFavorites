@@ -1,12 +1,12 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 ### commodity
 [kəˈmɑːdəti]
 
-**Desp**
+**Description**
 n. a raw material or primary product that can be bought and sold; a useful or valuable thing.
 n. 商品，日用品；大宗商品，农产品
 

@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### be preoccupied with
 
-**Desp**
+**Description**
 
 phr. to be completely absorbed in one's thoughts about something.
 全神贯注于…，一心想着…

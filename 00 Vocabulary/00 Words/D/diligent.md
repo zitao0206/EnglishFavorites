@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### diligent
 [ˈdɪlɪdʒənt]
 
-**Desp**
+**Description**
 adj. working carefully and with great effort.
 adj. 勤奋的，勤勉的
 

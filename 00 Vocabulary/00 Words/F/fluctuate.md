@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### fluctuate
 [ˈflʌktʃueɪt]
 
-**Desp**
+**Description**
 v. to change frequently up and down.
 v. 波动，起伏
 

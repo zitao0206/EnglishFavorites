@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### contaminate
 [kənˈtæmɪneɪt]
 
-**Desp**
+**Description**
 v. to make something dirty or polluted.
 v. 污染，弄脏，玷污
 

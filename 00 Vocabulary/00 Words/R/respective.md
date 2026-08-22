@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### respective
 [rɪˈspektɪv]
 
-**Desp**
+**Description**
 adj. belonging to each individually; particular and separate.
 各自的，分别的
 

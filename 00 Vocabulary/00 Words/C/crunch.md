@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### crunch
 [krʌntʃ]
 
-**Desp**
+**Description**
 v. to make a loud crushing sound when chewing or stepping; n. the sound.
 嘎吱作响；嚼碎；（n.）关键时期
 

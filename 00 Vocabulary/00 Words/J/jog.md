@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### jog
 [dʒɒɡ]
 
-**Desp**
+**Description**
 n/v. to run slowly and steadily for exercise.
 慢跑
 - jogging n. 慢跑锻炼

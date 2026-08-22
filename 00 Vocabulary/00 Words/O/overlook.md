@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### overlook
 [ˌəʊvəˈlʊk]
 
-**Desp**
+**Description**
 v. To fail to notice or consider something; to ignore a mistake or fault.
 忽视，忽略；俯瞰；宽恕
 

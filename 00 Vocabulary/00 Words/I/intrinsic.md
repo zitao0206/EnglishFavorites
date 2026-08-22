@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### intrinsic
 [ɪnˈtrɪnzɪk]
 
-**Desp**
+**Description**
 adj. belonging naturally; essential.
 adj. 固有的，内在的，本质的
 

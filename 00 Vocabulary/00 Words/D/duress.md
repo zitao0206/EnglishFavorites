@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### duress
 [dʊˈres]
 
-**Desp**
+**Description**
 n. threats or coercion used to force someone to do something.
 胁迫，强迫（法律术语）
 

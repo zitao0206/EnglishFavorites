@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### displace
 [dɪsˈpleɪs]
 
-**Desp**
+**Description**
 v. to force out of place; to take the place of.
 v. 使离开原位；取代；迫使（人们）背井离乡
 

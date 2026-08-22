@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### terrify
 [ˈterɪfaɪ]
 
-**Desp**
+**Description**
 v. to make someone feel extremely frightened.
 使恐惧，使惊吓
 

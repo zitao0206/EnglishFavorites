@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### seaside
 [ˈsiːsaɪd]
 
-**Desp**
+**Description**
 n/adj. The area by the sea; of or near the sea.
 海边；海滨的
 

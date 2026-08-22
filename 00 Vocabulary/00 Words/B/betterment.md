@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### betterment
 [ˈbetəmənt]
 
-**Desp**
+**Description**
 n. The act of making something better or the state of becoming better.
 改善，改进；进步
 

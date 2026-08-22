@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### overhype
 [ˌəʊvəˈhaɪp]
 
-**Desp**
+**Description**
 v. to promote or praise something excessively.
 过度炒作，大肆吹捧
 

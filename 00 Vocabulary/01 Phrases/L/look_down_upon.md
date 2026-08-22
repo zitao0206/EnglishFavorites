@@ -1,10 +1,10 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-16
 ⭐ Priority: P2
 💾 Mastery: L4
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-16
 ### look down upon
-**Desp**
+**Description**
 phr&v. To think someone or something is inferior or not important.
 看不起，轻视（核心：因偏见或优越感而贬低他人）
 

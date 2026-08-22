@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### subsequent
 [ˈsʌbsɪkwənt]
 
-**Desp**
+**Description**
 adj. coming after something in time.
 adj. 随后的，后来的
 

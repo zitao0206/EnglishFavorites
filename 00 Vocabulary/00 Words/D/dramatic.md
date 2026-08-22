@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### dramatic
 [drəˈmætɪk]
 
-**Desp**
+**Description**
 adj. very sudden, noticeable, or exciting; related to drama.
 adj. 戏剧性的，引人注目的；巨大的
 

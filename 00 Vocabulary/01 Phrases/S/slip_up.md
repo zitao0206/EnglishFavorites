@@ -1,11 +1,11 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### slip up
 
-**Desp**
+**Description**
 phr&v. to make a careless mistake; to err.
 犯错，失误，出岔子
 

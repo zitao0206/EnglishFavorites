@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### modest
 [ˈmɒdɪst]
 
-**Desp**
+**Description**
 adj. Not proud or boastful about your abilities; moderate in size or amount.
 谦虚的，谦逊的；适度的，不太大的
 

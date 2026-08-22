@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### extraordinary
 [ɪkˈstrɔːdnri]
 
-**Desp**
+**Description**
 adj. very unusual or remarkable.
 极好的，杰出的，异常的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### condemn
 [kənˈdem]
 
-**Desp**
+**Description**
 v. To express strong disapproval of something; to sentence someone to a punishment.
 谴责；判刑
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### cunning
 [ˈkʌnɪŋ]
 
-**Desp**
+**Description**
 adj. Clever at planning something, especially in a dishonest way; crafty.
 狡猾的；工于心计的（侧重智力、谋划层面的狡诈；sly 侧重行为狡猾）
 

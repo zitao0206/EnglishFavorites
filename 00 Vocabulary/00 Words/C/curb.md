@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### curb
 [kɜːrb]
 
-**Desp**
+**Description**
 v. to control or limit something; n. a control; the edge of a sidewalk.
 v. 控制，抑制 n. 抑制；路缘
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### plot
 [plɒt]
 
-**Desp**
+**Description**
 n. the events of a story; v. to draw a graph or map.
 n. 剧情；v. 绘制
 

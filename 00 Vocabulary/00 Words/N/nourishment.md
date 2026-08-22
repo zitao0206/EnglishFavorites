@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### nourishment
 [ˈnɜːrɪʃmənt]
 
-**Desp**
+**Description**
 n. food or substances that help people or animals grow and stay healthy.
 滋养品，营养（→ nutrition [nuˈtrɪʃ(ə)n] n. 营养）
 

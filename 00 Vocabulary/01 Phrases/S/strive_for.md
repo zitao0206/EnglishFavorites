@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### strive for
 
-**Desp**
+**Description**
 phr&v. to try very hard to achieve something.
 努力争取，为……而奋斗
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### ingredient
 [ɪnˈɡriːdiənt]
 
-**Desp**
+**Description**
 n. one of the foods used in a recipe; a factor in a result.
 n. （烹饪）原料，配料；要素，因素
 

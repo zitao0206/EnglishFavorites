@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### decisive
 [dɪˈsaɪsɪv]
 
-**Desp**
+**Description**
 adj. able to make decisions quickly and firmly; determining a result.
 果断的，决断的，决定性的
 

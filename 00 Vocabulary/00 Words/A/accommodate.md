@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### accommodate
 [əˈkɑːmədeɪt]
 
-**Desp**
+**Description**
 v. to provide room for; to adapt to; to do a favor.
 v. 容纳；使适应；为…提供方便
 

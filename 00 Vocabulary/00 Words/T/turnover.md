@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### turnover
 [ˈtɜːrnoʊvər]
 
-**Desp**
+**Description**
 n. the rate at which employees leave a company; the total amount of business done in a period.
 人员流失率，人员更替率；营业额，（货物）周转率
 

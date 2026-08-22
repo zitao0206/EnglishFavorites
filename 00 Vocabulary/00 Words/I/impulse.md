@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### impulse
 [ˈɪmpʌls]
 
-**Desp**
+**Description**
 n. a sudden strong desire to do something.
 n. 冲动，突如其来的念头；脉冲
 

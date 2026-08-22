@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### pardon
 [ˈpɑːdn]
 
-**Desp**
+**Description**
 v/n. to forgive someone for a fault or offense; an act of forgiving.
 原谅，宽恕；赦免
 

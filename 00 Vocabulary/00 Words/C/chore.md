@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### chore
 [tʃɔː(r)]
 
-**Desp**
+**Description**
 n. a boring or unpleasant task, especially housework.
 家务活，杂事，差事
 

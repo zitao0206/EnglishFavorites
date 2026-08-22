@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### dispute
 [dɪˈspjuːt]
 
-**Desp**
+**Description**
 n. an argument or disagreement. v. to argue about or question something.
 n. 争论，争端；v. 争论，对…提出质疑
 

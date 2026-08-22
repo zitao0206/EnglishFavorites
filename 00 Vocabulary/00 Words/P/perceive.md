@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### perceive
 [pərˈsiːv]
 
-**Desp**
+**Description**
 v. to notice something that is not easy to notice; to understand or view something in a particular way. 察觉，感知；认为，理解
 
 **Usages**

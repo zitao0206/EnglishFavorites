@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### antagonistic
 [ænˌtæɡəˈnɪstɪk]
 
-**Desp**
+**Description**
 adj. showing opposition or hostility toward someone or something.
 敌对的，对立的，怀有敌意的
 

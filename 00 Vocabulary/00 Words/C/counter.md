@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### counter
 [ˈkaʊntə(r)]
 
-**Desp**
+**Description**
 n. a long flat surface in a shop; a person or thing that opposes. v. to oppose or reply to something.
 n. 柜台；对手；v. 反驳，反击，抵制
 

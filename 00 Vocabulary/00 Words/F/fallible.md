@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### fallible
 [ˈfæləbl]
 
-**Desp**
+**Description**
 adj. able to make mistakes or be wrong.
 会犯错误的；难免出错的
 

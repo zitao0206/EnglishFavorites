@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### propose
 [prəˈpəʊz]
 
-**Desp**
+**Description**
 v. to suggest a plan or idea for people to consider; to ask someone to marry you.
 提议，建议；求婚
 

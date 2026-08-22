@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### identical
 [aɪˈdentɪkl]
 
-**Desp**
+**Description**
 adj. exactly the same.
 adj. 完全相同的，一模一样的
 

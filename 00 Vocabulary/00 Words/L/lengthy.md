@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### lengthy
 [ˈleŋθi]
 
-**Desp**
+**Description**
 adj. very long, especially in time.
 adj. 漫长的，冗长的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### utilize
 [ˈjuːtəlaɪz]
 
-**Desp**
+**Description**
 v. to use something in an effective way.
 利用，使用
 

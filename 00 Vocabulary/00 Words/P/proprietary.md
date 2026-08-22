@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### proprietary
 [prəˈpraɪətri]
 
-**Desp**
+**Description**
 adj. owned by a particular company; protected by patent or copyright.
 专有的，独家的，专利的
 

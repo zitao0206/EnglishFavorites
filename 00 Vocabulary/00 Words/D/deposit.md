@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### deposit
 [dɪˈpɑːzɪt]
 
-**Desp**
+**Description**
 n. a sum paid into an account or as security; a layer of material; v. to put down or pay in.
 n. 存款；押金；沉积物 v. 存放，沉积
 

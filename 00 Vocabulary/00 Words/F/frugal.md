@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### frugal
 [ˈfruːɡl]
 
-**Desp**
+**Description**
 adj. careful about spending money or using resources; economical.
 节俭的，节约的，省钱的
 

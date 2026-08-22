@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### consensus
 [kənˈsensəs]
 
-**Desp**
+**Description**
 n. An opinion that all members of a group agree with.
 共识，一致意见
 

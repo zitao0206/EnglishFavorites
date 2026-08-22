@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### pattern
 [ˈpætn]
 
-**Desp**
+**Description**
 n. a regular way something happens; a design or shape. v. to decorate with a pattern; to imitate.
 n. 图案，花样；模式，规律，方式；v. 用图案装饰；仿效
 

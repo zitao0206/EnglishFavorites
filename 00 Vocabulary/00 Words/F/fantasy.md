@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### fantasy
 [ˈfæntəsi]
 
-**Desp**
+**Description**
 n. an imagined situation; a type of story with magic or imaginary worlds.
 幻想，空想，奇幻
 

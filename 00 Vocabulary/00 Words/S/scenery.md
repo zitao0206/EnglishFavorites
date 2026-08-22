@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### scenery
 [ˈsiːnəri]
 
-**Desp**
+**Description**
 n. the natural features of an area considered as a whole; (uncountable) landscape.
 自然风光，风景（整体景色，不可数）
 

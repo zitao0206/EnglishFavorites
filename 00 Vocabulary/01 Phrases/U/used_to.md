@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L4
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### used to
 
-**Desp**
+**Description**
 phr&v. used to describe a past habit or state that no longer exists.
 过去常常做…（现在不再做）
 

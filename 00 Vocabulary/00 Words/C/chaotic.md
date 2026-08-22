@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### chaotic
 [keɪˈɒtɪk]
 
-**Desp**
+**Description**
 adj. In a state of complete confusion and disorder.
 混乱的，无序的（→ chaos n. 混乱）
 

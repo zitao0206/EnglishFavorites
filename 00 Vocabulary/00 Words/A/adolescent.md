@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### adolescent
 [ˌædəˈlesnt]
 
-**Desp**
+**Description**
 n. a young person developing into an adult; adj. relating to teenagers.
 n. 青少年；adj. 青春期的
 

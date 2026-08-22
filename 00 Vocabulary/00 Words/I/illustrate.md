@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### illustrate
 [ˈɪləstreɪt]
 
-**Desp**
+**Description**
 v. to explain with pictures or examples.
 v. 说明，阐明；给…配插图
 

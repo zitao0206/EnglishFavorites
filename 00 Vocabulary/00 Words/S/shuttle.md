@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### shuttle
 [ˈʃʌtl]
 
-**Desp**
+**Description**
 n/v. A vehicle that travels regularly between two places; to travel back and forth.
 航天飞机；班车；往返运送
 

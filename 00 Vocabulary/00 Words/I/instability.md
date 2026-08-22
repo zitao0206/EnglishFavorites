@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### instability
 [ˌɪnstəˈbɪləti]
 
-**Desp**
+**Description**
 n. the state of being unstable.
 不稳定，动荡，不稳固
 

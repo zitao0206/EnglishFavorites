@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### unwholesome
 [ʌnˈhəʊlsəm]
 
-**Desp**
+**Description**
 adj. not healthy or morally good; harmful to health or character.
 不卫生的；有害健康的；不良的，堕落的
 

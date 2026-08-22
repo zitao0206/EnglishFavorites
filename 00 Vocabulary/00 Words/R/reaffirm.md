@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### reaffirm
 [ˌriːəˈfɜːm]
 
-**Desp**
+**Description**
 vt. to state something again strongly; to confirm again.
 再确定，重申
 

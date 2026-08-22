@@ -1,12 +1,12 @@
 📅 Created: 2026‑08‑18
+🕒 Updated: 2026‑08‑18
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026‑08‑18
 ### point
 [pɔɪnt]
 
-**Desp**
+**Description**
 n. a particular detail, idea, purpose or spot; the sharp end of something
 v. to direct your finger toward something; to indicate or suggest something
 n. 观点；要点；意义；地点；尖端

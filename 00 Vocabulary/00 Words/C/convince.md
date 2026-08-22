@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### convince
 [kənˈvɪns]
 
-**Desp**
+**Description**
 v. to make someone believe something.
 v. 使确信，说服
 

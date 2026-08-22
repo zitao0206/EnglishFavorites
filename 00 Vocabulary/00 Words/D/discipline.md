@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### discipline
 [ˈdɪsəplɪn]
 
-**Desp**
+**Description**
 n. training to obey rules; controlled behavior; a subject; v. to punish.
 n. 纪律；自律；学科 v. 惩戒，训练
 

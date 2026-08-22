@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### benign
 [bɪˈnaɪn]
 
-**Desp**
+**Description**
 adj. Harmless and not dangerous (especially of a growth); kind and gentle.
 良性的，无害的；和善的(很少直接形容人)
 

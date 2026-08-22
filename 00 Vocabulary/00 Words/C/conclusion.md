@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### conclusion
 [kənˈkluːʒn]
 
-**Desp**
+**Description**
 n. The final opinion or decision reached after thinking; the end of something.
 结论；结束，结尾
 

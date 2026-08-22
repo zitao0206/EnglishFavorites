@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### prompt
 [prɑːmpt]
 
-**Desp**
+**Description**
 adj. Done quickly and without delay; v. to cause someone to do something; n. a message that tells you what to do.
 迅速的，及时的；促使，激起；提示
 

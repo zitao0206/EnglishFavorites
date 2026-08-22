@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### premise
 [ˈpremɪs]
 
-**Desp**
+**Description**
 n. a statement or idea on which reasoning is based; (premises) a building and its land.
 n. 前提，假设；（premises）房屋及周围场地
 

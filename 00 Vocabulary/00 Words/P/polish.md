@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### polish
 [ˈpɑːlɪʃ]
 
-**Desp**
+**Description**
 v. to make something shine by rubbing; to improve something.
 v. 擦亮，抛光；润色，改进 n. 上光剂；优雅
 

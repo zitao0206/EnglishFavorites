@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### flawless
 [ˈflɔːləs]
 
-**Desp**
+**Description**
 adj. without any flaws; perfect.
 完美无瑕的，无懈可击的
 

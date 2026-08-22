@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### arrogant
 [ˈærəɡənt]
 
-**Desp**
+**Description**
 adj. Behaving in a proud, superior, rude way.
 傲慢的，自大的
 

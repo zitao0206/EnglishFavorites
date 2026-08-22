@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### humble
 [ˈhʌmbl]
 
-**Desp**
+**Description**
 adj. modest; low in rank or importance.
 谦逊的；低下的，卑微的
 

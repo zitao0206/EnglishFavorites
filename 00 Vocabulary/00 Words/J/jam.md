@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### jam
 [dʒæm]
 
-**Desp**
+**Description**
 v./n. To push or pack something tightly into a space; to become stuck.
 塞；挤；卡住；堵塞
 

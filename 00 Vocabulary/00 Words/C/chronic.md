@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### chronic
 [ˈkrɑːnɪk]
 
-**Desp**
+**Description**
 adj. Lasting for a long time; (of a disease) long-lasting; habitual.
 慢性的；长期的；习惯性的
 

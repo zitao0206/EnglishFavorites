@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### diabetes
 [ˌdaɪəˈbiːtiːz]
 
-**Desp**
+**Description**
 n. a disease in which the body cannot control the level of sugar in the blood.
 糖尿病
 

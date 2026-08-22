@@ -1,12 +1,12 @@
 📅 Created: 2026-08-20
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### suppress
 [səˈpres]
 
-**Desp**
+**Description**
 v. to stop something by using force or authority; to prevent something from being shown, expressed, or known.
 镇压，压制；抑制，忍住；封锁（信息）
 

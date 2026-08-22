@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### hinder
 [ˈhɪndər]
 
-**Desp**
+**Description**
 v. To create difficulties for someone or something, resulting in delay or obstruction.
 阻碍，妨碍
 

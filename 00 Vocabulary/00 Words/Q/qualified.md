@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### qualified
 [ˈkwɒlɪfaɪd]
 
-**Desp**
+**Description**
 adj. Having the necessary skills, knowledge, or experience to do a job.
 合格的，有资格的；胜任的
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### intimate
 [ˈɪntɪmət]
 
-**Desp**
+**Description**
 adj. close and personal; private; detailed; v. to hint.
 adj. 亲密的；私密的；精通的 v. 暗示
 

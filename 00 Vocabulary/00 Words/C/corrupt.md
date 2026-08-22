@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### corrupt
 [kəˈrʌpt]
 
-**Desp**
+**Description**
 adj./v. dishonest and using power for personal gain; to make someone dishonest or immoral.
 腐败的，贪污的；使腐化
 

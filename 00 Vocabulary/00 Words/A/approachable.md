@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### approachable
 [əˈproʊtʃəbəl]
 
-**Desp**
+**Description**
 adj. friendly and easy to talk to.
 友好的，平易近人的；可接近的
 

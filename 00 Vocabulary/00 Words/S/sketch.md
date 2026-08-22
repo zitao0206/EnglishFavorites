@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### sketch
 [sketʃ]
 
-**Desp**
+**Description**
 n/v. a simple, quickly drawn picture; to draw something quickly and roughly.
 n. 素描，草图；概述；v. 画草图；简述
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### accurate
 [ˈækjərət]
 
-**Desp**
+**Description**
 adj. correct and exact; free from error.
 adj. 准确的，精确的
 

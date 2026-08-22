@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-17
 ### raze
 [reɪz]
 
-**Desp**
+**Description**
 v. to completely destroy a building or town; to demolish.
 毁坏，消除，夷为平地
 

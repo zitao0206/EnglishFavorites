@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### exceptional
 [ɪkˈsepʃənl]
 
-**Desp**
+**Description**
 adj. unusually good; outstanding.
 adj. 杰出的，非凡的；异常的
 

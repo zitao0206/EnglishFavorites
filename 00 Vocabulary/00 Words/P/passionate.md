@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### passionate
 [ˈpæʃənət]
 
-**Desp**
+**Description**
 adj. having or showing very strong feelings or enthusiasm.
 热情的，充满激情的；情欲强烈的
 

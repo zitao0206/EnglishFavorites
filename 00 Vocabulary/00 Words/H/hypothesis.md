@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### hypothesis
 [haɪˈpɑːθəsɪs]
 
-**Desp**
+**Description**
 n. A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.
 假设，假说
 【复】hypotheses

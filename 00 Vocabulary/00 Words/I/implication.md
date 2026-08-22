@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### implication
 [ˌɪmplɪˈkeɪʃn]
 
-**Desp**
+**Description**
 n. a possible effect or result of something; something implied. (imply v. 暗示，意味着)
 可能影响，后果；含义，暗示
 

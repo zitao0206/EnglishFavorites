@@ -1,12 +1,12 @@
 📅 Created: 2026-08-18
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-20
 ### deplete
 [dɪˈpliːt]
 
-**Desp**
+**Description**
 v. to use up or reduce the amount of something.
 耗尽，消耗
 

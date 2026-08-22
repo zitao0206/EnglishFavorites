@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### escalate
 [ˈeskəleɪt]
 
-**Desp**
+**Description**
 v. To become or make something become much worse or more serious; to increase.
 升级，加剧；逐步扩大
 

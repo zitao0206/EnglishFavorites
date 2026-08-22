@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### braise
 [breɪz]
 
-**Desp**
+**Description**
 v. to cook meat or vegetables slowly in a covered pot with a small amount of liquid.
 炖，焖（先煎后小火慢煮）
 

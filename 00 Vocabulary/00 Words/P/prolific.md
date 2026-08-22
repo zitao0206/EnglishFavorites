@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### prolific
 [prəˈlɪfɪk]
 
-**Desp**
+**Description**
 adj. producing many works or much output.
 adj. 多产的，创作丰富的
 

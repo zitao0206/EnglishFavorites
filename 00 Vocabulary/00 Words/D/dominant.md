@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 3
-🕒 Updated: 2026-08-22
 ### dominant
 [ˈdɒmɪnənt]
 
-**Desp**
+**Description**
 adj. more important, powerful, or noticeable than other things.
 占主导地位的；支配的；显性的（权力、影响力、控制力更强，压制其他方）
 

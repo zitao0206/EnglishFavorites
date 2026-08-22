@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P3
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### ethnic
 [ˈeθnɪk]
 
-**Desp**
+**Description**
 adj. relating to a group with a shared culture or origin.
 adj. 民族的，种族的
 

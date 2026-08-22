@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### currency
 [ˈkʌrənsi]
 
-**Desp**
+**Description**
 n. the money used in a particular country.
 货币；流通
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-17
 ### jot down
 [dʒɒt daʊn]
 
-**Desp**
+**Description**
 phr. to write something down quickly.
 随手记下，草草记录
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P1
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### baptize
 [bæpˈtaɪz]
 
-**Desp**
+**Description**
 v. to give someone a Christian name and welcome them into the church.
 v. 给…施洗礼，命名
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### cling
 [klɪŋ]
 
-**Desp**
+**Description**
 v. to hold on tightly; to stay close; to stick to.
 v. 紧紧抓住；依附；坚持
 

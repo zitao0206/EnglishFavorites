@@ -1,12 +1,12 @@
 📅 Created: 2026-08-21
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-21
 ### fast-paced
 [ˌfæst ˈpeɪst]
 
-**Desp**
+**Description**
 adj. moving or changing rapidly; full of quick action.
 快节奏的，节奏紧凑的
 

@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-21
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-21
 ### recess
 [rɪˈses]
 
-**Desp**
+**Description**
 n. a break between classes; a pause in proceedings.
 课间休息；休会期，暂停办公
 

@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### rectify
 [ˈrektɪfaɪ]
 
-**Desp**
+**Description**
 v. to correct something that is wrong.
 v. 纠正，改正
 

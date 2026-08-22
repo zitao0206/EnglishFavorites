@@ -1,12 +1,12 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-16
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-16
 ### lateness 
 [ˈleɪtnəs]
 
-**Desp**
+**Description**
 n. The state of arriving or happening after the expected or scheduled time.
 迟到，迟延（late的名词形式）
 

@@ -1,11 +1,11 @@
 📅 Created: 2026-08-16
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### be true of
 
-**Desp**
+**Description**
 
 phr. to apply to; to be valid or accurate for (someone or something).
 正是如此，也是如此；对……同样成立

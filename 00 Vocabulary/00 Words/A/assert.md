@@ -1,13 +1,13 @@
 📅 Created: 2026-08-22
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
 💾 Mastery: L2
 📌 ReviewCount: 1
-🕒 Updated: 2026-08-22
 
 ### assert
 [əˈsɜːrt]
 
-**Desp**
+**Description**
 v. to state firmly and confidently; to insist on.
 v. 断言，坚称；维护，坚持
 

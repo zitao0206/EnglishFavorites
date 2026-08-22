@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-17
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-17
 ### star power
 
-**Desp**
+**Description**
 
 phr. the influence and popularity of famous people (stars).
 明星实力，明星影响力，群星云集

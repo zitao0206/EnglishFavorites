@@ -1,11 +1,11 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L3
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### fit in
 
-**Desp**
+**Description**
 phr&v. to be accepted by a group; to feel that you belong.
 融入（群体），合得来；安排进
 

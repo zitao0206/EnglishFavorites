@@ -1,12 +1,12 @@
 📅 Created: 2026-08-17
+🕒 Updated: 2026-08-20
 ⭐ Priority: P2
 💾 Mastery: L1
 📌 ReviewCount: 2
-🕒 Updated: 2026-08-20
 ### obsession
 [əbˈseʃn]
 
-**Desp**
+**Description**
 n. an idea or feeling that occupies the mind completely.
 痴迷，执念
 
