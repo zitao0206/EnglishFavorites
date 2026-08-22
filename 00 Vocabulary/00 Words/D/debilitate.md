@@ -1,14 +1,21 @@
 📅 Created: 2026-08-17
-🕒 Updated: 2026-08-20
+🕒 Updated: 2026-08-22
 ⭐ Priority: P2
-💾 Mastery: L1
-📌 ReviewCount: 2
+💾 Mastery: L2
+📌 ReviewCount: 3
 ### debilitate
 [dɪˈbɪlɪteɪt]
 
 **Description**
 v. to make someone or something physically or mentally weak.
 使虚弱，使衰弱
+
+- debility /dɪˈbɪləti/ n. 身体虚弱、衰弱
+
+区别：
+- debilitate：使身体/精力衰弱（程度重，长期消耗） 
+- weaken：通用，使变弱（范围广） 
+ - undermine：暗中逐渐损害健康、信心
 
 **Usages**
 - a debilitating illness 使人衰弱的疾病

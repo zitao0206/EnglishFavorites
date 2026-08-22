@@ -1,8 +1,6 @@
 新建单词/短语：  
  
 
- 
-
 第一步：
 
 检索索引：/Users/lizitao/Desktop/English/EnglishFavorites/00 Vocabulary/vocabMap.md判断单词/短语是否已经存在。如果已经存在，如下：
