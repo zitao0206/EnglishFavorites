@@ -1,8 +1,8 @@
-🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
-📌 ReviewCount: 1
-💾 Mastery: L1
 ⭐ Priority: P2
+💾 Mastery: L1
+📌 ReviewCount: 1
+🕒 Updated: 2026-08-16
 ### postgraduate 
 [ˌpoʊstˈɡrædʒuət]
 

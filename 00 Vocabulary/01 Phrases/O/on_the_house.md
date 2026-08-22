@@ -1,8 +1,8 @@
-🕒 Updated: 2026-08-22
 📅 Created: 2026-08-22
-📌 ReviewCount: 1
-💾 Mastery: L3
 ⭐ Priority: P2
+💾 Mastery: L3
+📌 ReviewCount: 1
+🕒 Updated: 2026-08-22
 ### on the house
 
 **Desp**

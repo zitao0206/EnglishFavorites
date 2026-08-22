@@ -1,9 +1,9 @@
 
-🕒 Updated: 2026‑08‑16
 📅 Created: 2026‑08‑16
-📌 ReviewCount: 1
-💾 Mastery: L2
 ⭐ Priority: P2
+💾 Mastery: L2
+📌 ReviewCount: 1
+🕒 Updated: 2026‑08‑16
 ### paycheck to paycheck
 [ˈpeɪtʃek tuː ˈpeɪtʃek]
 

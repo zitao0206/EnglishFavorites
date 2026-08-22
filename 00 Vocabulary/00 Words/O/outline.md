@@ -1,8 +1,8 @@
-🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
+⭐ Priority: P3
+💾 Mastery: L3
 📌 ReviewCount: 2
-💾 Mastery: L1
-⭐ Priority: P2
+🕒 Updated: 2026-08-20
 ### outline
 [ˈaʊtlaɪn]
 

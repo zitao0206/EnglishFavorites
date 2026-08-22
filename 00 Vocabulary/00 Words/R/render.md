@@ -1,8 +1,8 @@
-🕒 Updated: 2026-08-21
 📅 Created: 2026-08-21
-📌 ReviewCount: 1
-💾 Mastery: L1
 ⭐ Priority: P2
+💾 Mastery: L2
+📌 ReviewCount: 2
+🕒 Updated: 2026-08-22
 ### render
 [ˈrendər]
 

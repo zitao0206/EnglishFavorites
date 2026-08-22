@@ -1,8 +1,8 @@
-🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 3
-💾 Mastery: L3
 ⭐ Priority: P2
+💾 Mastery: L3
+📌 ReviewCount: 3
+🕒 Updated: 2026-08-20
 ### grey area
 
 **Desp**

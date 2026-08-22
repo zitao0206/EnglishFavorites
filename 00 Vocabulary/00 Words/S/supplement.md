@@ -1,8 +1,8 @@
-🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 2
-💾 Mastery: L1
 ⭐ Priority: P2
+💾 Mastery: L1
+📌 ReviewCount: 2
+🕒 Updated: 2026-08-20
 ### supplement
 [ˈsʌplɪmənt]
 

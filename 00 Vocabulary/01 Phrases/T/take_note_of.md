@@ -1,8 +1,8 @@
-🕒 Updated: 2026-08-21
 📅 Created: 2026-08-21
-📌 ReviewCount: 1
-💾 Mastery: L4
 ⭐ Priority: P2
+💾 Mastery: L4
+📌 ReviewCount: 1
+🕒 Updated: 2026-08-21
 ### take note of
 
 **Desp**

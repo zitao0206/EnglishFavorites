@@ -1,8 +1,8 @@
-🕒 Updated: 2026-08-16
 📅 Created: 2026-08-16
-📌 ReviewCount: 2
-💾 Mastery: L3
 ⭐ Priority: P2
+💾 Mastery: L3
+📌 ReviewCount: 2
+🕒 Updated: 2026-08-16
 ### behind the scenes
 [siːn]
 

@@ -1,8 +1,8 @@
-🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
-📌 ReviewCount: 2
-💾 Mastery: L4
 ⭐ Priority: P2
+💾 Mastery: L4
+📌 ReviewCount: 2
+🕒 Updated: 2026-08-20
 ### vital
 [ˈvaɪtl]
 
