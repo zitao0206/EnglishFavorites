@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Vocabulary/vocabMap.md",
+                "file": "00 Vocabulary/00 Words/A/abide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vocabMap"
+              "title": "abide"
             }
           },
           {
@@ -350,7 +350,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supervise",
+                "query": "synthetic",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -497,6 +497,16 @@
   },
   "active": "e43a5ae2c9f71948",
   "lastOpenFiles": [
+    "00 Vocabulary/00 Words/S/synthetic.md",
+    "00 Vocabulary/00 Words/E/energize.md",
+    "00 Vocabulary/00 Words/C/commodity.md",
+    "00 Vocabulary/00 Words/C/conspire.md",
+    "00 Vocabulary/01 Phrases/B/boarding_school.md",
+    "00 Vocabulary/00 Words/W/wreck.md",
+    "00 Vocabulary/01 Phrases/O/on_the_house.md",
+    "00 Vocabulary/workBuddy.md",
+    "00 Vocabulary/vocabMap.md",
+    "01 Collection/00 日常口语.md",
     "03 Roots/-rior.md",
     "03 Roots/exp-.md",
     "03 Roots/sur-.md",
@@ -513,16 +523,6 @@
     "00 Vocabulary/01 Phrases/S/settle_down.md",
     "00 Vocabulary/01 Phrases/T/take_note_of.md",
     "00 Vocabulary/01 Phrases/A/align_with.md",
-    "00 Vocabulary/01 Phrases/D/dwell_on.md",
-    "00 Vocabulary/01 Phrases/G/get_a_grasp_of.md",
-    "00 Vocabulary/01 Phrases/S/stand_out.md",
-    "00 Vocabulary/01 Phrases/S/slip_up.md",
-    "00 Vocabulary/vocabMap.md",
-    "00 Vocabulary/00 Words/S/supervise.md",
-    "00 Vocabulary/workBuddy.md",
-    "00 Vocabulary/01 Phrases/A/at_stake.md",
-    "00 Vocabulary/00 Words/P/proficient.md",
-    "00 Vocabulary/00 Words/S/streamline.md",
     "01 Collection/WordClusters",
     "01 Collection/wordClusters",
     "wordClusters",

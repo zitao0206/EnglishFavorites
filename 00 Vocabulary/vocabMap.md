@@ -1,7 +1,12 @@
 
 **Vocabulary | 文件相对路径**
 
-Words(Count: 678):
+Words(Count: 683):
+wreck | Words/W/wreck.md
+synthetic | Words/S/synthetic.md
+energize | Words/E/energize.md
+commodity | Words/C/commodity.md
+conspire | Words/C/conspire.md
 approachable | Words/A/approachable.md
 outgoing | Words/O/outgoing.md
 interpersonal | Words/I/interpersonal.md
@@ -682,7 +687,9 @@ simultaneous | Words/S/simultaneous.md
 suspicious | Words/S/suspicious.md
 contest | Words/C/contest.md
 
-Phrases(Count: 92):
+Phrases(Count: 94):
+on_the_house | Phrases/O/on_the_house.md
+boarding_school | Phrases/B/boarding_school.md
 
 settle_down | Phrases/S/settle_down.md
 on_good_terms | Phrases/O/on_good_terms.md

@@ -1,5 +1,12 @@
 新建单词/短语：  
-
+- wreck：car wreck
+- on the house: （酒水、食物）店家免费赠送、请客，免单 
+The wine is on the house.
+- boarding school
+- conspire
+- commodity
+- energize
+- synthetic：adj. 合成的；人造的；非天然的；虚假的
 
 第一步（这一步跳过）：
 
