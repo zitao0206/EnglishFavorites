@@ -17,4 +17,4 @@ n. a speech sound produced without stopping the breath; a letter (a, e, i, o, u)
 
 **Examples**
 1. English has five vowel letters but many vowel sounds. 英语有五个元音字母但元音发音很多。
-2. The front vowel /iː/ appears in 'see'. 前元音 /iː/ 出现在 see 中。
+2. The front vowel [iː] appears in 'see'. 前元音 [iː] 出现在 see 中。

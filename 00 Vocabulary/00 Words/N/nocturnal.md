@@ -11,7 +11,7 @@ adj. active at night.
 夜间活动的
 
 **Extension**
-反义词：diurnal /daɪˈɜːnl/ 白天活动的
+反义词：diurnal [daɪˈɜːnl] 白天活动的
 
 **Usages**
 - nocturnal bird 夜行鸟类
