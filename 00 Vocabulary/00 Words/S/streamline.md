@@ -1,8 +1,8 @@
 📅 Created: 2026-08-21
 🕒 Updated: 2026-08-21
-⭐ Priority: P2
+⭐ Priority: P3
 💾 Mastery: L1
-📌 ReviewCount: 1
+📌 ReviewCount: 2
 ### streamline
 [ˈstriːmlaɪn]
 

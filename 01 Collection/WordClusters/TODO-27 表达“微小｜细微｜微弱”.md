@@ -1,7 +1,0 @@
-tiny
-
-timid
-
-subtle
-
-faint
