@@ -2,6 +2,7 @@
 📅 Created: 2026-08-16
 📌 ReviewCount: 2
 💾 Mastery: L1
+⭐ Priority: P2
 ### simultaneous
 [ˌsaɪm(ə)lˈteɪniəs]
 

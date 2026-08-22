@@ -2,6 +2,7 @@
 📅 Created: 2026-08-21
 📌 ReviewCount: 1
 💾 Mastery: L1
+⭐ Priority: P2
 ### heart-to-heart
 [ˌhɑːrt tə ˈhɑːrt]
 

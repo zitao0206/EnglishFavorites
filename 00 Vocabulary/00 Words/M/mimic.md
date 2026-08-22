@@ -1,7 +1,8 @@
 🕒 Updated: 2026-08-20
 📅 Created: 2026-08-17
 📌 ReviewCount: 2
-💾 Mastery: L1
+💾 Mastery: L2
+⭐ Priority: P2
 ### mimic
 [ˈmɪmɪk]
 

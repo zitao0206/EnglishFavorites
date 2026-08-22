@@ -35,14 +35,19 @@ eg: Neural networks are computer systems which mimic the workings of the brain.
 	L3 = 认识词义，无法主动输出
 	L4 = 熟练掌握，可主动使用
 	L5 = 精通，几乎无需复习）
-（2）要罗列对应词汇的最核心最高频的释义和固定用法；
-（3）如果有常见的反义词，或者同义词，或者其他形式可以在Extension中罗列，Examples和Usages中也要包含这些词语，如果没有，则略过此项。
-（4）单词的音标，要求是美式音标。
+（2）Priority： 单词重要度规则，如果原词汇中没有补充，默认是P2（
+	P3 = 高频刚需｜口语 & 写作常用，要求：听+说+读+写。
+	P2 = 中等重要｜无障碍阅读和熟悉，要求：听+说+读）
+	P1 = 低频小众｜不陌生，不影响阅读，要求：读）
+（3）要罗列对应词汇的最核心最高频的释义和固定用法；
+（4）如果有常见的反义词，或者同义词，或者其他形式可以在Extension中罗列，Examples和Usages中也要包含这些词语，如果没有，则略过此项。
+（5）单词的音标，要求是美式音标。
 
 🕒 Updated: 2026‑08‑15 
 📅 Created: 2026‑08‑15 
 📌 ReviewCount: 1
 💾 Mastery: L3
+⭐ Priority: P2
 
 ### lateness 
 [ˈleɪtnəs]
@@ -69,6 +74,7 @@ n. the state of arriving or happening after the expected or scheduled time.
 📅 Created: 2026‑08‑15 
 📌 ReviewCount: 1
 💾 Mastery: L1
+⭐ Priority: P3
 
 ### sketch
 [sketʃ]
@@ -94,6 +100,7 @@ n. 素描，草图；概述；v. 画草图；简述
 📅 Created: 2026‑08‑15 
 📌 ReviewCount: 1
 💾 Mastery: L4
+⭐ Priority: P3
 ### look down upon
 
 **Desp**

@@ -2,6 +2,7 @@
 📅 Created: 2026-08-17
 📌 ReviewCount: 1
 💾 Mastery: L1
+⭐ Priority: P2
 ### resilience
 [rɪˈzɪliəns]
 

@@ -2,6 +2,7 @@
 📅 Created: 2026-08-19
 📌 ReviewCount: 2
 💾 Mastery: L1
+⭐ Priority: P2
 ### literally
 [ˈlɪtərəli]
 

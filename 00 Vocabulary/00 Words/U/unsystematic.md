@@ -2,6 +2,7 @@
 📅 Created: 2026-08-18
 📌 ReviewCount: 2
 💾 Mastery: L2
+⭐ Priority: P2
 ### unsystematic
 [ˌʌnsɪstəˈmætɪk]
 

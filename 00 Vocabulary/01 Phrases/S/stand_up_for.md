@@ -2,6 +2,7 @@
 📅 Created: 2026-08-17
 📌 ReviewCount: 2
 💾 Mastery: L3
+⭐ Priority: P2
 ### stand up for
 
 **Desp**

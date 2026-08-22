@@ -2,6 +2,7 @@
 📅 Created: 2026-08-18
 📌 ReviewCount: 3
 💾 Mastery: L1
+⭐ Priority: P2
 ### deplete
 [dɪˈpliːt]
 
